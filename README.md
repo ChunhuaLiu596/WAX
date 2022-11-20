@@ -62,21 +62,6 @@ The relation classification folder contains the code for the the task of relatio
 The explanation generation folder contains the code for the task of generating explanations.
 
 #### BART 
-
-
-
-We present an analysis of the provided explanations, and design several tasks to probe to what extent current pre-trained language models capture the underlying relations.
-
- Our experiments show that models struggle to capture the {diversity} of human  associations, suggesting \wax is a rich benchmark for commonsense modeling and generation.
-
-Answering this question would not only advance understanding of human cognition, but could also aid machines in learning and representing basic commonsense knowledge.
-
-WAX is a new dataset collected for better human understanding.
-
-It contains 1.9K human self-explanations expressed in natural language sentences. A subset of them are labelled with high-level relation labels.
-
-WAX is challenging because it
-
 # Misc
 
 ## Citations
