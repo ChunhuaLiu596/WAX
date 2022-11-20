@@ -1,0 +1,21 @@
+2022-05-09 11:45:45.730418: W tensorflow/stream_executor/platform/default/dso_loader.cc:60] Could not load dynamic library 'libcudart.so.11.0'; dlerror: libcudart.so.11.0: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /usr/local/slurm/latest/lib
+2022-05-09 11:45:45.730929: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
+Some weights of the model checkpoint at bert-large-uncased were not used when initializing BertForMaskedLM: ['cls.seq_relationship.weight', 'cls.seq_relationship.bias']
+- This IS expected if you are initializing BertForMaskedLM from the checkpoint of a model trained on another task or with another architecture (e.g. initializing a BertForSequenceClassification model from a BertForPreTraining model).
+- This IS NOT expected if you are initializing BertForMaskedLM from the checkpoint of a model that you expect to be exactly identical (initializing a BertForSequenceClassification model from a BertForSequenceClassification model).
+device: cuda
+using model: bert-large-uncased
+Acc: 0.035256410256410256
+save bert_prediction.xlsx
+0        Exemplar
+1         Synonym
+2        Exemplar
+3        Exemplar
+4      Coordinate
+          ...    
+307      Exemplar
+308       Antonym
+309      Exemplar
+310       Antonym
+311      Temporal
+Name: relation_pred, Length: 312, dtype: object

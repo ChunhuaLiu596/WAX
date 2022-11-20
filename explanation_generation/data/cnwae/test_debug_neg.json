@@ -1,0 +1,1282 @@
+[
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "synonym",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "synonym",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "antonym",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "antonym",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "action",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "action",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "common-phrase",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "common-phrase",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "function",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "function",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "hasproperty",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "hasproperty",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "result-in",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "result-in",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "thematic",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "thematic",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "location",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "location",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "category-exemplar-pairs",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 0
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "category-exemplar-pairs",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "partof",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "partof",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "has-prerequisite",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "has-prerequisite",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "time",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "time",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "members-of-the-same-category",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "members-of-the-same-category",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "material-madeof",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "material-madeof",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "chris",
+            "remembered",
+            "learning",
+            "all",
+            "about",
+            "angles",
+            ",",
+            "including",
+            "triangles",
+            ",",
+            "in",
+            "high",
+            "school",
+            "math",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "emotion-evaluation",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 0,
+        "gold_rel": "Category-Exemplar-Pairs",
+        "prompt_rel": "emotion-evaluation",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "synonym",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "synonym",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "antonym",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "antonym",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "action",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "action",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "common-phrase",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "common-phrase",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "function",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "function",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "hasproperty",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "hasproperty",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "result-in",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "result-in",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "thematic",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "thematic",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "location",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "location",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "category-exemplar-pairs",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "category-exemplar-pairs",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "partof",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 0
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "partof",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "has-prerequisite",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "has-prerequisite",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "time",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "time",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "members-of-the-same-category",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "members-of-the-same-category",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "material-madeof",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "material-madeof",
+        "subj": "angles",
+        "obj": "triangles"
+    },
+    {
+        "tokens": [
+            "triangles",
+            "have",
+            "different",
+            "kinds",
+            "of",
+            "angles",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "emotion-evaluation",
+                "head": 0,
+                "tail": 1,
+                "negative_example": 1
+            }
+        ],
+        "orig_id": 1,
+        "gold_rel": "PartOf",
+        "prompt_rel": "emotion-evaluation",
+        "subj": "angles",
+        "obj": "triangles"
+    }
+]
