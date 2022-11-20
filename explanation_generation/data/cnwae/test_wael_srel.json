@@ -1,0 +1,6119 @@
+[
+    {
+        "tokens": [
+            "the",
+            "baked",
+            "goods",
+            "just",
+            "came",
+            "out",
+            "of",
+            "the",
+            "oven",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 0
+    },
+    {
+        "tokens": [
+            "baked",
+            "goods",
+            "are",
+            "a",
+            "treat",
+            "that",
+            "is",
+            "often",
+            "full",
+            "of",
+            "sugar",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 1
+    },
+    {
+        "tokens": [
+            "the",
+            "baked",
+            "goods",
+            "smelled",
+            "amazing",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 2
+    },
+    {
+        "tokens": [
+            "when",
+            "someone",
+            "is",
+            "believable",
+            ",",
+            "he",
+            "/",
+            "she",
+            "can",
+            "be",
+            "trustworthy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 3
+    },
+    {
+        "tokens": [
+            "for",
+            "someone",
+            "to",
+            "be",
+            "believable",
+            ",",
+            "they",
+            "must",
+            "be",
+            "trustworthy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 4
+    },
+    {
+        "tokens": [
+            "if",
+            "someone",
+            "is",
+            "believable",
+            "they",
+            "are",
+            "trustworthy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 5
+    },
+    {
+        "tokens": [
+            "she",
+            "was",
+            "bright",
+            ",",
+            "the",
+            "smartest",
+            "one",
+            "in",
+            "her",
+            "class",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 6
+    },
+    {
+        "tokens": [
+            "someone",
+            "who",
+            "is",
+            "bright",
+            "could",
+            "also",
+            "be",
+            "called",
+            "smart",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 7
+    },
+    {
+        "tokens": [
+            "when",
+            "a",
+            "child",
+            "is",
+            "very",
+            "smart",
+            ",",
+            "they",
+            "are",
+            "considered",
+            "very",
+            "bright",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 11,
+                "end": 12
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 8
+    },
+    {
+        "tokens": [
+            "my",
+            "career",
+            "allows",
+            "me",
+            "to",
+            "earn",
+            "money",
+            "to",
+            "pay",
+            "for",
+            "life",
+            "'s",
+            "essentials",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 9
+    },
+    {
+        "tokens": [
+            "people",
+            "earn",
+            "money",
+            "through",
+            "their",
+            "career",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 10
+    },
+    {
+        "tokens": [
+            "when",
+            "you",
+            "have",
+            "a",
+            "career",
+            "it",
+            "is",
+            "to",
+            "earn",
+            "money"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 11
+    },
+    {
+        "tokens": [
+            "a",
+            "catcher",
+            "usually",
+            "catches",
+            "a",
+            "ball"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 12
+    },
+    {
+        "tokens": [
+            "the",
+            "catcher",
+            "threw",
+            "the",
+            "ball",
+            "back",
+            "to",
+            "the",
+            "pitcher",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 13
+    },
+    {
+        "tokens": [
+            "the",
+            "catcher",
+            "threw",
+            "the",
+            "ball",
+            "back",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 14
+    },
+    {
+        "tokens": [
+            "the",
+            "crowd",
+            "at",
+            "the",
+            "game",
+            "was",
+            "chanting",
+            "after",
+            "the",
+            "winning",
+            "touchdown",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 15
+    },
+    {
+        "tokens": [
+            "the",
+            "crowd",
+            "was",
+            "chanting",
+            "for",
+            "the",
+            "home",
+            "team"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 16
+    },
+    {
+        "tokens": [
+            "the",
+            "crowd",
+            "was",
+            "chanting",
+            "the",
+            "players",
+            "name",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 17
+    },
+    {
+        "tokens": [
+            "if",
+            "your",
+            "house",
+            "is",
+            "clean",
+            "you",
+            "may",
+            "be",
+            "a",
+            "neat",
+            "person",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 18
+    },
+    {
+        "tokens": [
+            "jet",
+            "is",
+            "a",
+            "neat",
+            "child",
+            ",",
+            "his",
+            "clothes",
+            "are",
+            "always",
+            "clean",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 10,
+                "end": 11
+            },
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 19
+    },
+    {
+        "tokens": [
+            "the",
+            "space",
+            "is",
+            "clean",
+            "and",
+            "neat",
+            "enough",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 20
+    },
+    {
+        "tokens": [
+            "people",
+            "clench",
+            "their",
+            "fists",
+            "when",
+            "they",
+            "get",
+            "upset",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 21
+    },
+    {
+        "tokens": [
+            "when",
+            "a",
+            "person",
+            "makes",
+            "a",
+            "fist",
+            "they",
+            "clench",
+            "their",
+            "fingers",
+            "into",
+            "a",
+            "ball",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 22
+    },
+    {
+        "tokens": [
+            "a",
+            "clock",
+            "can",
+            "tell",
+            "you",
+            "time"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 23
+    },
+    {
+        "tokens": [
+            "clocks",
+            "are",
+            "used",
+            "to",
+            "tell",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 24
+    },
+    {
+        "tokens": [
+            "clocks",
+            "tell",
+            "you",
+            "what",
+            "time",
+            "it",
+            "is",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 25
+    },
+    {
+        "tokens": [
+            "i",
+            "watch",
+            "the",
+            "time",
+            "on",
+            "the",
+            "clock"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 26
+    },
+    {
+        "tokens": [
+            "the",
+            "clock",
+            "indicated",
+            "it",
+            "was",
+            "time",
+            "to",
+            "go",
+            "to",
+            "sleep",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 27
+    },
+    {
+        "tokens": [
+            "the",
+            "clock",
+            "tells",
+            "the",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 28
+    },
+    {
+        "tokens": [
+            "the",
+            "clock",
+            "told",
+            "the",
+            "wrong",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 29
+    },
+    {
+        "tokens": [
+            "we",
+            "use",
+            "clock",
+            "to",
+            "keep",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 30
+    },
+    {
+        "tokens": [
+            "a",
+            "comrade",
+            "can",
+            "also",
+            "be",
+            "considered",
+            "your",
+            "friend",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 31
+    },
+    {
+        "tokens": [
+            "he",
+            "is",
+            "my",
+            "closest",
+            "comrade",
+            ",",
+            "my",
+            "friend",
+            "i",
+            "'ve",
+            "known",
+            "the",
+            "longest",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 32
+    },
+    {
+        "tokens": [
+            "i",
+            "sometimes",
+            "call",
+            "my",
+            "friend",
+            "my",
+            "comrade",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 33
+    },
+    {
+        "tokens": [
+            "if",
+            "someone",
+            "is",
+            "your",
+            "comrade",
+            ",",
+            "then",
+            "they",
+            "are",
+            "your",
+            "friend"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 34
+    },
+    {
+        "tokens": [
+            "if",
+            "someone",
+            "is",
+            "your",
+            "comrade",
+            ",",
+            "then",
+            "they",
+            "are",
+            "your",
+            "friend",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 35
+    },
+    {
+        "tokens": [
+            "judges",
+            "preside",
+            "over",
+            "what",
+            "happens",
+            "in",
+            "a",
+            "court",
+            "room",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 36
+    },
+    {
+        "tokens": [
+            "in",
+            "every",
+            "court",
+            ",",
+            "you",
+            "can",
+            "find",
+            "a",
+            "judge",
+            "making",
+            "a",
+            "decision",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 37
+    },
+    {
+        "tokens": [
+            "a",
+            "judge",
+            "presides",
+            "over",
+            "the",
+            "court",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 38
+    },
+    {
+        "tokens": [
+            "the",
+            "judge",
+            "presided",
+            "over",
+            "the",
+            "court",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 39
+    },
+    {
+        "tokens": [
+            "curvy",
+            "is",
+            "a",
+            "way",
+            "to",
+            "describe",
+            "a",
+            "shape",
+            "of",
+            "a",
+            "person"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 40
+    },
+    {
+        "tokens": [
+            "the",
+            "lady",
+            "has",
+            "a",
+            "curvy",
+            "shape"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 41
+    },
+    {
+        "tokens": [
+            "the",
+            "shape",
+            "looks",
+            "so",
+            "curvy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 42
+    },
+    {
+        "tokens": [
+            "the",
+            "woman",
+            "had",
+            "a",
+            "very",
+            "curvy",
+            "shape"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 43
+    },
+    {
+        "tokens": [
+            "darkness",
+            "is",
+            "the",
+            "opposite",
+            "of",
+            "light",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Antonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 44
+    },
+    {
+        "tokens": [
+            "light",
+            "is",
+            "the",
+            "opposite",
+            "to",
+            "darkness",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Antonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 45
+    },
+    {
+        "tokens": [
+            "the",
+            "darkness",
+            "of",
+            "have",
+            "without",
+            "light",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Antonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 46
+    },
+    {
+        "tokens": [
+            "tornadoes",
+            "are",
+            "a",
+            "common",
+            "type",
+            "of",
+            "natural",
+            "disaster",
+            "in",
+            "my",
+            "area",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 47
+    },
+    {
+        "tokens": [
+            "hurricanes",
+            "are",
+            "a",
+            "natural",
+            "disaster",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 48
+    },
+    {
+        "tokens": [
+            "natural",
+            "calamities",
+            "are",
+            "also",
+            "called",
+            "natural",
+            "disasters"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "ADJ",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 49
+    },
+    {
+        "tokens": [
+            "the",
+            "natural",
+            "disaster",
+            "tore",
+            "apart",
+            "the",
+            "neighborhood"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 50
+    },
+    {
+        "tokens": [
+            "the",
+            "natural",
+            "disaster",
+            "was",
+            "unforeseen",
+            "by",
+            "the",
+            "experts",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 51
+    },
+    {
+        "tokens": [
+            "when",
+            "a",
+            "person",
+            "is",
+            "domestic",
+            ",",
+            "they",
+            "like",
+            "to",
+            "stay",
+            "around",
+            "home",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 11,
+                "end": 12
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 52
+    },
+    {
+        "tokens": [
+            "if",
+            "someone",
+            "spends",
+            "most",
+            "of",
+            "their",
+            "time",
+            "at",
+            "home",
+            "taking",
+            "care",
+            "of",
+            "their",
+            "family",
+            ",",
+            "they",
+            "are",
+            "considered",
+            "domestic",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 18,
+                "end": 19
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 53
+    },
+    {
+        "tokens": [
+            "running",
+            "your",
+            "home",
+            "well",
+            "is",
+            "being",
+            "domestic",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 54
+    },
+    {
+        "tokens": [
+            "i",
+            "could",
+            "n't",
+            "wait",
+            "to",
+            "turn",
+            "16",
+            "so",
+            "i",
+            "could",
+            "drive",
+            "a",
+            "car",
+            "alone",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 10,
+                "end": 11
+            },
+            {
+                "type": "NOUN",
+                "start": 12,
+                "end": 13
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 55
+    },
+    {
+        "tokens": [
+            "the",
+            "girl",
+            "drove",
+            "the",
+            "car",
+            "down",
+            "the",
+            "block"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 56
+    },
+    {
+        "tokens": [
+            "he",
+            "drove",
+            "the",
+            "car",
+            "off",
+            "the",
+            "side",
+            "of",
+            "the",
+            "cliff",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 57
+    },
+    {
+        "tokens": [
+            "i",
+            "drove",
+            "my",
+            "car",
+            "today",
+            "to",
+            "the",
+            "store",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 58
+    },
+    {
+        "tokens": [
+            "the",
+            "car",
+            "drove",
+            "really",
+            "fast",
+            "on",
+            "the",
+            "freeway",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 59
+    },
+    {
+        "tokens": [
+            "an",
+            "elevated",
+            "mountain",
+            "is",
+            "a",
+            "high",
+            "place",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 60
+    },
+    {
+        "tokens": [
+            "if",
+            "something",
+            "is",
+            "elevated",
+            ",",
+            "it",
+            "is",
+            "up",
+            "high",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 61
+    },
+    {
+        "tokens": [
+            "the",
+            "elevated",
+            "floor",
+            "was",
+            "6",
+            "inches",
+            "high",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 62
+    },
+    {
+        "tokens": [
+            "he",
+            "was",
+            "n't",
+            "my",
+            "dad",
+            ",",
+            "but",
+            "he",
+            "was",
+            "a",
+            "fatherly",
+            "figure",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 10,
+                "end": 11
+            },
+            {
+                "type": "NOUN",
+                "start": 11,
+                "end": 12
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 63
+    },
+    {
+        "tokens": [
+            "my",
+            "life",
+            "would",
+            "benefit",
+            "greatly",
+            "from",
+            "the",
+            "influence",
+            "of",
+            "a",
+            "healthy",
+            "fatherly",
+            "figure"
+        ],
+        "entities": [
+            {
+                "type": "ADV",
+                "start": 11,
+                "end": 12
+            },
+            {
+                "type": "NOUN",
+                "start": 12,
+                "end": 13
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 64
+    },
+    {
+        "tokens": [
+            "the",
+            "boy",
+            "saw",
+            "his",
+            "uncle",
+            "as",
+            "a",
+            "fatherly",
+            "figure"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 65
+    },
+    {
+        "tokens": [
+            "i",
+            "favor",
+            "apples",
+            "over",
+            "oranges",
+            ",",
+            "which",
+            "means",
+            "i",
+            "prefer",
+            "apples",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "VERB",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 66
+    },
+    {
+        "tokens": [
+            "i",
+            "prefer",
+            "hiking",
+            "over",
+            "playing",
+            "video",
+            "games",
+            "because",
+            "i",
+            "favor",
+            "the",
+            "outdoors",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 9,
+                "end": 10
+            },
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 67
+    },
+    {
+        "tokens": [
+            "if",
+            "you",
+            "favor",
+            "something",
+            "you",
+            "prefer",
+            "it",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "VERB",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 68
+    },
+    {
+        "tokens": [
+            "to",
+            "favor",
+            "pizza",
+            "usually",
+            "means",
+            "you",
+            "prefer",
+            "pizza",
+            "over",
+            "the",
+            "other",
+            "meal",
+            "choices",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "VERB",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 69
+    },
+    {
+        "tokens": [
+            "the",
+            "water",
+            "is",
+            "flowing",
+            "down",
+            "the",
+            "gutter",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 70
+    },
+    {
+        "tokens": [
+            "water",
+            "flows",
+            "when",
+            "you",
+            "turn",
+            "on",
+            "the",
+            "faucet",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 71
+    },
+    {
+        "tokens": [
+            "water",
+            "is",
+            "often",
+            "seen",
+            "flowing",
+            "through",
+            "hills",
+            "and",
+            "valleys",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 72
+    },
+    {
+        "tokens": [
+            "everyone",
+            "needs",
+            "to",
+            "have",
+            "a",
+            "best",
+            "friend"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 73
+    },
+    {
+        "tokens": [
+            "i",
+            "have",
+            "one",
+            "best",
+            "friend",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 74
+    },
+    {
+        "tokens": [
+            "my",
+            "dog",
+            "is",
+            "my",
+            "best",
+            "friend",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 75
+    },
+    {
+        "tokens": [
+            "the",
+            "girl",
+            "hung",
+            "out",
+            "with",
+            "her",
+            "best",
+            "friend",
+            "daily"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 76
+    },
+    {
+        "tokens": [
+            "another",
+            "job",
+            "of",
+            "the",
+            "goalie",
+            "is",
+            "to",
+            "save",
+            "the",
+            "shots",
+            "on",
+            "the",
+            "goal"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 77
+    },
+    {
+        "tokens": [
+            "the",
+            "goalie",
+            "had",
+            "a",
+            "great",
+            "night",
+            ",",
+            "making",
+            "a",
+            "save",
+            "on",
+            "all",
+            "but",
+            "one",
+            "of",
+            "the",
+            "shots",
+            "he",
+            "faced",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 78
+    },
+    {
+        "tokens": [
+            "the",
+            "goalie",
+            "reached",
+            "his",
+            "glove",
+            "out",
+            "and",
+            "made",
+            "a",
+            "big",
+            "save"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 79
+    },
+    {
+        "tokens": [
+            "i",
+            "use",
+            "a",
+            "grater",
+            "to",
+            "grate",
+            "cheese",
+            "for",
+            "my",
+            "meal",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 80
+    },
+    {
+        "tokens": [
+            "sometimes",
+            "you",
+            "need",
+            "to",
+            "use",
+            "a",
+            "grater",
+            "to",
+            "grate",
+            "cheese"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 81
+    },
+    {
+        "tokens": [
+            "a",
+            "grater",
+            "is",
+            "great",
+            "to",
+            "make",
+            "shredded",
+            "cheese",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 82
+    },
+    {
+        "tokens": [
+            "he",
+            "shredded",
+            "the",
+            "cheese",
+            "with",
+            "the",
+            "grater",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Function",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 83
+    },
+    {
+        "tokens": [
+            "he",
+            "was",
+            "proud",
+            "of",
+            "his",
+            "lawn",
+            ";",
+            "the",
+            "green",
+            "grass",
+            "looked",
+            "perfect",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 84
+    },
+    {
+        "tokens": [
+            "grass",
+            "is",
+            "sometimes",
+            "green",
+            "colored",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 85
+    },
+    {
+        "tokens": [
+            "see",
+            "how",
+            "all",
+            "the",
+            "grasses",
+            "in",
+            "her",
+            "garden",
+            "are",
+            "green",
+            "and",
+            "beautiful",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 9,
+                "end": 10
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 86
+    },
+    {
+        "tokens": [
+            "the",
+            "grass",
+            "in",
+            "my",
+            "yard",
+            "was",
+            "especially",
+            "green",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 87
+    },
+    {
+        "tokens": [
+            "an",
+            "empty",
+            "stomach",
+            "can",
+            "make",
+            "you",
+            "ferl",
+            "hungry"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Result-In",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 88
+    },
+    {
+        "tokens": [
+            "an",
+            "empty",
+            "stomach",
+            "leads",
+            "to",
+            "being",
+            "hungry",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Result-In",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 89
+    },
+    {
+        "tokens": [
+            "my",
+            "stomach",
+            "is",
+            "growling",
+            "because",
+            "i",
+            "'m",
+            "hungry",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Result-In",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 90
+    },
+    {
+        "tokens": [
+            "he",
+            "looked",
+            "idiotic",
+            "and",
+            "stupid",
+            "pulling",
+            "that",
+            "prank",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 91
+    },
+    {
+        "tokens": [
+            "if",
+            "someone",
+            "is",
+            "idiotic",
+            "then",
+            "they",
+            "are",
+            "stupid",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 92
+    },
+    {
+        "tokens": [
+            "if",
+            "something",
+            "is",
+            "called",
+            "idiotic",
+            ",",
+            "it",
+            "can",
+            "also",
+            "be",
+            "called",
+            "stupid",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 11,
+                "end": 12
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 93
+    },
+    {
+        "tokens": [
+            "you",
+            "come",
+            "across",
+            "as",
+            "stupid",
+            "when",
+            "you",
+            "say",
+            "idiotic",
+            "things",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 94
+    },
+    {
+        "tokens": [
+            "autumn",
+            "is",
+            "the",
+            "time",
+            "of",
+            "year",
+            "when",
+            "leaves",
+            "fall",
+            "from",
+            "the",
+            "trees",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Time",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 95
+    },
+    {
+        "tokens": [
+            "part",
+            "of",
+            "what",
+            "makes",
+            "autumn",
+            "my",
+            "favorite",
+            "season",
+            "is",
+            "getting",
+            "to",
+            "view",
+            "the",
+            "beautiful",
+            "leaves",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 14,
+                "end": 15
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Time",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 96
+    },
+    {
+        "tokens": [
+            "the",
+            "leaves",
+            "started",
+            "to",
+            "fall",
+            "in",
+            "autumn"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Time",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 97
+    },
+    {
+        "tokens": [
+            "the",
+            "lieutenant",
+            "had",
+            "served",
+            "in",
+            "the",
+            "army",
+            "for",
+            "ten",
+            "years"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 98
+    },
+    {
+        "tokens": [
+            "the",
+            "lieutenant",
+            "in",
+            "the",
+            "army",
+            "made",
+            "a",
+            "risky",
+            "decision"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 99
+    },
+    {
+        "tokens": [
+            "the",
+            "lieutenant",
+            "was",
+            "enlisted",
+            "in",
+            "the",
+            "army",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 100
+    },
+    {
+        "tokens": [
+            "even",
+            "if",
+            "you",
+            "are",
+            "lonely",
+            ",",
+            "you",
+            "do",
+            "not",
+            "need",
+            "to",
+            "be",
+            "alone",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "ADJ",
+                "start": 12,
+                "end": 13
+            }
+        ],
+        "relations": [
+            {
+                "type": "Emotion-Evaluation",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 101
+    },
+    {
+        "tokens": [
+            "the",
+            "god",
+            "looked",
+            "lonely",
+            "as",
+            "she",
+            "was",
+            "all",
+            "alone",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "ADJ",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Emotion-Evaluation",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 102
+    },
+    {
+        "tokens": [
+            "when",
+            "you",
+            "are",
+            "alone",
+            "you",
+            "can",
+            "become",
+            "lonely",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Emotion-Evaluation",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 103
+    },
+    {
+        "tokens": [
+            "god",
+            "is",
+            "the",
+            "lord",
+            "of",
+            "the",
+            "universe",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "INTJ",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 104
+    },
+    {
+        "tokens": [
+            "lord",
+            "is",
+            "used",
+            "to",
+            "refer",
+            "to",
+            "god",
+            "in",
+            "prayer",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 105
+    },
+    {
+        "tokens": [
+            "the",
+            "lord",
+            "is",
+            "seen",
+            "as",
+            "the",
+            "father",
+            ",",
+            "the",
+            "son",
+            ",",
+            "and",
+            "the",
+            "only",
+            "spirit",
+            ",",
+            "which",
+            "means",
+            "god",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "INTJ",
+                "start": 18,
+                "end": 19
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 106
+    },
+    {
+        "tokens": [
+            "chocolate",
+            "must",
+            "be",
+            "melted",
+            "to",
+            "make",
+            "candy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 107
+    },
+    {
+        "tokens": [
+            "to",
+            "make",
+            "candy",
+            ",",
+            "the",
+            "chocolate",
+            "must",
+            "be",
+            "melted",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 108
+    },
+    {
+        "tokens": [
+            "i",
+            "melted",
+            "the",
+            "chocolate",
+            "to",
+            "make",
+            "candy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 109
+    },
+    {
+        "tokens": [
+            "our",
+            "military",
+            "has",
+            "a",
+            "large",
+            "army",
+            "branch",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 110
+    },
+    {
+        "tokens": [
+            "a",
+            "large",
+            "branch",
+            "of",
+            "the",
+            "military",
+            "is",
+            "the",
+            "army"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 111
+    },
+    {
+        "tokens": [
+            "the",
+            "military",
+            "has",
+            "a",
+            "vast",
+            "army",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 112
+    },
+    {
+        "tokens": [
+            "the",
+            "us",
+            "army",
+            "is",
+            "one",
+            "branch",
+            "of",
+            "our",
+            "military",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 113
+    },
+    {
+        "tokens": [
+            "my",
+            "father",
+            "saw",
+            "the",
+            "millions",
+            "of",
+            "money",
+            "in",
+            "his",
+            "life",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 114
+    },
+    {
+        "tokens": [
+            "some",
+            "who",
+            "has",
+            "millions",
+            "of",
+            "dollars",
+            "has",
+            "a",
+            "ton",
+            "of",
+            "money",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 115
+    },
+    {
+        "tokens": [
+            "the",
+            "money",
+            "stolen",
+            "read",
+            "millions",
+            "of",
+            "notes",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 116
+    },
+    {
+        "tokens": [
+            "if",
+            "something",
+            "is",
+            "necessary",
+            ",",
+            "you",
+            "most",
+            "likely",
+            "need",
+            "it",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "VERB",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 117
+    },
+    {
+        "tokens": [
+            "something",
+            "you",
+            "needed",
+            "is",
+            "a",
+            "necessary",
+            "thing"
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 118
+    },
+    {
+        "tokens": [
+            "water",
+            "is",
+            "a",
+            "necessary",
+            "supply",
+            "that",
+            "is",
+            "needed",
+            "for",
+            "our",
+            "survival",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 119
+    },
+    {
+        "tokens": [
+            "the",
+            "pharmacy",
+            "did",
+            "n't",
+            "really",
+            "hand",
+            "out",
+            "drugs",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 120
+    },
+    {
+        "tokens": [
+            "there",
+            "are",
+            "many",
+            "drugs",
+            "in",
+            "a",
+            "pharmacy",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 121
+    },
+    {
+        "tokens": [
+            "you",
+            "can",
+            "buy",
+            "drugs",
+            "at",
+            "a",
+            "pharmacy"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 122
+    },
+    {
+        "tokens": [
+            "if",
+            "you",
+            "are",
+            "making",
+            "a",
+            "plea",
+            "you",
+            "are",
+            "begging"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "VERB",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 123
+    },
+    {
+        "tokens": [
+            "when",
+            "you",
+            "make",
+            "a",
+            "plea",
+            "for",
+            "something",
+            ",",
+            "you",
+            "beg",
+            "for",
+            "it",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "VERB",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 124
+    },
+    {
+        "tokens": [
+            "i",
+            "do",
+            "not",
+            "forget",
+            "to",
+            "keep",
+            "my",
+            "wallet",
+            "in",
+            "my",
+            "pocket",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 125
+    },
+    {
+        "tokens": [
+            "i",
+            "put",
+            "my",
+            "wallet",
+            "in",
+            "my",
+            "pocket",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 126
+    },
+    {
+        "tokens": [
+            "many",
+            "men",
+            "put",
+            "their",
+            "wallets",
+            "in",
+            "their",
+            "back",
+            "pockets",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 127
+    },
+    {
+        "tokens": [
+            "the",
+            "man",
+            "panicked",
+            "when",
+            "he",
+            "could",
+            "n't",
+            "find",
+            "his",
+            "wallet",
+            "in",
+            "his",
+            "pocket"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 12,
+                "end": 13
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 128
+    },
+    {
+        "tokens": [
+            "church",
+            "is",
+            "the",
+            "place",
+            "where",
+            "most",
+            "people",
+            "pray"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 129
+    },
+    {
+        "tokens": [
+            "many",
+            "people",
+            "close",
+            "their",
+            "eyes",
+            "to",
+            "pray",
+            "at",
+            "church",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 130
+    },
+    {
+        "tokens": [
+            "when",
+            "people",
+            "go",
+            "to",
+            "church",
+            ",",
+            "they",
+            "tend",
+            "to",
+            "pray"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 9,
+                "end": 10
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Location",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 131
+    },
+    {
+        "tokens": [
+            "printers",
+            "often",
+            "need",
+            "to",
+            "have",
+            "the",
+            "ink",
+            "replaced",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 132
+    },
+    {
+        "tokens": [
+            "the",
+            "printer",
+            "ran",
+            "out",
+            "of",
+            "ink",
+            "already",
+            "!",
+            "?"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 133
+    },
+    {
+        "tokens": [
+            "the",
+            "printer",
+            "ran",
+            "out",
+            "of",
+            "ink",
+            "and",
+            "could",
+            "n't",
+            "function"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 134
+    },
+    {
+        "tokens": [
+            "the",
+            "printer",
+            ",",
+            "as",
+            "usual",
+            ",",
+            "was",
+            "low",
+            "on",
+            "ink",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "PartOf",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 135
+    },
+    {
+        "tokens": [
+            "i",
+            "intend",
+            "to",
+            "keep",
+            "any",
+            "promise",
+            "i",
+            "make",
+            "to",
+            "anyone",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 136
+    },
+    {
+        "tokens": [
+            "i",
+            "keep",
+            "most",
+            "promises",
+            "i",
+            "make",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 137
+    },
+    {
+        "tokens": [
+            "i",
+            "promise",
+            "i",
+            "will",
+            "keep",
+            "my",
+            "children",
+            "safe",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "VERB",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 138
+    },
+    {
+        "tokens": [
+            "he",
+            "needs",
+            "his",
+            "reading",
+            "glasses",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 139
+    },
+    {
+        "tokens": [
+            "my",
+            "father",
+            "needs",
+            "reading",
+            "glasses",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 140
+    },
+    {
+        "tokens": [
+            "the",
+            "old",
+            "man",
+            "had",
+            "to",
+            "use",
+            "reading",
+            "glasses",
+            "as",
+            "it",
+            "was",
+            "difficult",
+            "to",
+            "see",
+            "up",
+            "close"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 141
+    },
+    {
+        "tokens": [
+            "at",
+            "the",
+            "track",
+            ",",
+            "athletes",
+            "can",
+            "be",
+            "seen",
+            "running",
+            "in",
+            "a",
+            "race",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 11,
+                "end": 12
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 142
+    },
+    {
+        "tokens": [
+            "people",
+            "that",
+            "race",
+            "each",
+            "other",
+            "are",
+            "normally",
+            "running",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            },
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 143
+    },
+    {
+        "tokens": [
+            "i",
+            "wish",
+            "i",
+            "was",
+            "paid",
+            "enough",
+            "to",
+            "be",
+            "saving",
+            "money",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 8,
+                "end": 9
+            },
+            {
+                "type": "NOUN",
+                "start": 9,
+                "end": 10
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 144
+    },
+    {
+        "tokens": [
+            "the",
+            "family",
+            "was",
+            "saving",
+            "money",
+            "by",
+            "not",
+            "eating",
+            "out"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 145
+    },
+    {
+        "tokens": [
+            "i",
+            "am",
+            "saving",
+            "enough",
+            "money",
+            "to",
+            "buy",
+            "a",
+            "new",
+            "car",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 146
+    },
+    {
+        "tokens": [
+            "i",
+            "am",
+            "trying",
+            "to",
+            "save",
+            "money",
+            "for",
+            "a",
+            "vacation",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 147
+    },
+    {
+        "tokens": [
+            "saving",
+            "money",
+            "is",
+            "essential",
+            "for",
+            "life",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 148
+    },
+    {
+        "tokens": [
+            "singular",
+            "means",
+            "there",
+            "is",
+            "only",
+            "one"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NUM",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 149
+    },
+    {
+        "tokens": [
+            "singular",
+            "means",
+            "there",
+            "is",
+            "only",
+            "one",
+            "of",
+            "something",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NUM",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 150
+    },
+    {
+        "tokens": [
+            "when",
+            "you",
+            "have",
+            "a",
+            "singular",
+            "object",
+            ",",
+            "you",
+            "only",
+            "have",
+            "one",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NUM",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 151
+    },
+    {
+        "tokens": [
+            "the",
+            "smell",
+            "of",
+            "the",
+            "skunk",
+            "spray",
+            "was",
+            "overwhelming",
+            "outside",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 152
+    },
+    {
+        "tokens": [
+            "skunks",
+            "are",
+            "known",
+            "for",
+            "creating",
+            "terrible",
+            "smells"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 153
+    },
+    {
+        "tokens": [
+            "oddly",
+            "enough",
+            ",",
+            "the",
+            "skunk",
+            "did",
+            "n't",
+            "smell",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "VERB",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 154
+    },
+    {
+        "tokens": [
+            "skunks",
+            "smell",
+            "bad",
+            "when",
+            "they",
+            "spray",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 155
+    },
+    {
+        "tokens": [
+            "the",
+            "smell",
+            "of",
+            "a",
+            "skunk",
+            "is",
+            "one",
+            "of",
+            "the",
+            "worst",
+            "odors",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 156
+    },
+    {
+        "tokens": [
+            "when",
+            "a",
+            "skunk",
+            "sprays",
+            "a",
+            "person",
+            "or",
+            "object",
+            ",",
+            "the",
+            "smell",
+            "is",
+            "strong",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 10,
+                "end": 11
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 157
+    },
+    {
+        "tokens": [
+            "a",
+            "spare",
+            "tire",
+            "is",
+            "a",
+            "common",
+            "thing",
+            "in",
+            "a",
+            "car",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 158
+    },
+    {
+        "tokens": [
+            "you",
+            "need",
+            "to",
+            "have",
+            "a",
+            "spare",
+            "tire",
+            "for",
+            "your",
+            "car",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 159
+    },
+    {
+        "tokens": [
+            "he",
+            "was",
+            "lucky",
+            "he",
+            "had",
+            "a",
+            "spare",
+            "tire",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 160
+    },
+    {
+        "tokens": [
+            "i",
+            "care",
+            "a",
+            "spare",
+            "tire",
+            "in",
+            "case",
+            "of",
+            "a",
+            "blow",
+            "out",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 161
+    },
+    {
+        "tokens": [
+            "i",
+            "used",
+            "my",
+            "spare",
+            "tire",
+            "when",
+            "i",
+            "got",
+            "a",
+            "flat",
+            "driving",
+            "my",
+            "car",
+            "yesterday",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 162
+    },
+    {
+        "tokens": [
+            "in",
+            "the",
+            "summer",
+            "it",
+            "gets",
+            "hot",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADJ",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 163
+    },
+    {
+        "tokens": [
+            "it",
+            "is",
+            "usually",
+            "hot",
+            "in",
+            "the",
+            "summer",
+            "time"
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            },
+            {
+                "type": "ADJ",
+                "start": 3,
+                "end": 4
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 164
+    },
+    {
+        "tokens": [
+            "in",
+            "summer",
+            "it",
+            "gets",
+            "hot",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 165
+    },
+    {
+        "tokens": [
+            "summer",
+            "is",
+            "always",
+            "very",
+            "hot",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NOUN",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "ADJ",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "HasProperty",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 166
+    },
+    {
+        "tokens": [
+            "surpassing",
+            "somebody",
+            "means",
+            "going",
+            "beyond",
+            "their",
+            "ability",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 0,
+                "end": 1
+            },
+            {
+                "type": "ADP",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 167
+    },
+    {
+        "tokens": [
+            "we",
+            "surpassed",
+            "our",
+            "goal",
+            "beyond",
+            "our",
+            "biggest",
+            "hopes",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "ADP",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 168
+    },
+    {
+        "tokens": [
+            "when",
+            "you",
+            "surpass",
+            "a",
+            "barrier",
+            "you",
+            "go",
+            "beyond",
+            "it",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "ADP",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Synonym",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 169
+    },
+    {
+        "tokens": [
+            "70",
+            "thousand",
+            "of",
+            "dollar",
+            "money",
+            ",",
+            "i",
+            "spend",
+            "the",
+            "social",
+            "activity"
+        ],
+        "entities": [
+            {
+                "type": "NUM",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 170
+    },
+    {
+        "tokens": [
+            "a",
+            "thousand",
+            "dollars",
+            "is",
+            "a",
+            "lot",
+            "of",
+            "money",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NUM",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 7,
+                "end": 8
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 171
+    },
+    {
+        "tokens": [
+            "i",
+            "associated",
+            "thousand",
+            "with",
+            "money",
+            "because",
+            "of",
+            "a",
+            "thousand",
+            "dollars",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "NUM",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Thematic",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 172
+    },
+    {
+        "tokens": [
+            "a",
+            "weeping",
+            "willow",
+            "is",
+            "a",
+            "tree",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 173
+    },
+    {
+        "tokens": [
+            "a",
+            "weeping",
+            "willow",
+            "is",
+            "a",
+            "type",
+            "of",
+            "tree"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 174
+    },
+    {
+        "tokens": [
+            "a",
+            "weeping",
+            "willow",
+            "is",
+            "a",
+            "type",
+            "of",
+            "tree",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 1,
+                "end": 2
+            },
+            {
+                "type": "NOUN",
+                "start": 2,
+                "end": 3
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 175
+    },
+    {
+        "tokens": [
+            "i",
+            "have",
+            "a",
+            "weeping",
+            "willow",
+            "tree",
+            "in",
+            "the",
+            "front",
+            "yard",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 4,
+                "end": 5
+            }
+        ],
+        "relations": [
+            {
+                "type": "Common-Phrase",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 176
+    },
+    {
+        "tokens": [
+            "sometimes",
+            "people",
+            "write",
+            "so",
+            "they",
+            "can",
+            "write",
+            "a",
+            "book"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 2,
+                "end": 3
+            },
+            {
+                "type": "NOUN",
+                "start": 8,
+                "end": 9
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 177
+    },
+    {
+        "tokens": [
+            "she",
+            "ha",
+            "been",
+            "writing",
+            "her",
+            "book",
+            "for",
+            "four",
+            "years",
+            "but",
+            "still",
+            "had",
+            "much",
+            "research",
+            "to",
+            "do",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 5,
+                "end": 6
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 178
+    },
+    {
+        "tokens": [
+            "the",
+            "author",
+            "was",
+            "writing",
+            "a",
+            "new",
+            "book",
+            "that",
+            "was",
+            "going",
+            "to",
+            "be",
+            "300",
+            "pages"
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 3,
+                "end": 4
+            },
+            {
+                "type": "NOUN",
+                "start": 6,
+                "end": 7
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 179
+    },
+    {
+        "tokens": [
+            "the",
+            "book",
+            "i",
+            "'m",
+            "writing",
+            "wo",
+            "n't",
+            "be",
+            "done",
+            "for",
+            "a",
+            "long",
+            "time",
+            "."
+        ],
+        "entities": [
+            {
+                "type": "VERB",
+                "start": 4,
+                "end": 5
+            },
+            {
+                "type": "NOUN",
+                "start": 1,
+                "end": 2
+            }
+        ],
+        "relations": [
+            {
+                "type": "Action",
+                "head": 0,
+                "tail": 1
+            }
+        ],
+        "orig_id": 180
+    }
+]
