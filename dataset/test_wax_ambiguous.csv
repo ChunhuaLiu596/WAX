@@ -1,0 +1,132 @@
+﻿,cue,association,explanation,relation
+0,angles,triangle,"chris remembered learning all about angles, including triangles, in high school math.",Category-Exemplar-Pairs
+1,angles,triangle,triangles have different kinds of angles.,PartOf
+2,angles,triangle,a triangle has 3 sides and 3 angles.,PartOf
+3,angles,triangle,the triangle has three angles.,PartOf
+4,bright,light,lights can often be bright.,HasProperty
+5,bright,light,the light was very bright.,HasProperty
+6,bright,light,when someone says something is bright they are usually talking about a light,Synonym
+7,casino,money,casinos tend to make a lot of money,Function
+8,casino,money,casinos are full of tons of money locked up.,Location
+9,casino,money,i try to win money at the casino.,Location
+10,casino,money,i won money at the casino.,Location
+11,casino,money,there is lots of money exchanged at casinos,Location
+12,chomp,eat,i always chomp the food i eat.,Action
+13,chomp,eat,a lot of people chomp when they eat.,Category-Exemplar-Pairs
+14,chomp,eat,when one eats they often chomp with their mouth.,Category-Exemplar-Pairs
+15,chomp,eat,"when you chomp at something, you eat it.",Category-Exemplar-Pairs
+16,contact,phone,i could contact her on the phone.,Function
+17,contact,phone,we use our phones to contact people,Function
+18,contact,phone,i save the contact nember my phone,Location
+19,correction,fix,"in order to make the correction, he had to fix his mistake.",Has-Prerequisite
+20,correction,fix,to fix the mistake is a needed correction.,Has-Prerequisite
+21,correction,fix,"if you are making a correction, you are fixing something",Synonym
+22,cowgirl,boots,a cowgirl is known for wearing their cowgirl boots.,Common-Phrase
+23,cowgirl,boots,cowgirls are like to wear boots.,PartOf
+24,cowgirl,boots,a cowgirl wears boots as part of her outfit.,HasProperty
+25,decipher,code,a code has to be deciphered,Action
+26,decipher,code,you must decipher a code.,Action
+27,decipher,code,a spy may decipher a secret code.,Action
+28,decipher,code,codes are needed to decipher something.,Function
+29,dinner,food,the food served for dinner was amazing.,Emotion-Evaluation
+30,dinner,food,my wife always serves a lot of good food for dinner.,Material-MadeOf
+31,dinner,food,food is what people have for dinner as a meal.,PartOf
+32,dinner,food,there was enough food for the dinner party.,Thematic
+33,dinner,food,the food i ate at the dinner was delicious,Time
+34,disaster,hurricane,a hurricane is a good example of a natural disaster.,Category-Exemplar-Pairs
+35,disaster,hurricane,a hurricane is a natural disaster.,Category-Exemplar-Pairs
+36,disaster,hurricane,a hurricane can cause a large disaster.,Result-In
+37,discriminate,race,the employer discriminates based on race.,Action
+38,discriminate,race,sometimes people discriminate based only on race.,Has-Prerequisite
+39,discriminate,race,people discriminate based on race.,Result-In
+40,discuss,talk,to discuss something you must talk about it.,Category-Exemplar-Pairs
+41,discuss,talk,when you discuss something you talk it through.,Category-Exemplar-Pairs
+42,discuss,talk,i want to talk to you so we can discuss our finances.,Function
+43,discuss,talk,"when we discuss a topic, we talk about all the details.",Synonym
+44,drinking,water,the thing that i mostly drink is water,Action
+45,drinking,water,drinking water is the best for your health.,Common-Phrase
+46,drinking,water,the town had a low supply of drinking water.,Common-Phrase
+47,evidence,police,police find the evidence in the crime place.,Action
+48,evidence,police,the police collate the evidence,Action
+49,evidence,police,police had the evidence to arrest the thief.,Thematic
+50,exceed,expectations,"if a stock does better than analysts had predicted, it has exceeded expectations.",Common-Phrase
+51,exceed,expectations,she was a great fit who exceeded expectations.,Common-Phrase
+52,exceed,expectations,exceeding is going beyond expectations.,Synonym
+53,forgive,forget,forgive and forget is a useful cliche,Common-Phrase
+54,forgive,forget,they say people must forgive and forget to get true closure.,Common-Phrase
+55,forgive,forget,you have to forgive and forget.,Common-Phrase
+56,forgive,forget,they always say forgive and forget.,Common-Phrase
+57,forgive,forget,to forgive does not mean to forget.,Thematic
+58,gelatin,dessert,fruit flavored gelatin is served for dessert.,Function
+59,gelatin,dessert,the gelatin was served for dessert,Function
+60,gelatin,dessert,the gelatin made the dessert too sweet.,Result-In
+61,greeter,hello,the greeter said hello to the shopper.,Action
+62,greeter,hello,you say hello when you are welcomed by a greeter,Action
+63,greeter,hello,a greeter at a store is supposed to say hello.,Function
+64,group,people,people often form a group to work more efficiently.,Action
+65,group,people,a group is composed of many people.,PartOf
+66,group,people,the group of people responsible for the vandalism were caught by the police.,PartOf
+67,heaven,god,it is said that heaven and hell were created by god.,Action
+68,heaven,god,heaven is the place where one can be with god.,Location
+69,heaven,god,heaven is where god lives.,Location
+70,hungry,food,"if you are hungry, make some food.",Action
+71,hungry,food,when a person is hungry...they want some food.,Has-Prerequisite
+72,hungry,food,"when i am hungry, i need to eat food.",Has-Prerequisite
+73,hungry,food,"when you're hungry, you need food.",Result-In
+74,hungry,food,i am so hungry i need food now.,Result-In
+75,igloo,cold,"when it's cold, you can build an igloo out of snow.",Has-Prerequisite
+76,igloo,cold,the outside of an igloo is usually cold.,HasProperty
+77,igloo,cold,the igloo wasn't so cold inside.,HasProperty
+78,igloo,cold,an igloo is very cold to the touch.,HasProperty
+79,igloo,cold,inside an igloo it is cold because its surrounded by ice.,HasProperty
+80,igloo,cold,the igloo is a cold place,HasProperty
+81,lesson,learn,i always learn the good lesson,Action
+82,lesson,learn,you go to school so that you can learn lessons.,Action
+83,lesson,learn,to know a lesson you have to learn about it,Has-Prerequisite
+84,lesson,learn,"in my afternoon lesson, i learned a great deal.",Location
+85,liberty,freedom,"we have the freedom here to speak freely, so our liberty is very important.",Has-Prerequisite
+86,liberty,freedom,liberty means having freedom to do what you like.,Synonym
+87,liberty,freedom,people believe in liberty and freedom.,Synonym
+88,miles,distance,"although they were once good friends, there was now considerable distance between them small miles",Category-Exemplar-Pairs
+89,miles,distance,"she can run for many miles, so her distance is high.",Synonym
+90,miles,distance,i can cover a lot of distance if i run for miles.,Thematic
+91,miles,distance,the distance covered is 50 miles.,Thematic
+92,payment,money,i want to receive money as my payment.,Function
+93,payment,money,money is an accepted form of payment in most places.,Function
+94,payment,money,"if someone makes a payment, they need to use some form of money to do so.",Function
+95,payment,money,payments can be made using money.,Function
+96,payment,money,in order to make a payment you need money,Has-Prerequisite
+97,radioactive,energy,radioactive elements give off energy.,Action
+98,radioactive,energy,things that are radioactive have energy in them.,HasProperty
+99,reality,life,humans have to face the reality of life.,Action
+100,reality,life,reality is what happens in real life.,PartOf
+101,reality,life,life is reality as we know it,Synonym
+102,refreshment,drink,"i wanted to see what sort of drinks were at the party, but the refreshments were nowhere to be seen.",Category-Exemplar-Pairs
+103,refreshment,drink,a refreshment can be a drink like orange soda.,Category-Exemplar-Pairs
+104,refreshment,drink,the drinks were served to the athletes as refreshments.,Function
+105,restaurant,food,restaurants will serve you food,Function
+106,restaurant,food,i like eating food at many restaurants.,Location
+107,restaurant,food,restaurants serve food to hungry customers.,Location
+108,restaurant,food,the food at this restaurant is fantastic,Location
+109,restaurant,food,the food served at the restaurant was bad.,Location
+110,salad,dressing,ranch is one of the most common salad dressing.,Common-Phrase
+111,salad,dressing,sometimes i like to put a dressing on my salad.,Thematic
+112,salad,dressing,the secret to a great salad is the dressing.,Thematic
+113,salad,dressing,i always put dressing on my salad.,Thematic
+114,shark,teeth,sharks uses their razor sharp teeth to tear through everything,PartOf
+115,shark,teeth,the sharp teeth of the shark.,PartOf
+116,shark,teeth,the shark had very large teeth.,HasProperty
+117,space,stars,i'm sure being in space means you get to see a bunch of stars.,Location
+118,space,stars,space has a lot of stars in it.,PartOf
+119,space,stars,space is like the house for stars.,PartOf
+120,space,stars,the space is full with stars.,PartOf
+121,starting,first,i will be starting first thing in the morning.,Common-Phrase
+122,starting,first,starting is what needs to be done first before other steps of the process,Has-Prerequisite
+123,starting,first,they first pray to god when starting the ceremony.,Time
+124,utilize,advantage,the team utilized their height advantage to win the game.,Action
+125,utilize,advantage,the basketball coach has the advantage of utilizing a very solid line up.,Result-In
+126,utilize,advantage,utilize or take advantage of the tools you have.,Synonym
+127,weeping,sad,if someone is weeping they are likely sad.,Emotion-Evaluation
+128,weeping,sad,a person that is weeping is very sad.,Result-In
+129,weeping,sad,"if someone is weeping, it's because they are sad.",Result-In
+130,weeping,sad,if you are very sad you might start weeping.,Result-In

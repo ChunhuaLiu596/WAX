@@ -1,0 +1,726 @@
+﻿,cue,association,explanation,relation
+0,ability,capability,ability is the capability to do a particular job.,Synonym
+1,absolute,sure,"if something is absolute, you can be sure about it.",Synonym
+2,adept,smart,a smart person is very adept at learning.,HasProperty
+3,admiral,chief,admirals and chiefs are leaders in the world.,Members-of-the-same-Category
+4,admiral,rear,a rear admiral is a high ranking officer in the military.,Common-Phrase
+5,agent,person,an agent is a person who acts on behalf of another person.,Thematic
+6,agent,represent,she employed an agent to represent her to handle the rental business.,Function
+7,agreeable,willing,"when a person is willing to do something, they are considered agreeable.",Synonym
+8,airport,runway,the runway at the airport is for planes to take off and land.,Location
+9,amass,army,an army is a thing that you can amass.,Action
+10,amass,collect,if you amass something then you collect a lot of it.,Synonym
+11,amass,fortune,"when someone is very, very rich, they are known to have amassed a fortune.",Action
+12,amiable,popular,her amiable character makes her very popular among her friends.,Result-In
+13,amiable,warm,an amiable person is very warm and friendly.,HasProperty
+14,anger,mad,"when someone is really mad and yelling, they are having a fit of anger.",Synonym
+15,angles,triangle,a triangle has 3 sides and 3 angles.,PartOf
+16,angles,triangle,"chris remembered learning all about angles, including triangles, in high school math.",Category-Exemplar-Pairs
+17,angles,triangle,the triangle has three angles.,PartOf
+18,angles,triangle,triangles have different kinds of angles.,PartOf
+19,appointment,early,i try to be early for my appointments.,Time
+20,appointment,late,sometimes i am late for my appointment.,Time
+21,appointment,time,an appointment is a scheduled date and time for a meeting.,Time
+22,attend,present,attending an event means that you are present at the venue.,Synonym
+23,attend,problem,the manager has to attend to the problem immediately.,Action
+24,awful,rude,someone very rude would be considered awful.,Synonym
+25,bagpipe,kilt,men playing bagpipes often wear kilts.,Thematic
+26,baked,fried,baked and fried are two ways to prepare food.,Members-of-the-same-Category
+27,baked,goods,baked goods are a treat that is often full of sugar.,Common-Phrase
+28,baked,goods,the baked goods just came out of the oven.,Common-Phrase
+29,baked,goods,the baked goods smelled amazing.,Common-Phrase
+30,baked,oven,if something was baked then it was cooked in an oven.,Location
+31,bastard,mean,"when a man is mean, he may be called a bastard.",HasProperty
+32,beauty,natural,some women are lucky enough to have a natural beauty.,Common-Phrase
+33,believable,trustworthy,"for someone to be believable, they must be trustworthy.",Synonym
+34,believable,trustworthy,if someone is believable they are trustworthy.,Synonym
+35,belong,group,i like to feel like i belong when i am part of a group.,Emotion-Evaluation
+36,biblical,eden,the garden of eden is a biblical place.,Thematic
+37,bibliography,paper,a bibliography is at the end of an academic paper.,PartOf
+38,bibliography,source,bibliography contains information of your sources or work.,PartOf
+39,bibliography,title ,bibliography contains the titles of the works.,PartOf
+40,blender,fruits,my blender mostly blends fruits.,Function
+41,bodily,alive,bodily parts are alive.,HasProperty
+42,bodily,excrement,bodily excrements are anything that is not used by the body and removed.,Common-Phrase
+43,bodily,warm,bodily parts have a warm temperature.,HasProperty
+44,brave,tough,a person that is brave is very tough.,Synonym
+45,break,crack,when something breaks it might have a crack in it.,Result-In
+46,break,split,if something breaks then it might be split in two.,Result-In
+47,breath,gum,i like to chew gum to keep my breath fresh.,Function
+48,breath,inhale,to breath you must inhale.,Action
+49,breath,oxygen,when you breath you inhale oxygen.,Result-In
+50,bridge,drive,driving across really high or old bridges is scary.,Action
+51,bright,light,lights can often be bright.,HasProperty
+52,bright,light,the light was very bright.,HasProperty
+53,bright,smart,"she was bright, the smartest one in her class.",Synonym
+54,bright,smart,someone who is bright could also be called smart.,Synonym
+55,bright,smart,"when a child is very smart, they are considered very bright.",Synonym
+56,bring,carry,"when you bring something, you need to carry it.",Category-Exemplar-Pairs
+57,bring,share,people bring dishes to a potluck to share with each other.,Result-In
+58,bring,take,you must take the object to bring it with you.,Has-Prerequisite
+59,broken,car,i cannot go shopping because my car is broken.,HasProperty
+60,brought,took,the opposite of took it home with her is brought it here with her.,Antonym
+61,bucket,wash,i use a bucket to wash my car.,Function
+62,buddy,together,buddies love to spend time together.,Emotion-Evaluation
+63,bunch,bananas,i buy a bunch of bananas every time i go to the grocery store.,Thematic
+64,bunch,grapes,i like to set out a bunch of grapes for my family to snack on.,Thematic
+65,bunch,roses,you very commonly find roses sold in a bunch.,Thematic
+66,career,money,people earn money through their career.,Function
+67,career,money,when you have a career it is to earn money,Function
+68,career,work,the work you do for the rest of your life is considered your career.,Category-Exemplar-Pairs
+69,careful,cautious,someone who is careful is usually cautious.,Synonym
+70,careful,safe,"if you want to be careful, then you're trying to be safe.",Synonym
+71,carnivore,prey,carnivore animals chase after and eat their prey.,Action
+72,carrying,child,sometimes parents can be seen carrying their small child.,Action
+73,casino,money,casinos are full of tons of money locked up.,Location
+74,casino,money,i try to win money at the casino.,Location
+75,casino,money,i won money at the casino.,Location
+76,casino,money,there is lots of money exchanged at casinos,Location
+77,castle,huge,a castle is made up of several huge towers.,HasProperty
+78,castle,medieval,a castle is a large building commonly found in the medieval period.,Time
+79,castle,stone,a castle is often made of stone.,Material-MadeOf
+80,catcher,ball,a catcher usually catches a ball,Action
+81,catcher,ball,the catcher threw the ball back to the pitcher.,Action
+82,catcher,ball,the catcher threw the ball back.,Action
+83,certain,sure,"when someone is sure about something, they are certain.",Synonym
+84,champagne,beer,champagne and beer are both alcoholic drinks.,Members-of-the-same-Category
+85,champagne,celebration,you drink champagne at a celebration.,Location
+86,change,spare,some people save their spare change in a container.,Common-Phrase
+87,change,tire,"if a tire goes flat, it has to be changed.",Action
+88,chanting,crowd,the crowd at the game was chanting after the winning touchdown.,Action
+89,chanting,crowd,the crowd was chanting for the home team,Action
+90,chanting,crowd,the crowd was chanting the players name.,Action
+91,charity,humanitarian,"when doing humanitarian work, it is usually connected to a charity.",Category-Exemplar-Pairs
+92,chart,visual,a chart is a visual representation of data.,HasProperty
+93,chase,run,"running after someone to catch them, is chasing them.",Category-Exemplar-Pairs
+94,chase,seek,"when you are chasing someone, you are seeking them.",Synonym
+95,cheap,frugal,"it is generally okay to be frugal, but that's different than being totally cheap.",Synonym
+96,chicken,chicks,baby chickens are called chicks.,Category-Exemplar-Pairs
+97,cholesterol,high,people need to make sure their cholesterol isn't high.,HasProperty
+98,chomp,eat,a lot of people chomp when they eat.,Category-Exemplar-Pairs
+99,chomp,eat,i always chomp the food i eat.,Action
+100,chomp,eat,when one eats they often chomp with their mouth.,Category-Exemplar-Pairs
+101,chomp,eat,"when you chomp at something, you eat it.",Category-Exemplar-Pairs
+102,classy,elegant,his classy girlfriend always acts in an elegant manner.,Synonym
+103,classy,stylist,kelly is classy and loves wearing stylist clothes.,Synonym
+104,clean,neat,if your house is clean you may be a neat person.,Synonym
+105,clean,neat,"jet is a neat child, his clothes are always clean.",Synonym
+106,clean,neat,the space is clean and neat enough.,Synonym
+107,clench,fist,people clench their fists when they get upset.,Action
+108,clench,fist,when a person makes a fist they clench their fingers into a ball.,Action
+109,client,courtesy,customer service representatives need to show courtesy to clients.,Action
+110,client,money,companies make money by providing services to their clients.,Result-In
+111,climber,health,a climber must be in good health.,HasProperty
+112,clock,time,a clock can tell you time,Function
+113,clock,time,clocks are used to tell time.,Function
+114,clock,time,clocks tell you what time it is.,Function
+115,clock,time,i watch the time on the clock,Function
+116,clock,time,the clock indicated it was time to go to sleep.,Function
+117,clock,time,the clock tells the time.,Function
+118,clock,time,the clock told the wrong time.,Function
+119,clock,time,we use clock to keep time.,Function
+120,closed,business,this business has been closed for one month.,Action
+121,closed,window,i closed the window because it was raining outside.,Action
+122,clown,silly,clowns are very silly characters.,HasProperty
+123,coach,leader,the coach was a leader for his team.,Category-Exemplar-Pairs
+124,coating,dusting,a light dusting is considered a coating.,Synonym
+125,colonel,sanders,colonel sanders is the man who started kentucky fried chicken or kfc.,Common-Phrase
+126,comes,santa,kids know that santa comes on christmas eve.,Action
+127,commander,authority,the commander is a person who is an authority figure.,HasProperty
+128,commander,ship,a ship has a commander.,Location
+129,comrade,friend,a comrade can also be considered your friend.,Synonym
+130,comrade,friend,"he is my closest comrade, my friend i've known the longest.",Synonym
+131,comrade,friend,i sometimes call my friend my comrade.,Synonym
+132,comrade,friend,"if someone is your comrade, then they are your friend",Synonym
+133,comrade,friend,"if someone is your comrade, then they are your friend.",Synonym
+134,conceive,surrogate,some couples who cannot conceive will use a surrogate to carry a baby for them.,Function
+135,concerned,worried,"when a person is worried about another person, they are concerned for them.",Synonym
+136,contact,phone,i could contact her on the phone.,Function
+137,contact,phone,i save the contact nember my phone,Location
+138,contact,phone,we use our phones to contact people,Function
+139,continue,persist,"if you persist with something, you continue on with it.",Synonym
+140,contract,car,i signed a contract on a new car.,Action
+141,contract,enforceable,a contract is a written agreement enforceable by law.,HasProperty
+142,conundrum,problem,a conundrum is a problem that is hard to solve.,Category-Exemplar-Pairs
+143,corner,street,streets meet and intersect at their corners.,PartOf
+144,corporation,money,a corporation's goal is to make money.,Function
+145,correct,test,"when a student takes a test, the teacher checks to see which answers are correct.",Thematic
+146,correction,fix,"if you are making a correction, you are fixing something",Synonym
+147,correction,fix,"in order to make the correction, he had to fix his mistake.",Has-Prerequisite
+148,correction,fix,to fix the mistake is a needed correction.,Category-Exemplar-Pairs
+149,correction,mistake,corrections are made to mistakes in written documents.,Action
+150,cosmopolitan,city,many young people love living in a cosmopolitan city to experience the diverse culture.,Common-Phrase
+151,cosmopolitan,modern,new york city is a modern cosmopolitan metropolis.,Synonym
+152,court,judge,a judge presides over the court.,Location
+153,court,judge,"in every court, you can find a judge making a decision.",Location
+154,court,judge,judges preside over what happens in a court room.,Location
+155,court,judge,the judge presided over the court.,Location
+156,covered,discussed,if something has been covered then it's been discussed.,Synonym
+157,covered,umbrella,people like to use an umbrella to be covered against the rain.,Function
+158,cowgirl,boots,a cowgirl is known for wearing their cowgirl boots.,Common-Phrase
+159,crazy,attack,the woman suddenly became crazy and attacked the people around her.,Result-In
+160,crazy,girl,he is crazy about the beautiful girl.,Emotion-Evaluation
+161,curvy,sewing,when sewing it is important to make sure your lines are not curvy.,Thematic
+162,curvy,shape,curvy is a way to describe a shape of a person,HasProperty
+163,curvy,shape,the lady has a curvy shape,HasProperty
+164,curvy,shape,the shape looks so curvy.,HasProperty
+165,curvy,shape,the woman had a very curvy shape,HasProperty
+166,danger,robot,"the robot in the old tv show ""lost in space"" ran around saying danger! danger! all the time.",Thematic
+167,darkness,light,darkness is the opposite of light.,Antonym
+168,darkness,light,light is the opposite to darkness.,Antonym
+169,darkness,light,the darkness of have without light.,Antonym
+170,decipher,code,a code has to be deciphered,Action
+171,decipher,code,a spy may decipher a secret code.,Action
+172,decipher,code,codes are needed to decipher something.,Function
+173,decipher,code,you must decipher a code.,Action
+174,deflate,footballs,tom brady deflated footballs in a game in order to cheat.,Action
+175,deluge,torrent,a deluge and a torrent are both big rushes of water.,Members-of-the-same-Category
+176,design,pattern,an artistic design may be a pattern.,HasProperty
+177,detective,columbo,columbo is a much-loved tv homicide detective.,Thematic
+178,different,same,different is the opposite of same.,Antonym
+179,different,strange,if something is different then it's often strange.,Synonym
+180,dilute,concentration,"when someone dilutes a sample, they change the concentration of the sample.",Result-In
+181,dinner,food,food is what people have for dinner as a meal.,PartOf
+182,dinner,food,the food i ate at the dinner was delicious,Time
+183,dinner,food,there was enough food for the dinner party.,Thematic
+184,disaster,hurricane,a hurricane can cause a large disaster.,Result-In
+185,disaster,hurricane,a hurricane is a good example of a natural disaster.,Category-Exemplar-Pairs
+186,disaster,hurricane,a hurricane is a natural disaster.,Category-Exemplar-Pairs
+187,disaster,natural,hurricanes are a natural disaster.,Common-Phrase
+188,disaster,natural,natural calamities are also called natural disasters,Common-Phrase
+189,disaster,natural,the natural disaster tore apart the neighborhood,Common-Phrase
+190,disaster,natural,the natural disaster was unforeseen by the experts.,Common-Phrase
+191,disaster,natural,tornadoes are a common type of natural disaster in my area.,Common-Phrase
+192,discourse,conversation,engaging in discourse means that you are having a conversation.,Synonym
+193,discriminate,race,people discriminate based on race.,Result-In
+194,discriminate,race,sometimes people discriminate based only on race.,Has-Prerequisite
+195,discuss,talk,i want to talk to you so we can discuss our finances.,Function
+196,discuss,talk,to discuss something you must talk about it.,Category-Exemplar-Pairs
+197,discuss,talk,"when we discuss a topic, we talk about all the details.",Synonym
+198,discuss,talk,when you discuss something you talk it through.,Category-Exemplar-Pairs
+199,dollar,cost,this book costs seven dollars.,Action
+200,dollar,earn,i work hard to earn every dollar to make ends meet.,Action
+201,domestic,home,"if someone spends most of their time at home taking care of their family, they are considered domestic.",Synonym
+202,domestic,home,running your home well is being domestic.,Synonym
+203,domestic,home,"when a person is domestic, they like to stay around home.",Synonym
+204,dominant,aggressive,"when someone is very dominant, they may seem extra aggressive.",HasProperty
+205,dressed,best,there are plenty of best-dressed lists for celebrities.,Common-Phrase
+206,dressed,up,"there is a saying ""all dressed up with no place to go.""",Common-Phrase
+207,drinking,alcoholic,an alcoholic is a person that has taken drinking too far.,Result-In
+208,drinking,water,the thing that i mostly drink is water,Action
+209,drinking,water,the town had a low supply of drinking water.,Common-Phrase
+210,driving,permit,my daughter got a driving permit.,Has-Prerequisite
+211,dropping,accident,dropping something is usually an accident.,Category-Exemplar-Pairs
+212,dropping,names,"when someone is dropping names, they are using someone's name that they think will make them look better or bigger.",Common-Phrase
+213,drove,car,he drove the car off the side of the cliff.,Action
+214,drove,car,i couldn't wait to turn 16 so i could drive a car alone.,Action
+215,drove,car,i drove my car today to the store.,Action
+216,drove,car,the car drove really fast on the freeway.,Action
+217,drove,car,the girl drove the car down the block,Action
+218,education,school,you get an education in school.,Location
+219,education,teacher,you get an education from your teacher.,Function
+220,elated,relief,i can imagine being elated when i feel relief over something that i had been worried about.,Result-In
+221,elevated,high,an elevated mountain is a high place.,Synonym
+222,elevated,high,"if something is elevated, it is up high.",Synonym
+223,elevated,high,the elevated floor was 6 inches high.,Synonym
+224,eliminate,gone,"if something is eliminated, it is gone from the setting.",Result-In
+225,emergency,ambulance,"if you have an emergency, you need to call an ambulance.",Result-In
+226,enjoy,movie,she enjoys watching movies with her boyfriend.,Emotion-Evaluation
+227,enjoy,music,i enjoy listening to my favorite music.,Emotion-Evaluation
+228,evidence,helpful,evidence is helpful to solve a crime.,HasProperty
+229,evidence,police,police find the evidence in the crime place.,Action
+230,evidence,police,police had the evidence to arrest the thief.,Thematic
+231,evidence,police,the police collate the evidence,Action
+232,evidence,proof,evidence is proof of an occurrence of a crime.,Synonym
+233,exceed,expectations,exceeding is going beyond expectations.,Synonym
+234,exceed,expectations,she was a great fit who exceeded expectations.,Common-Phrase
+235,exceed,speed,"when a driver gets caught exceeding the speed limit, they get a ticket.",Action
+236,excellent,perfect,the closest to excellent is perfect,Synonym
+237,faithful,committed,being faithful in a relationship involves being committed to the other person.,Members-of-the-same-Category
+238,faithful,respect,i do my best to show my friends that i respect and am faithful to them.,Members-of-the-same-Category
+239,fancy,feast,fancy feast is a brand name of cat food.,Common-Phrase
+240,fantasy,movie,toy story is an example of a fantasy movie.,Common-Phrase
+241,fatherly,figure,"he wasn't my dad, but he was a fatherly figure.",Common-Phrase
+242,fatherly,figure,my life would benefit greatly from the influence of a healthy fatherly figure,Common-Phrase
+243,fatherly,figure,the boy saw his uncle as a fatherly figure,Common-Phrase
+244,favor,prefer,"i favor apples over oranges, which means i prefer apples.",Synonym
+245,favor,prefer,i prefer hiking over playing video games because i favor the outdoors.,Synonym
+246,favor,prefer,if you favor something you prefer it.,Synonym
+247,favor,prefer,to favor pizza usually means you prefer pizza over the other meal choices.,Synonym
+248,flashlight,bright,a flashlight has to be bright in order for it to be useful.,HasProperty
+249,floor,area,a floor covers a large area.,PartOf
+250,floor,hard,a floor is made from a hard foundation.,HasProperty
+251,flowing,water,the water is flowing down the gutter.,Action
+252,flowing,water,water flows when you turn on the faucet.,Action
+253,flowing,water,water is often seen flowing through hills and valleys.,Action
+254,flowing,waves,the waves appear to be flowing down the coastline.,HasProperty
+255,following,after,"if something is following something else, then it comes after.",Synonym
+256,following,fans,if someone has a big following then they have fans.,Category-Exemplar-Pairs
+257,forgive,forget,forgive and forget is a useful cliche,Common-Phrase
+258,forgive,forget,they always say forgive and forget.,Common-Phrase
+259,forgive,forget,they say people must forgive and forget to get true closure.,Common-Phrase
+260,forgive,forget,you have to forgive and forget.,Common-Phrase
+261,freedom,independent,freedom is when you are independent from your parents.,Synonym
+262,friend,best,everyone needs to have a best friend,Common-Phrase
+263,friend,best,i have one best friend.,Common-Phrase
+264,friend,best,my dog is my best friend.,Common-Phrase
+265,friend,best,the girl hung out with her best friend daily,Common-Phrase
+266,funny,story,he always tell funny stories to entertain his friends.,Common-Phrase
+267,gelatin,dessert,fruit flavored gelatin is served for dessert.,Function
+268,gelatin,dessert,the gelatin was served for dessert,Function
+269,genius,brilliant,a genius always has a brilliant performance in many tasks compared with average people.,HasProperty
+270,giving,donation,goodwill is a company that relies on people giving donations of products.,Action
+271,giving,kind,giving a gift to someone is very kind.,Emotion-Evaluation
+272,giving,taking,the opposite of giving is taking.,Antonym
+273,glass,break,it is easy to break glass.,Action
+274,glass,drinking,you put beverages in a drinking glass.,Common-Phrase
+275,glasses,bifocals,bifocals are a type of glasses to help people see.,Category-Exemplar-Pairs
+276,glittery,bright,the glittery jewels are very bright.,HasProperty
+277,glittery,decorate,i use glittery stuff to decorate the christmas tree.,HasProperty
+278,glutton,food,a glutton eats too much food.,Action
+279,glutton,overeat,a glutton is a person who overeats.,HasProperty
+280,goalie,save,another job of the goalie is to save the shots on the goal,Action
+281,goalie,save,"the goalie had a great night, making a save on all but one of the shots he faced.",Action
+282,goalie,save,the goalie reached his glove out and made a big save,Action
+283,goalie,score,the job of the goalie is to make sure the other team does not score.,Function
+284,going,leaving,"when someone is going somewhere, they are leaving the place they are currently.",Synonym
+285,going,traveling,if you are going somewhere then you're traveling to that place.,Synonym
+286,goodness,appraised,his goodness is always appraised by his coworkers.,Action
+287,goodness,benevolence,benevolence is a sign of goodness in a person.,Synonym
+288,grand,adventure,we had a grand adventure.,Common-Phrase
+289,grand,large,"if an object is said to be grand, it means very large.",Synonym
+290,grandmother,mom,my mom's mother is my grandmother.,Category-Exemplar-Pairs
+291,grater,cheese,a grater is great to make shredded cheese.,Function
+292,grater,cheese,he shredded the cheese with the grater.,Function
+293,grater,cheese,i use a grater to grate cheese for my meal.,Function
+294,grater,cheese,sometimes you need to use a grater to grate cheese,Function
+295,green,grass,grass is sometimes green colored.,HasProperty
+296,green,grass,he was proud of his lawn; the green grass looked perfect.,HasProperty
+297,green,grass,see how all the grasses in her garden are green and beautiful.,HasProperty
+298,green,grass,the grass in my yard was especially green.,HasProperty
+299,greeter,hello,a greeter at a store is supposed to say hello.,Function
+300,greeter,hello,the greeter said hello to the shopper.,Action
+301,greeter,hello,you say hello when you are welcomed by a greeter,Action
+302,grinding,shiny,grinding makes metallic objects look shiny.,Result-In
+303,group,people,a group is composed of many people.,PartOf
+304,group,people,people often form a group to work more efficiently.,Action
+305,group,people,the group of people responsible for the vandalism were caught by the police.,PartOf
+306,growing,bigger,the baby's head has been growing bigger since birth.,Common-Phrase
+307,guess,answer,students are asked to guess the answer to a difficult question.,Action
+308,guess,designer,guess is a designer fashion company.,Category-Exemplar-Pairs
+309,guess,insufficient,i guess the answer to the question with insufficient information given.,Result-In
+310,guess,unsure,"if a person is unsure about something, they make a guess.",Result-In
+311,guest,show,many celebrities visit a talk show as a guest to promote their latest project.,Location
+312,gypsy,europe,gypsies now mainly live in europe.,Location
+313,gypsy,natalie,natalie wood played gypsy rose lee in a movie.,Action
+314,gypsy,people,gypsies are people that originated in northern india.,Category-Exemplar-Pairs
+315,gypsy,rose,gypsy rose lee was a famous stripper.,Common-Phrase
+316,happening,current,i like to read about current events that are happening.,Time
+317,happening,flop,"the movie, the happening, was a major hollywood flop.",Thematic
+318,happening,wahlberg,mark wahlberg starred in a movie called the happening.,Thematic
+319,hatch,chicken,"when chicken's eggs hatch, chicks are born.",Action
+320,heaven,god,heaven is the place where one can be with god.,Location
+321,heaven,god,heaven is where god lives.,Location
+322,heaven,god,it is said that heaven and hell were created by god.,Action
+323,hitch,interrupt,the hitch in the job has interrupted the progress.,Action
+324,hitch,problem,the hitch in the task caused a problem to the team.,Result-In
+325,holding,carrying,if you're holding something then you're carrying it.,Synonym
+326,honey,sweet,honey is a very sweet substance.,HasProperty
+327,horrified,disgusted,horrified is another way to say disgusted.,Synonym
+328,hotel,brolin,"james brolin starred in a tv show called ""hotel.""",Thematic
+329,hotel,reservations,it is a good idea to make reservations at a hotel before your trip.,Action
+330,humane,animals,people try to act in a humane way toward animals.,Thematic
+331,humane,ethical,"if someone is humane, they act in an ethical way.",Synonym
+332,hungry,food,i am so hungry i need food now.,Result-In
+333,hungry,food,"if you are hungry, make some food.",Action
+334,hungry,food,when a person is hungry...they want some food.,Has-Prerequisite
+335,hungry,food,"when i am hungry, i need to eat food.",Has-Prerequisite
+336,hungry,food,"when you're hungry, you need food.",Result-In
+337,hungry,stomach,an empty stomach can make you ferl hungry,Result-In
+338,hungry,stomach,an empty stomach leads to being hungry.,Result-In
+339,hungry,stomach,my stomach is growling because i'm hungry.,Result-In
+340,hydrate,exercise,i try to make sure i hydrate when i exercise.,Action
+341,idiom,advice,an idiom can be used to give advice in an easy to understand way.,Function
+342,idiom,comparison,an idiom uses a comparison to something unrelated.,Function
+343,idiotic,stupid,he looked idiotic and stupid pulling that prank.,Synonym
+344,idiotic,stupid,if someone is idiotic then they are stupid.,Synonym
+345,idiotic,stupid,"if something is called idiotic, it can also be called stupid.",Synonym
+346,idiotic,stupid,you come across as stupid when you say idiotic things.,Synonym
+347,igloo,cold,an igloo is very cold to the touch.,HasProperty
+348,igloo,cold,inside an igloo it is cold because its surrounded by ice.,HasProperty
+349,igloo,cold,the igloo is a cold place,HasProperty
+350,igloo,cold,the igloo wasn't so cold inside.,HasProperty
+351,igloo,cold,the outside of an igloo is usually cold.,HasProperty
+352,igloo,cold,"when it's cold, you can build an igloo out of snow.",Has-Prerequisite
+353,ignition,car,you put a key in the ignition in a car to start it.,PartOf
+354,ignition,flames,the flames are still growing for a while after ignition.,Result-In
+355,ignition,fuel,i added some diesel fuel to the engine to allow ignition.,Has-Prerequisite
+356,implement,enact,to implement something is to enact it.,Synonym
+357,impossible,achieve,my boss loves to set business goals that are impossible to achieve.,Emotion-Evaluation
+358,impossible,cruise,tom cruise stars in the mission impossible movies.,Thematic
+359,impossible,situation,he always put himself in an impossible situation.,Common-Phrase
+360,impossible,unable,"when someone is unable to do something, they find it impossible.",Synonym
+361,improbable,impossible,if something is improbable then it's almost impossible.,Members-of-the-same-Category
+362,indecent,exposed,"if someone goes to school with their cleavage exposed, it is considered indecent.",Result-In
+363,information,facts,facts are a kind of information.,Category-Exemplar-Pairs
+364,instant,hurried,wanting something in an instant means you want it very hurried.,Synonym
+365,interest,hobbies,your interests are usually the same things you do for your hobbies.,Synonym
+366,interested,intrigued,"when you are intrigued by something, you become interested in it.",Synonym
+367,intuitive,gut,an intuitive person believes in their gut feelings.,HasProperty
+368,jacket,fall,"in the fall, i usually wear a jacket to keep warm.",Time
+369,jungle,book,"rudyard kipling wrote ""the jungle book.""",Common-Phrase
+370,jungle,exotic,the jungle sounds very exotic.,HasProperty
+371,junior,schwarzenegger,"arnold schwarzenegger starred in a movie called ""junior""",Thematic
+372,laughter,kids,laughter is often heard when many kids are together.,Action
+373,laughter,playground,much laughter can be heard on a playground.,Location
+374,leaves,autumn,autumn is the time of year when leaves fall from the trees.,Time
+375,leaves,autumn,part of what makes autumn my favorite season is getting to view the beautiful leaves.,Time
+376,leaves,autumn,the leaves started to fall in autumn,Time
+377,leaving,denver,"john denver wrote a song called ""leaving on a jet plane.""",Thematic
+378,legal,case,a case could be legal or not.,HasProperty
+379,lesson,learn,i always learn the good lesson,Action
+380,lesson,learn,"in my afternoon lesson, i learned a great deal.",Location
+381,lesson,learn,to know a lesson you have to learn about it,Has-Prerequisite
+382,lesson,learn,you go to school so that you can learn lessons.,Action
+383,liberty,freedom,liberty means having freedom to do what you like.,Synonym
+384,liberty,freedom,people believe in liberty and freedom.,Synonym
+385,liberty,freedom,"we have the freedom here to speak freely, so our liberty is very important.",Has-Prerequisite
+386,lieutenant,army,the lieutenant had served in the army for ten years,PartOf
+387,lieutenant,army,the lieutenant in the army made a risky decision,PartOf
+388,lieutenant,army,the lieutenant was enlisted in the army.,PartOf
+389,lieutenant,officer,a lieutenant is a commissioned officer in the armed forces.,Category-Exemplar-Pairs
+390,lieutenant,substitute,the lieutenant is a substitute for the captain.,Function
+391,listening,friend,a friend is a person you can turn to when you need someone to listen.,Action
+392,lobby,space,a lobby is a large space for waiting.,Category-Exemplar-Pairs
+393,lonely,alone,the god looked lonely as she was all alone.,Emotion-Evaluation
+394,lonely,alone,when you are alone you can become lonely.,Emotion-Evaluation
+395,lonely,depressed,when you become too lonely you will probably be depressed as well.,Result-In
+396,loosen,release,if you loosen a knot it releases.,Result-In
+397,lord,god,god is the lord of the universe.,Synonym
+398,lord,god,lord is used to refer to god in prayer.,Synonym
+399,lord,god,"the lord is seen as the father, the son, and the only spirit, which means god.",Synonym
+400,lover,doris,"""lover come back"" is a movie with doris day and rock hudson.",Thematic
+401,lover,simon,"paul simon wrote a song called ""50 ways to leave your lover.""",Thematic
+402,loving,caretaker,caretakers act very loving towards their children.,Emotion-Evaluation
+403,loving,tender,everyone should try to be loving and tender to their family.,Members-of-the-same-Category
+404,magazine,celebrities,celebrities usually cover the pages of magazines.,Location
+405,magazine,vogue,vogue is an american fashion and lifestyle magazine.,Category-Exemplar-Pairs
+406,majority,most,majority is another way to say most.,Synonym
+407,makeup,beautiful,i wear makeup in the morning to look more beautiful.,Function
+408,makeup,colorful,some makeup has colorful shades.,HasProperty
+409,melted,chocolate,chocolate must be melted to make candy.,Action
+410,melted,chocolate,i melted the chocolate to make candy.,Action
+411,melted,chocolate,"to make candy, the chocolate must be melted.",Action
+412,memory,mind,your memory comes from your mind.,PartOf
+413,miles,distance,"although they were once good friends, there was now considerable distance between them small miles",Category-Exemplar-Pairs
+414,miles,distance,i can cover a lot of distance if i run for miles.,Thematic
+415,miles,distance,"she can run for many miles, so her distance is high.",Thematic
+416,miles,distance,the distance covered is 50 miles.,Thematic
+417,military,army,a large branch of the military is the army,PartOf
+418,military,army,our military has a large army branch.,PartOf
+419,military,army,the military has a vast army.,PartOf
+420,military,army,the us army is one branch of our military.,PartOf
+421,millions,money,my father saw the millions of money in his life.,Thematic
+422,millions,money,some who has millions of dollars has a ton of money.,Thematic
+423,millions,money,the money stolen read millions of notes.,Thematic
+424,misguided,wrong,"when someone has been misguided, they have been given the wrong facts.",Synonym
+425,mission,secret,a secret mission is something that spies go on.,Common-Phrase
+426,mommy,child,a child often wants their mommy.,Thematic
+427,mommy,daddy,a mommy and a daddy are often a child's parents.,Members-of-the-same-Category
+428,monster,green,the green monster is the famous wall in fenway park.,Common-Phrase
+429,month,july,independence day is in the month of july.,Category-Exemplar-Pairs
+430,mountain,fuji,mt. fuji is a famous mountain in japan.,Category-Exemplar-Pairs
+431,movie,scripted,movies are scripted stories about life.,HasProperty
+432,moving,poignant,"if i find a poem moving, i would also find that poem poignant.",Synonym
+433,nature,beautiful,nature is all of the beautiful scenery outside.,HasProperty
+434,necessary,needed,"if something is necessary, you most likely need it.",Synonym
+435,necessary,needed,something you needed is a necessary thing,Synonym
+436,necessary,needed,water is a necessary supply that is needed for our survival.,Synonym
+437,obedient,listens,"if your child is obedient, they listen when you tell them what to do.",Has-Prerequisite
+439,obstruct,plan,i will not let anyone obstruct my plan.,Action
+440,operator,phone,you used to be able to talk to an operator on the phone.,Thematic
+441,operator,sade,"sade sang the song ""smooth operator.""",Thematic
+442,operator,user,"if someone is an operator of something, then they're a user of it.",Synonym
+443,opinion,disagreement,"sometimes when people state their opinions, it can lead to a disagreement.",Result-In
+444,order,fries,a lot of people order fries with their meals.,Action
+445,organization,company,a company can also be called an organization.,Synonym
+446,outspoken,loud,people who are outspoken often speak loudly.,HasProperty
+447,outspoken,vehement,if someone is outspoken they are often vehement in their beliefs.,HasProperty
+448,overdue,book,books can be overdue at the library.,Time
+449,overdue,fine,"if a book is overdue at the library, you pay a fine.",Result-In
+450,paper,plastic,paper and plastic are two options for bags.,Members-of-the-same-Category
+451,passing,another,passing on a road involves one car going past another car.,Action
+452,passing,by,"when someone walks past you, they are just passing by.",Common-Phrase
+453,passing,cautious,i am cautious when passing another vehicle.,Action
+454,patient,hospital,a hospital has many patients.,Location
+455,payment,money,i want to receive money as my payment.,Function
+456,payment,money,"if someone makes a payment, they need to use some form of money to do so.",Function
+457,payment,money,in order to make a payment you need money,Has-Prerequisite
+458,payment,money,payments can be made using money.,Function
+459,pensive,elderly,an elderly person can appear pensive when they are deep in thought.,HasProperty
+460,permission,allow,"if i give my child permission to spend the night at a friends, i am allowing them to sleep there.",Synonym
+461,permission,grant,the employees are granted permission to enter the office building before 9 pm.,Action
+462,permission,school,"to go on the school field trip, a student needs a permission slip signed by their parent.",Has-Prerequisite
+463,permission,songs,"when using a famous song for their own project, people must get permission from the song's owner.",Has-Prerequisite
+464,permission,warrant,the search warrant grants permission to the police to search the suspect's home.,Result-In
+465,pharmacy,drugs,the pharmacy didn't really hand out drugs.,Location
+466,pharmacy,drugs,there are many drugs in a pharmacy.,Location
+467,pharmacy,drugs,you can buy drugs at a pharmacy,Location
+468,piece,whole,many pieces make up a whole.,PartOf
+469,plague,death,plagues usually result in many deaths.,Result-In
+470,planet,pluto,scientist have decided pluto is only a dwarf planet.,Category-Exemplar-Pairs
+471,platypus,eggs,a platypus is a mammal that lays eggs.,Action
+472,plea,beg,if you are making a plea you are begging,Synonym
+473,plea,beg,"when you make a plea for something, you beg for it.",Synonym
+474,pocket,back,jeans usually always have back pockets.,Common-Phrase
+475,pocket,wallet,i do not forget to keep my wallet in my pocket.,Location
+476,pocket,wallet,i put my wallet in my pocket.,Location
+477,pocket,wallet,many men put their wallets in their back pockets.,Location
+478,pocket,wallet,the man panicked when he couldn't find his wallet in his pocket,Location
+479,poison,dangerous,poison is a dangerous substance and should be kept away from children.,HasProperty
+480,politics,republicans,republicans are a top party in politics.,Category-Exemplar-Pairs
+481,position,job,a position with the company is also called a job.,Synonym
+482,position,second,second is a position in ballet.,Thematic
+483,position,third,third is a position in ballet.,Category-Exemplar-Pairs
+484,possibility,anything,possibilities mean anything can happen.,Result-In
+485,possibility,choose,i need to choose an answer out of several possibilities.,Action
+486,possibility,face,he will face the possibility of being fired by his company due to misconduct.,Action
+487,possibility,odds,many people bet the odds for a possibility of winning a bet.,Thematic
+488,possible,can,if something is possible it means i think i can do it,Synonym
+489,possible,chance,"if something is possible, there is a chance that it might happen.",Synonym
+490,possible,could,anything that is possible could happen.,Has-Prerequisite
+491,possible,viable,"if something is viable, it may be possible.",Synonym
+492,powder,face,some people put powder on their face.,Location
+493,pray,church,church is the place where most people pray,Location
+494,pray,church,many people close their eyes to pray at church.,Location
+495,pray,church,"when people go to church, they tend to pray",Location
+496,prepared,plan,having a plan for something makes you feel more prepared.,Result-In
+497,pressure,constraint,constraints can build up pressure and force.,Result-In
+498,priest,religious,a priest is a religious leader.,HasProperty
+499,princess,daughter,the princess is the daughter of the king and queen.,Category-Exemplar-Pairs
+500,printer,cartridge,an ink cartridge needs to be installed in a printer.,PartOf
+501,printer,ink,printers often need to have the ink replaced.,PartOf
+502,printer,ink,the printer ran out of ink already!?,PartOf
+503,printer,ink,the printer ran out of ink and couldn't function,PartOf
+504,printer,ink,"the printer, as usual, was low on ink.",PartOf
+505,priority,concern,your top priority is your main concern.,Synonym
+506,priority,rush,"when something at the post office needs to be rushed, it will be stamped priority.",Has-Prerequisite
+507,profit,money,profit is how much money you make.,Category-Exemplar-Pairs
+508,prohibition,denied,prohibition denied citizens the right to drink alcohol.,Action
+509,promise,keep,i intend to keep any promise i make to anyone.,Action
+510,promise,keep,i keep most promises i make.,Action
+511,promise,keep,i promise i will keep my children safe.,Action
+512,promote,good,he gets promoted due to his good job performance.,Has-Prerequisite
+513,promote,higher,my boss will promote me to a higher position after my probation period.,Result-In
+514,protect,rights,the constitution is meant to protect the rights of all americans.,Function
+515,prove,theory,scientists like to prove a theory.,Action
+516,publicity,celebrity,a celebrity generally craves good publicity.,Thematic
+517,publicity,press,the press fill us in on all the celebrity's news and publicity.,Function
+518,pulse,heart,a person's pulse measures their heart rate.,Function
+519,purpose,meaning,the purpose of something is its meaning for existing.,Synonym
+520,purpose,reason,something's purpose is its reason for being.,Synonym
+521,quick,fast,he is running fast to the bus stop to quickly get into the bus.,Synonym
+522,quick,time,i cook quickly in the evening so my family has more time to eat dinner.,Time
+523,radar,speeding,a police officer can detect speeding with a radar gun.,Function
+524,radioactive,atoms,"when the atoms of an element break apart, it produces radioactive energy.",Result-In
+525,radioactive,energy,things that are radioactive have energy in them.,HasProperty
+526,radioactive,nuclear,nuclear energy uses things that are radioactive.,HasProperty
+527,raspberry,jam,raspberries can be made into jam.,Material-MadeOf
+528,rational,smart,you are smart if you think in a rational way.,HasProperty
+529,reading,glasses,he needs his reading glasses.,Common-Phrase
+530,reading,glasses,my father needs reading glasses.,Common-Phrase
+531,reading,glasses,the old man had to use reading glasses as it was difficult to see up close,Common-Phrase
+532,ready,start,if you say you are ready then you want to start.,Time
+533,ready,time,i always try to get ready in time so i am not late.,Time
+534,realistic,pragmatic,a pragmatic person looks at life in a realistic way.,Synonym
+535,reality,fantasy,fantasy is the opposite of reality.,Antonym
+536,reality,life,humans have to face the reality of life.,Common-Phrase
+537,reality,life,reality is what happens in real life.,PartOf
+538,reality,living,it is good to live in reality.,Action
+539,reason,accept,his boss accepted his reason for resignation.,Action
+540,reason,persuade,i need to think of a strong reason to persuade my kids to cut screening time.,Has-Prerequisite
+541,record,audio,a record is a device that stores audio.,PartOf
+542,record,over,don't record over my shows.,Common-Phrase
+543,refreshment,drink,a refreshment can be a drink like orange soda.,Category-Exemplar-Pairs
+544,refreshment,drink,"i wanted to see what sort of drinks were at the party, but the refreshments were nowhere to be seen.",Category-Exemplar-Pairs
+545,refreshment,drink,the drinks were served to the athletes as refreshments.,Function
+546,refreshment,water,water is the best refreshment on the planet.,Category-Exemplar-Pairs
+547,refuge,safe,"when you are given refuge, you can feel safe.",Has-Prerequisite
+548,refuge,security,a refuge is a place of security.,Synonym
+549,reign,king,a king reigns over his kingdom and people.,Function
+550,reign,subjects,a ruler reigns over his loyal subjects.,Action
+551,relationship,close,i had a close relationship with my parents.,Common-Phrase
+552,report,sound,a firework with report will make a loud sound.,HasProperty
+553,responsible,adult,adults have a lot of pressure to be responsible.,HasProperty
+554,restaurant,food,i like eating food at many restaurants.,Location
+555,restaurant,food,restaurants serve food to hungry customers.,Location
+556,restaurant,food,restaurants will serve you food,Function
+557,restaurant,food,the food at this restaurant is fantastic,Location
+558,restaurant,food,the food served at the restaurant was bad.,Location
+559,restaurant,gather,people sometimes gather at restaurants.,Location
+560,retrospect,past,"when i think in retrospect, i think of things that happened in the past.",Time
+561,review,evaluate,"when you review a document, you evaluate how good it is so far.",Synonym
+562,roller,spin,a roller ball is made to spin.,Function
+563,roman,empire,the roman empire is an ancient country.,Common-Phrase
+564,roman,numerals,roman numerals are different from the arabic numerals we use now.,Common-Phrase
+565,round,circle,circles are round in shape.,HasProperty
+566,running,race,"at the track, athletes can be seen running in a race.",Action
+567,running,race,people that race each other are normally running.,Action
+568,runny,mucus,the runny implies a nose rilled with mucus,HasProperty
+569,safe,fearless,"when you feel safe, you feel fearless.",Result-In
+570,safe,relieved,a person gets relieved when he goes to safe place.,Result-In
+571,salad,dressing,i always put dressing on my salad.,Thematic
+572,salad,dressing,ranch is one of the most common salad dressing.,Common-Phrase
+573,salad,dressing,sometimes i like to put a dressing on my salad.,Thematic
+574,salad,dressing,the secret to a great salad is the dressing.,Emotion-Evaluation
+575,salsa,spicy,salsa is usually good and spicy.,HasProperty
+576,sandpaper,wood,i use sandpaper to smooth the wood before staining.,Function
+577,saving,money,i am saving enough money to buy a new car.,Action
+578,saving,money,i am trying to save money for a vacation.,Action
+579,saving,money,saving money is essential for life.,Action
+580,saving,money,the family was saving money by not eating out,Action
+581,savior,christ,many people consider christ their savior.,Category-Exemplar-Pairs
+582,scared,ghost,most people are scared of ghost.,Emotion-Evaluation
+583,scared,murder,the residents are scared of the recent murder occurred in the community.,Emotion-Evaluation
+584,scout,evaluate,a scout evaluates a players skills.,Function
+585,scout,investigate,"when you scout a prospect, you investigate them and their abilities.",Synonym
+586,scrap,rid,when you scrap something you get rid of it,Synonym
+587,senator,party,a senator belongs to a particular political party.,PartOf
+588,senator,vote,one-third of the total membership of the senators get voted every two years.,Action
+589,sending,receiving,the opposite of sending something is receiving something.,Antonym
+590,series,string,the television series is an interesting string of happenings put together.,PartOf
+591,shadowy,dark,"in the dark, everything can look shadowy.",HasProperty
+592,shady,sneaky,someone who is shady acts sneaky.,Synonym
+593,shady,tree,a tree with lots of leaves is shady.,Result-In
+594,shaker,pepper,pepper is frequently kept in a shaker.,Location
+595,shape,condition,"the shape an object is in, is the condition of it.",Synonym
+596,shark,teeth,sharks uses their razor sharp teeth to tear through everything,PartOf
+597,shark,teeth,the shark had very large teeth.,HasProperty
+598,shark,teeth,the sharp teeth of the shark.,PartOf
+599,shrivel,wither,"when a flower withers, it shrivels down in size.",Result-In
+600,shrubbery,garden,i formal garden has manicured shrubbery.,Location
+601,signal,indication,a signal is another word for an indication.,Synonym
+602,signal,inform,a signal informs people what to do.,Function
+603,signal,react,people react to the signal given.,Result-In
+604,silver,spoon,i have a silver spoon from my grandmother.,Common-Phrase
+605,silver,utensils,utensils are often silver colored.,HasProperty
+606,simple,living,my philosophy on living is to keep everything simple.,Thematic
+607,single,one,a single ice cream cone contains one scoop of ice cream.,Synonym
+608,singular,one,singular means there is only one,Synonym
+609,singular,one,singular means there is only one of something.,Synonym
+610,singular,one,"when you have a singular object, you only have one.",Synonym
+611,sister,daughter,my sister is my mother's daughter.,Members-of-the-same-Category
+612,skill,hobby,some people have skills that they have turned into a hobby.,Result-In
+613,skill,sports,some people have a high level of skill in sports.,Thematic
+614,skunk,smell,"oddly enough, the skunk didn't smell.",HasProperty
+615,skunk,smell,skunks are known for creating terrible smells,HasProperty
+616,skunk,smell,skunks smell bad when they spray.,HasProperty
+617,skunk,smell,the smell of a skunk is one of the worst odors.,HasProperty
+618,skunk,smell,the smell of the skunk spray was overwhelming outside.,HasProperty
+619,skunk,smell,"when a skunk sprays a person or object, the smell is strong.",HasProperty
+620,sling,long,a sling is a long strap used to support a weight.,HasProperty
+621,sling,support,i use an arm sling to support my broken arm.,Function
+622,soldier,billy,"""one tin soldier"" was the theme song for the movie ""billy jack.""",Thematic
+623,soldier,fighter,soldiers are trained fighters for war.,Category-Exemplar-Pairs
+624,soldier,tomb,the tomb of the unknown soldier is in arlington national cemetery.,Location
+625,space,stars,i'm sure being in space means you get to see a bunch of stars.,Location
+626,space,stars,space has a lot of stars in it.,PartOf
+627,space,stars,space is like the house for stars.,PartOf
+628,space,stars,the space is full with stars.,PartOf
+629,spare,change,coins are often called spare change.,Common-Phrase
+630,spare,tire,a spare tire is a common thing in a car.,Common-Phrase
+631,spare,tire,he was lucky he had a spare tire.,Common-Phrase
+632,spare,tire,i care a spare tire in case of a blow out.,Common-Phrase
+633,spare,tire,i used my spare tire when i got a flat driving my car yesterday.,Common-Phrase
+634,spare,tire,you need to have a spare tire for your car.,Common-Phrase
+635,special,interesting,if something is special then it's often interesting.,Synonym
+636,special,unique,something that is special is usually unique.,Synonym
+637,spotted,leopard,a leopard is a spotted big cat.,HasProperty
+638,stairs,floors,the stairs take you to different floors in the house.,PartOf
+639,stall,car,if you don't shift correctly then your car can stall.,Action
+640,stance,posture,having a good stance is the same as having good posture.,Synonym
+641,standing,feet,my feet hurt when i've been standing for a long time.,Result-In
+642,standing,posture,"when someone is standing, their posture can be observed.",Result-In
+643,starting,first,i will be starting first thing in the morning.,Common-Phrase
+644,starting,first,they first pray to god when starting the ceremony.,Time
+645,starting,show,the show will be starting.,Action
+646,steady,endurance,running at a steady pace shows that you have endurance.,Has-Prerequisite
+647,steady,race,moving at a steady pace is a good method for running a race.,Action
+648,steady,stable,"when someone is steady, they are stable on their feet.",Synonym
+649,stick,match,matches are usually in stick form.,HasProperty
+650,store,purchase,you can purchase many things in a store.,Location
+651,story,author,authors write stories for a living.,Function
+652,story,multiple,a building can have multiple stories,Common-Phrase
+653,strand,thread,a strand of thread is used for sewing.,PartOf
+654,strategic,calculated,a strategic plan is careful calculated.,Synonym
+655,strategic,tactical,a strategic plan should be very tactical.,Synonym
+656,summer,hot,in summer it gets hot.,HasProperty
+657,summer,hot,in the summer it gets hot.,HasProperty
+658,summer,hot,it is usually hot in the summer time,HasProperty
+659,summer,hot,summer is always very hot.,HasProperty
+660,support,politician,you can support a politician by putting a yard sign in your yard.,Action
+661,supportive,helpful,being helpful to show you are supportive of a friend is great.,Synonym
+662,surpass,beyond,surpassing somebody means going beyond their ability.,Synonym
+663,surpass,beyond,we surpassed our goal beyond our biggest hopes.,Synonym
+664,surpass,beyond,when you surpass a barrier you go beyond it.,Synonym
+665,surpass,excel,"when a person surpasses what they're are supposed to do, they excel.",Synonym
+666,surprise,birthday,people like to surprise their loved ones with a party on their birthday.,Time
+667,sweet,caroline,"neil diamond had a huge hit with the song ""sweet caroline.""",Common-Phrase
+668,tablet,ipad,the ipad is one of the most popular tablets.,Category-Exemplar-Pairs
+669,tactful,conversation,when having a conversation you have to be tactful with your words so you don't hurt anyone's feelings.,Action
+670,tactful,words,"when trying to be tactful, you need to choose your words carefully.",Has-Prerequisite
+672,temptation,dessert,i think dessert is a temptation for many people.,Emotion-Evaluation
+673,temptation,resist,people often try to resist temptation.,Common-Phrase
+674,thousand,million,a million comes after a thousand.,Members-of-the-same-Category
+675,thousand,money,"70 thousand of dollar money, i spend the social activity",Thematic
+676,thousand,money,a thousand dollars is a lot of money.,Thematic
+677,thousand,money,i associated thousand with money because of a thousand dollars.,Thematic
+678,thousand,years,a thousand years is a length of time.,Common-Phrase
+679,throat,sore,a sore throat is associated with colds and flu.,HasProperty
+680,tired,feel,i feel tired after a long day of work.,Emotion-Evaluation
+681,tired,work,he is tired after working overtime for two days.,Result-In
+682,total,all,the total number of an object includes all of them.,Synonym
+683,tradition,jimmy,"many people have the tradition at christmas time of watching ""it's a wonderful life"" with jimmy stewart.",Thematic
+684,trial,verdict,a trial has the outcome of a verdict.,Result-In
+685,truth,honest,someone who tells the truth is honest.,Synonym
+686,twist,cap,you twist the cap off a bottle.,Action
+687,understand,language,when someone speaks a second language they understand it.,Action
+688,utilize,advantage,the team utilized their height advantage to win the game.,Action
+689,utilize,advantage,utilize or take advantage of the tools you have.,Synonym
+690,vacation,chevy,"chevy chase starred in a move called ""vacation.""",Thematic
+691,vacuum,noisy,a vacuum is noisy when it is working.,HasProperty
+692,vampire,sharp,a vampire has two sharp teeth.,HasProperty
+693,vampire,sunlight,a vampire is afraid of being exposed to sunlight.,Thematic
+694,vegetation,food,vegetation is grown to make food for humans.,Function
+696,vegetation,water,the process of vegetation requires supply of water.,Has-Prerequisite
+697,violate,breach ,"when a building is breached, someone has violated the safety blocks.",Synonym
+698,vivid,bright,"when a photo is vivid, the colors are very bright.",HasProperty
+699,volcano,helens,mt. st. helens is a well-known volcano in washington.,Category-Exemplar-Pairs
+700,waste,bad,he has a bad habit of wasting food.,Emotion-Evaluation
+701,waste,money,i do not like wasting money on unnecessary things.,Action
+702,weekend,break,the weekend is a short break from work.,Time
+703,weekend,yardwork,"this weekend, i will do yardwork.",Time
+704,weeping,sad,a person that is weeping is very sad.,Result-In
+705,weeping,sad,if someone is weeping they are likely sad.,Category-Exemplar-Pairs
+706,weeping,sad,"if someone is weeping, it's because they are sad.",Result-In
+707,weeping,sad,if you are very sad you might start weeping.,Result-In
+708,weeping,willow,a weeping willow is a tree.,Common-Phrase
+709,weeping,willow,a weeping willow is a type of tree,Common-Phrase
+710,weeping,willow,a weeping willow is a type of tree.,Common-Phrase
+711,weeping,willow,i have a weeping willow tree in the front yard.,Common-Phrase
+712,weirdo,unique,a weirdo is a unique person.,HasProperty
+713,woman,breasts,a woman has breasts that are typically larger than a man.,PartOf
+714,woman,pregnancy,a woman goes to the doctor during her pregnancy.,HasProperty
+715,wonder,awe,"if you are in wonder of something, you are in awe of it.",Synonym
+716,wonder,contemplate,to wonder about something means that someone is contemplating.,Synonym
+717,working,computer,most working people use a computer for many hours during the day.,Function
+718,worried,scared,"when someone is worried about something, they are usually scared about that particular subject.",Synonym
+719,worry,weather,many people worry about the weather for different reasons.,Emotion-Evaluation
+720,wounds,heal,"with time, most wounds heal.",Action
+721,wrath,punishment,"when parents give their child a punishment, the child is feeling the parents' wrath.",Emotion-Evaluation
+722,writing,book,she ha been writing her book for four years but still had much research to do.,Action
+723,writing,book,sometimes people write so they can write a book,Action
+724,writing,book,the author was writing a new book that was going to be 300 pages,Action
+725,writing,book,the book i'm writing won't be done for a long time.,Action
+726,writing,essay,she starts writing an essay for her college enrollment.,Action
+727,yelling,loud,if someone is yelling then they're loud.,HasProperty

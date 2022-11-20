@@ -1,0 +1,301 @@
+﻿,cue,association,explanation,relation
+881,clean,dirty,when your home is dirty you need to clean it up.,Has-Prerequisite
+942,darkness,vampires,vampires like living in the darkness,Location
+30,baked,oven,if something was baked then it was cooked in an oven.,Location
+865,check,bank,checks are taken to the bank.,Location
+1030,glass,window,window panes are made of glass.,Material-MadeOf
+929,cowgirl,western,a cowgirl would usually be found in the western part of the us.,Location
+512,promote,higher,my boss will promote me to a higher position after my probation period.,Result-In
+1250,purse,clutch,a clutch is a type of purse.,Category-Exemplar-Pairs
+646,steady,race,moving at a steady pace is a good method for running a race.,Action
+1541,poison,kill,"to kill a rat, poison something for it to eat.",Result-In
+433,nature,beautiful,nature is all of the beautiful scenery outside.,HasProperty
+1217,platypus,animal,the platypus is an animal that is found in australia.,Category-Exemplar-Pairs
+1456,ultra,super,ultra is another word for super.,Synonym
+763,apart,together,together is the opposite of apart.,Antonym
+1019,gateway,opening ,a gateway is a type of opening.,Category-Exemplar-Pairs
+526,raspberry,jam,raspberries can be made into jam.,Material-MadeOf
+1055,heavenly,angel,angels live in heaven so they are heavenly.,Location
+592,shady,tree,a tree with lots of leaves is shady.,Result-In
+919,corner,square,the corner is based to the part of square.,PartOf
+815,bottle,glass,bottles are usually made of glass,Material-MadeOf
+683,truth,honest,someone who tells the truth is honest.,Synonym
+696,volcano,helens,mt. st. helens is a well-known volcano in washington.,Category-Exemplar-Pairs
+786,awful,good,awful is the opposite of good.,Antonym
+1395,student,school,the students went to school at 7 in the morning,Location
+1405,synonym,antonym,synonym and antonym's are opposites,Antonym
+205,dressed,best,there are plenty of best-dressed lists for celebrities.,Common-Phrase
+121,closed,window,i closed the window because it was raining outside.,Action
+845,cafeteria,school,most schools have a cafeteria where students can purchase a hot or cold lunch.,Location
+795,believable,credible,believable has a similar meaning as credible.,Synonym
+1078,idiom,language,idioms are part of language,PartOf
+748,alien,space,an alien might come from outer space.,Location
+1495,whereby,how,i think how could be a synonym for whereby. you could swap the two words in a sentence.,Synonym
+1048,hardly,narrowly,hardly has a similar meaning as narrowly.,Synonym
+480,position,job,a position with the company is also called a job.,Synonym
+59,broken,car,i cannot go shopping because my car is broken.,HasProperty
+936,crush,squash,crush has a similar meaning as squash.,Synonym
+752,anger,ire,anger is a synonym for ire.,Synonym
+506,profit,money,profit is how much money you make.,Category-Exemplar-Pairs
+150,cosmopolitan,city,many young people love living in a cosmopolitan city to experience the diverse culture.,Common-Phrase
+485,possibility,face,he will face the possibility of being fired by his company due to misconduct.,Action
+1449,trust,guardianship ,guardianship is one of the most strict forms of trust.,Category-Exemplar-Pairs
+87,change,tire,"if a tire goes flat, it has to be changed.",Action
+806,blemish,spot,"a blemish is any type of mark, spot, discoloration, or flaw that appears on the skin.",Category-Exemplar-Pairs
+1027,glass,clear,i usually think of glass as being clear such as in a window or in a drinking glass.,HasProperty
+1060,hillbilly,redneck,a hillbilly is similar to a redneck.,Synonym
+425,mission,secret,a secret mission is something that spies go on.,Common-Phrase
+1173,north,south,north is the opposite side of the south,Antonym
+775,apple,fruit,apple is a sweet fruit.,Category-Exemplar-Pairs
+910,complicated,simple,simple is the opposite of complicated.,Antonym
+906,commitment,relationship,commitment is an important part of a relationship.,PartOf
+580,savior,christ,many people consider christ their savior.,Category-Exemplar-Pairs
+636,spotted,leopard,a leopard is a spotted big cat.,HasProperty
+308,guess,designer,guess is a designer fashion company.,Category-Exemplar-Pairs
+870,chickadee,bird,the chickadee is a bird of flight.,Category-Exemplar-Pairs
+50,bridge,drive,driving across really high or old bridges is scary.,Action
+11,amass,fortune,"when someone is very, very rich, they are known to have amassed a fortune.",Action
+759,animal,cat,a cat is a common type of animal.,Category-Exemplar-Pairs
+716,worry,weather,many people worry about the weather for different reasons.,Emotion-Evaluation
+801,bicycle,ride,you can take your bicycle for a ride,Function
+1471,usually,typically,usually is a synonym for typically.,Synonym
+142,conundrum,problem,a conundrum is a problem that is hard to solve.,Category-Exemplar-Pairs
+1470,usually,often,often is a synonym of usually,Synonym
+1093,instant,moment,instant is a synonym for moment.,Synonym
+1178,nurse,hospital,a nurse works at the hospital.,Location
+587,senator,vote,one-third of the total membership of the senators get voted every two years.,Action
+192,discourse,conversation,engaging in discourse means that you are having a conversation.,Synonym
+365,interest,hobbies,your interests are usually the same things you do for your hobbies.,Synonym
+1559,wallet,leather,a high quality wallet used to be made from italian leather.,Material-MadeOf
+199,dollar,cost,this book costs seven dollars.,Action
+1193,palace,royalty,usually only royalty get to live in palaces.,Location
+1546,skunk,spray,skunks spray people to protect themselves,Action
+1071,house,window,"a window is a part of a house, every house has a window.",PartOf
+1064,hippopotamus,africa,hippopotamuses are animals that live in africa.,Location
+984,especially,mainly,especially has a similar meaning as mainly.,Synonym
+1318,shark,ocean,sharks are found in the ocean.,Location
+754,angled,fished,angled is another word for fished.,Synonym
+762,annually,yearly,annually has a similar meaning as yearly.,Synonym
+857,chair,wood,a lot of chairs are typically made of wood.,Material-MadeOf
+1294,roman,dress,the roman type of dress was plain.,Category-Exemplar-Pairs
+20,appointment,late,sometimes i am late for my appointment.,Time
+1036,government,congress,congress is a body of representatives that is part of the government.,PartOf
+1168,negatively,positively,negatively is the opposite of positively.,Antonym
+541,record,over,don't record over my shows.,Common-Phrase
+487,possible,can,if something is possible it means i think i can do it,Synonym
+1105,jobless,inactive,jobless is the synonym of the inactive.,Synonym
+25,bagpipe,kilt,men playing bagpipes often wear kilts.,Thematic
+1519,camera,lens,a camera has different parts including a lens.,PartOf
+1174,notify,inform,notify has a similar meaning as inform.,Synonym
+1359,spring,fall,spring is the opposite season of fall.,Antonym
+532,ready,time,i always try to get ready in time so i am not late.,Time
+935,crush,press,crush has a similar meaning as press.,Synonym
+770,apple,fruit,an apple is a kind of fruit.,Category-Exemplar-Pairs
+897,clothing,dress,dress and dresses are part of clothing accessories.,PartOf
+43,bodily,warm,bodily parts have a warm temperature.,HasProperty
+560,review,evaluate,"when you review a document, you evaluate how good it is so far.",Synonym
+1482,voluntary,optional,voluntary is the synonym of the optional,Synonym
+1021,gateway,entry,gateway is also defined as the entry.,Synonym
+239,fancy,feast,fancy feast is a brand name of cat food.,Common-Phrase
+3,admiral,chief,admirals and chiefs are leaders in the world.,Members-of-the-same-Category
+444,organization,company,a company can also be called an organization.,Synonym
+276,glittery,bright,the glittery jewels are very bright.,HasProperty
+1469,usually,mostly,usually is another word for mostly.,Synonym
+923,correct,right,correct is a synonym for right.,Synonym
+1451,trust,faith,trust has a similar meaning as faith.,Synonym
+1125,longer,superior,longed is defined as the superior,Synonym
+1113,learn,knowledge,when you learn something you gain knowledge.,Result-In
+354,ignition,flames,the flames are still growing for a while after ignition.,Result-In
+622,soldier,fighter,soldiers are trained fighters for war.,Category-Exemplar-Pairs
+691,vampire,sunlight,a vampire is afraid of being exposed to sunlight.,Thematic
+1473,utilize,customize,utilize is also defined as the customize,Synonym
+1184,opening,closing,the opposite of an opening is a closing.,Antonym
+331,humane,ethical,"if someone is humane, they act in an ethical way.",Synonym
+211,dropping,accident,dropping something is usually an accident.,Category-Exemplar-Pairs
+307,guess,answer,students are asked to guess the answer to a difficult question.,Action
+788,battle,fight,a fight is a part of a battle.,PartOf
+1107,jolly,happy,jolly is a synonym of happy.,Synonym
+1002,final,closing,final has a similar meaning as closing.,Synonym
+1291,rifle,weapon,rifles have been used as weapons in war for a very long time.,Category-Exemplar-Pairs
+978,embarrassing,frustrate,embarrassing is the synonym of the frustrate,Synonym
+1090,insertion,military,insertion is one type of military operation,Category-Exemplar-Pairs
+670,temptation,dessert,i think dessert is a temptation for many people.,Emotion-Evaluation
+6,agent,represent,she employed an agent to represent her to handle the rental business.,Function
+810,bless,worship,bless has a similar meaning as worship.,Synonym
+1314,settle,resolve,settle has a similar meaning as resolve.,Synonym
+1418,thief,robber,thief has a similar meaning as robber.,Synonym
+1490,warning,caution,the caution sign is a form of warning to the workers.,Category-Exemplar-Pairs
+988,exciting,stirring,exciting has a similar meaning as stirring.,Synonym
+269,genius,brilliant,a genius always has a brilliant performance in many tasks compared with average people.,HasProperty
+883,cleft,horse,cleft is a type of horse disease.,Category-Exemplar-Pairs
+44,brave,tough,a person that is brave is very tough.,Synonym
+1158,mission,plan,a mission is another word for plan.,Synonym
+149,correction,mistake,corrections are made to mistakes in written documents.,Action
+467,piece,whole,many pieces make up a whole.,PartOf
+1076,hydrate,workout,after a workout you need to hydrate your body,Has-Prerequisite
+1212,place,arrange,"as a verb, ""place"" has a similar definition to arrange.",Synonym
+628,spare,change,coins are often called spare change.,Common-Phrase
+843,business,profession,business has a similar meaning as profession.,Synonym
+649,store,purchase,you can purchase many things in a store.,Location
+89,miles,distance,"she can run for many miles, so her distance is high.",Synonym
+1102,jacket,coat ,a jacket is a form of a coat,Category-Exemplar-Pairs
+1264,raspberry,fruit,a raspberry is a type of fruit.,Category-Exemplar-Pairs
+359,impossible,situation,he always put himself in an impossible situation.,Common-Phrase
+892,clock,watch,i saw a watch it was round clock,Members-of-the-same-Category
+785,aware,knowledgeable,aware has a similar meaning as knowledgeable.,Synonym
+713,wonder,contemplate,to wonder about something means that someone is contemplating.,Synonym
+591,shady,sneaky,someone who is shady acts sneaky.,Synonym
+860,champagne,bubbly,champagne is looks like bubbly,HasProperty
+1316,shaker,glass,a salt shaker may be made of glass.,Material-MadeOf
+851,camera,videos,the videos captured by the camera were of poor quality.,Function
+1204,physically,body,to do something physically you need to use your body.,Has-Prerequisite
+866,chest,box,a chest is a special type of box.,Category-Exemplar-Pairs
+743,afraid,frightened,afraid and frightened mean the same thing.,Synonym
+563,roman,numerals,roman numerals are different from the arabic numerals we use now.,Common-Phrase
+1443,truck,cargo,the truck carried the cargo for a long distance,Function
+982,equivalent,corresponds,equivalent is another form of corresponds,Category-Exemplar-Pairs
+286,goodness,appraised,his goodness is always appraised by his coworkers.,Action
+1006,forgot,remembered,forgot is the opposite of remembered.,Antonym
+1351,south,north,south is the opposite of north.,Antonym
+1018,gasp,choke,gasp another word is choke,Synonym
+1087,indent,nick,indent has a similar meaning as nick.,Synonym
+1233,priest,church,the priest lived in the church,Location
+1545,skunk,spray,skunks spray people or animals that they perceive as a threat.,Action
+515,publicity,celebrity,a celebrity generally craves good publicity.,Thematic
+621,soldier,billy,"""one tin soldier"" was the theme song for the movie ""billy jack.""",Thematic
+804,biggest,smallest,biggest is the opposite of smallest.,Antonym
+1467,uptown,buildings,the uptown part of our city has a lot of buildings.,PartOf
+97,radioactive,energy,radioactive elements give off energy.,Action
+568,safe,fearless,"when you feel safe, you feel fearless.",Result-In
+45,break,crack,when something breaks it might have a crack in it.,Result-In
+772,apple,fruit,an apple is a type of fruit.,Category-Exemplar-Pairs
+902,combination,compound,combination is the another word of compound,Synonym
+956,difference,change,"to make a difference, you first need to make a change within.",Has-Prerequisite
+1245,proxy,agent,proxy is the synonym of agent,Synonym
+671,temptation,resist,people often try to resist temptation.,Common-Phrase
+1045,grinding,processing,grinding is a form of ingredient processing.,Category-Exemplar-Pairs
+1069,horse,animal,a horse is an equestrian animal.,Category-Exemplar-Pairs
+1061,hippo,large,hippos are some of the world's largest mammals.,HasProperty
+326,honey,sweet,honey is a very sweet substance.,HasProperty
+891,clock,alarm,i set a alarm in the clock,Function
+651,story,multiple,a building can have multiple stories,Common-Phrase
+1433,trial,jury,a jury is typically part of a trial.,PartOf
+558,restaurant,gather,people sometimes gather at restaurants.,Location
+1151,medicine,illness,"when someone is experiencing an illness, they usually require medicine to get well.",Has-Prerequisite
+934,critical,scathing,critical has a similar meaning as scathing.,Synonym
+1289,rifle,shot,a rifle has to be shot to fire.,Function
+1390,strip,withdraw,strip is the synonym of the withdraw,Synonym
+1200,percolator,machine,percolator is a form of machine that is used to brew coffee.,Category-Exemplar-Pairs
+1238,program,television,i watch a program on my television.,Location
+1552,syringe,hospital,there was a bloody syringe on the hospital floor.,Location
+427,mommy,daddy,a mommy and a daddy are often a child's parents.,Members-of-the-same-Category
+424,misguided,wrong,"when someone has been misguided, they have been given the wrong facts.",Synonym
+1399,sunrise,sunset,the sunrise and sunset took place at very different times,Antonym
+1012,freedom,frustration,i feel a lot of frustration over how people choose to define freedom lately,Synonym
+1341,small,large,the opposite of small is large.,Antonym
+583,scout,evaluate,a scout evaluates a players skills.,Function
+1271,raspberry,red,she woke up early to go and find red raspberries for the pie she's making.,HasProperty
+1258,rabbit,animal,"i can not eat the meat from most animals, for example, a rabbit.",Category-Exemplar-Pairs
+1475,utilize,use,use is the synonym of the utilize,Synonym
+60,gelatin,dessert,the gelatin made the dessert too sweet.,Result-In
+1286,rifle,gun,a rifle is a type of gun.,Category-Exemplar-Pairs
+1303,savior,brave,a savior needs to be brave in order to save others.,Has-Prerequisite
+1089,indoors,outdoors,the uv exposure is less indoors than outdoors.,Antonym
+1072,house,yard,most houses have a yard attached to them.,PartOf
+1046,ground,dirt,the ground is made of dirt and rocks.,Material-MadeOf
+794,beginning,end,the opposite of beginning is end.,Antonym
+255,following,after,"if something is following something else, then it comes after.",Synonym
+400,lover,doris,"""lover come back"" is a movie with doris day and rock hudson.",Thematic
+1334,skill,prowess,skill has a similar meaning as prowess.,Synonym
+946,decor,ornament ,an ornament is part of the decor of a home,PartOf
+909,community,town,a community is part of a town.,PartOf
+1533,piano,keys,piano has black and white keys,PartOf
+449,paper,plastic,paper and plastic are two options for bags.,Members-of-the-same-Category
+1453,truth,accurate,telling the truth is synonyms to saying what is accurate,Synonym
+751,anger,aggression ,anger is the synonym of the aggression,Synonym
+91,charity,humanitarian,"when doing humanitarian work, it is usually connected to a charity.",Category-Exemplar-Pairs
+945,decor,outline,decor needs to be outlined to start with.,Has-Prerequisite
+1357,spiky,style,spiky is a type of hair style.,Category-Exemplar-Pairs
+1159,monarchy,queen,the queen was a part of the monarchy with major influence,PartOf
+1512,bicycle,wheels,a bicycle has two wheels.,PartOf
+1101,jacket,clothing,a jacket is an item of clothing,Category-Exemplar-Pairs
+1215,planet,universe,there are many planets in the universe.,Location
+37,bibliography,paper,a bibliography is at the end of an academic paper.,PartOf
+174,deflate,footballs,tom brady deflated footballs in a game in order to cheat.,Action
+809,bless,praise,bless has a similar meaning as praise.,Synonym
+1162,monster,dark,monsters live in dark places.,Location
+101,reality,life,life is reality as we know it,Synonym
+991,exterminate,kill,to kill is another word synonymous to exterminate.,Synonym
+1166,nasal,throat,the throat is part of the nasal area.,PartOf
+1142,maxim,wide,wide is synonym of the word maxim,Synonym
+1298,running,sport,running is regarded as a type of sport.,Category-Exemplar-Pairs
+1306,seductive,sexy,sexy is another word for seductive.,Synonym
+1167,nauseous,puke,"if i feel nauseous, then i feel like i need to puke.",Has-Prerequisite
+831,building,tall,many buildings downtown are tall.,HasProperty
+1364,stall,barn,the barn was full of dirty stalls that needed to be cleaned.,Location
+1310,seriously,earnestly,seriously has a similar meaning as earnestly.,Synonym
+999,father,mother,the opposite of father is mother.,Antonym
+907,community,church,the local church in the community needed help fixing its roof.,Location
+862,chanting,prayer,chanting can be a form of prayer in some religions.,Category-Exemplar-Pairs
+1152,merchandise,shop,merchandise was stored in the shop,Location
+218,education,school,you get an education in school.,Location
+926,counsel,advice,counsel is a synonym for advice.,Synonym
+95,cheap,frugal,"it is generally okay to be frugal, but that's different than being totally cheap.",Synonym
+1017,gangster,thug,thug is synonymous with gangster.,Synonym
+7,agreeable,willing,"when a person is willing to do something, they are considered agreeable.",Synonym
+1272,ratio,geometry,ratios are a part of geometry.,PartOf
+1396,suburb,town,a suburb is a part of a town,PartOf
+1140,matter,particles,particles are just a part of matter.,PartOf
+828,build,create,build is the synonym of the create,Synonym
+1544,shark,fins,one of the defining characteristics of sharks are their fins like in the movie jaws,PartOf
+753,anger,rage,rage is another word to describe extreme anger,Synonym
+903,commander,boss,commander has a similar meaning as boss.,Synonym
+1349,sooner,later,later is the opposite of sooner.,Antonym
+77,castle,huge,a castle is made up of several huge towers.,HasProperty
+151,cosmopolitan,modern,new york city is a modern cosmopolitan metropolis.,Synonym
+997,fantasy,sword,sword and sorcery is a type of fantasy genre.,Category-Exemplar-Pairs
+479,politics,republicans,republicans are a top party in politics.,Category-Exemplar-Pairs
+832,building,tall,the building is very tall.,HasProperty
+360,impossible,unable,"when someone is unable to do something, they find it impossible.",Synonym
+357,impossible,achieve,my boss loves to set business goals that are impossible to achieve.,Emotion-Evaluation
+1324,shears,tool,shears is a form of tool.,Category-Exemplar-Pairs
+986,ethanol,alcohol,ethanol is a type of alcohol,Category-Exemplar-Pairs
+447,overdue,book,books can be overdue at the library.,Time
+688,vacation,chevy,"chevy chase starred in a move called ""vacation.""",Thematic
+212,dropping,names,"when someone is dropping names, they are using someone's name that they think will make them look better or bigger.",Common-Phrase
+947,decor,furnishing,decor has a similar meaning as furnishing.,Synonym
+823,bridge,transport,transportation is the important thing in bridge,Function
+783,avoid,confront,avoid is the opposite of confront.,Antonym
+1267,raspberry,fruit,raspberry is a type of fruit.,Category-Exemplar-Pairs
+302,grinding,shiny,grinding makes metallic objects look shiny.,Result-In
+311,guest,show,many celebrities visit a talk show as a guest to promote their latest project.,Location
+1459,uncivilized,behavior,to be uncivilized is to exhibit a type of antisocial behavior.,Category-Exemplar-Pairs
+1123,longer,shorter,shorter is the opposite of longer.,Antonym
+1406,syringe,needle,a syringe is another word for a needle.,Synonym
+682,trial,verdict,a trial has the outcome of a verdict.,Result-In
+1414,telephone,communicate,a telephone is a device used to communicate.,Function
+1139,matter,substance,matter is a type of substance.,Category-Exemplar-Pairs
+1186,outfit,pants,pants are part of a persons everyday outfit.,PartOf
+841,business,stockpile,businesses need to stockpile some goods for selling,Has-Prerequisite
+885,climber,mountain,a mountain is climbed by a climber,Location
+1489,warning,alarm,an alarm going off is a type of warning.,Category-Exemplar-Pairs
+1154,millions,bills,millions of dollars are printed in the form of bills by the government.,Category-Exemplar-Pairs
+672,thousand,million,a million comes after a thousand.,Members-of-the-same-Category
+460,permission,grant,the employees are granted permission to enter the office building before 9 pm.,Action
+85,champagne,celebration,you drink champagne at a celebration.,Location
+599,shrubbery,garden,i formal garden has manicured shrubbery.,Location
+462,permission,songs,"when using a famous song for their own project, people must get permission from the song's owner.",Has-Prerequisite
+777,apple,red,he ate the red apple.,HasProperty
+1033,goose,white,a goose is very white in color.,HasProperty
+1393,student,school,students go to school to learn,Location
+952,delicious,tasty,delicious has a similar meaning as tasty.,Synonym
+1232,previously,before,previously is a synonym for before.,Synonym
+395,lonely,depressed,when you become too lonely you will probably be depressed as well.,Result-In
+1537,platypus,bill,the platypus has a big bill.,PartOf
+1112,learn,knowledge,i gained much knowledge from the lessons i learned in school.,Result-In
+1013,frosting,freeze,frosting is defined the freeze,Synonym
+1213,planet,galaxy,in our galaxy several planets are there,Location
+327,horrified,disgusted,horrified is another way to say disgusted.,Synonym
+1553,table,legs,most tables have legs to keep them up,PartOf
+166,danger,robot,"the robot in the old tv show ""lost in space"" ran around saying danger! danger! all the time.",Thematic
+438,obstruct,plan,i will not let anyone obstruct my plan.,Action

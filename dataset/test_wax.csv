@@ -1,0 +1,313 @@
+﻿,cue,association,explanation,relation
+0,angles,triangle,"chris remembered learning all about angles, including triangles, in high school math.",Category-Exemplar-Pairs
+1,angles,triangle,triangles have different kinds of angles.,PartOf
+2,angles,triangle,a triangle has 3 sides and 3 angles.,PartOf
+3,angles,triangle,the triangle has three angles.,PartOf
+4,bright,light,lights can often be bright.,HasProperty
+5,bright,light,the light was very bright.,HasProperty
+6,bright,light,when someone says something is bright they are usually talking about a light,Synonym
+7,casino,money,casinos tend to make a lot of money,Function
+8,casino,money,casinos are full of tons of money locked up.,Location
+9,casino,money,i try to win money at the casino.,Location
+10,casino,money,i won money at the casino.,Location
+11,casino,money,there is lots of money exchanged at casinos,Location
+12,chomp,eat,i always chomp the food i eat.,Action
+13,chomp,eat,a lot of people chomp when they eat.,Category-Exemplar-Pairs
+14,chomp,eat,when one eats they often chomp with their mouth.,Category-Exemplar-Pairs
+15,chomp,eat,"when you chomp at something, you eat it.",Category-Exemplar-Pairs
+16,contact,phone,i could contact her on the phone.,Function
+17,contact,phone,we use our phones to contact people,Function
+18,contact,phone,i save the contact nember my phone,Location
+19,correction,fix,"in order to make the correction, he had to fix his mistake.",Has-Prerequisite
+20,correction,fix,to fix the mistake is a needed correction.,Has-Prerequisite
+21,correction,fix,"if you are making a correction, you are fixing something",Synonym
+22,cowgirl,boots,a cowgirl is known for wearing their cowgirl boots.,Common-Phrase
+23,cowgirl,boots,cowgirls are like to wear boots.,PartOf
+24,cowgirl,boots,a cowgirl wears boots as part of her outfit.,HasProperty
+25,decipher,code,a code has to be deciphered,Action
+26,decipher,code,you must decipher a code.,Action
+27,decipher,code,a spy may decipher a secret code.,Action
+28,decipher,code,codes are needed to decipher something.,Function
+29,dinner,food,the food served for dinner was amazing.,Emotion-Evaluation
+30,dinner,food,my wife always serves a lot of good food for dinner.,Material-MadeOf
+31,dinner,food,food is what people have for dinner as a meal.,PartOf
+32,dinner,food,there was enough food for the dinner party.,Thematic
+33,dinner,food,the food i ate at the dinner was delicious,Time
+34,disaster,hurricane,a hurricane is a good example of a natural disaster.,Category-Exemplar-Pairs
+35,disaster,hurricane,a hurricane is a natural disaster.,Category-Exemplar-Pairs
+36,disaster,hurricane,a hurricane can cause a large disaster.,Result-In
+37,discriminate,race,the employer discriminates based on race.,Action
+38,discriminate,race,sometimes people discriminate based only on race.,Has-Prerequisite
+39,discriminate,race,people discriminate based on race.,Result-In
+40,discuss,talk,to discuss something you must talk about it.,Category-Exemplar-Pairs
+41,discuss,talk,when you discuss something you talk it through.,Category-Exemplar-Pairs
+42,discuss,talk,i want to talk to you so we can discuss our finances.,Function
+43,discuss,talk,"when we discuss a topic, we talk about all the details.",Synonym
+44,drinking,water,the thing that i mostly drink is water,Action
+45,drinking,water,drinking water is the best for your health.,Common-Phrase
+46,drinking,water,the town had a low supply of drinking water.,Common-Phrase
+47,evidence,police,police find the evidence in the crime place.,Action
+48,evidence,police,the police collate the evidence,Action
+49,evidence,police,police had the evidence to arrest the thief.,Thematic
+50,exceed,expectations,"if a stock does better than analysts had predicted, it has exceeded expectations.",Common-Phrase
+51,exceed,expectations,she was a great fit who exceeded expectations.,Common-Phrase
+52,exceed,expectations,exceeding is going beyond expectations.,Synonym
+53,forgive,forget,forgive and forget is a useful cliche,Common-Phrase
+54,forgive,forget,they say people must forgive and forget to get true closure.,Common-Phrase
+55,forgive,forget,you have to forgive and forget.,Common-Phrase
+56,forgive,forget,they always say forgive and forget.,Common-Phrase
+57,forgive,forget,to forgive does not mean to forget.,Thematic
+58,gelatin,dessert,fruit flavored gelatin is served for dessert.,Function
+59,gelatin,dessert,the gelatin was served for dessert,Function
+60,gelatin,dessert,the gelatin made the dessert too sweet.,Result-In
+61,greeter,hello,the greeter said hello to the shopper.,Action
+62,greeter,hello,you say hello when you are welcomed by a greeter,Action
+63,greeter,hello,a greeter at a store is supposed to say hello.,Function
+64,group,people,people often form a group to work more efficiently.,Action
+65,group,people,a group is composed of many people.,PartOf
+66,group,people,the group of people responsible for the vandalism were caught by the police.,PartOf
+67,heaven,god,it is said that heaven and hell were created by god.,Action
+68,heaven,god,heaven is the place where one can be with god.,Location
+69,heaven,god,heaven is where god lives.,Location
+70,hungry,food,"if you are hungry, make some food.",Action
+71,hungry,food,when a person is hungry...they want some food.,Has-Prerequisite
+72,hungry,food,"when i am hungry, i need to eat food.",Has-Prerequisite
+73,hungry,food,"when you're hungry, you need food.",Result-In
+74,hungry,food,i am so hungry i need food now.,Result-In
+75,igloo,cold,"when it's cold, you can build an igloo out of snow.",Has-Prerequisite
+76,igloo,cold,the outside of an igloo is usually cold.,HasProperty
+77,igloo,cold,the igloo wasn't so cold inside.,HasProperty
+78,igloo,cold,an igloo is very cold to the touch.,HasProperty
+79,igloo,cold,inside an igloo it is cold because its surrounded by ice.,HasProperty
+80,igloo,cold,the igloo is a cold place,HasProperty
+81,lesson,learn,i always learn the good lesson,Action
+82,lesson,learn,you go to school so that you can learn lessons.,Action
+83,lesson,learn,to know a lesson you have to learn about it,Has-Prerequisite
+84,lesson,learn,"in my afternoon lesson, i learned a great deal.",Location
+85,liberty,freedom,"we have the freedom here to speak freely, so our liberty is very important.",Has-Prerequisite
+86,liberty,freedom,liberty means having freedom to do what you like.,Synonym
+87,liberty,freedom,people believe in liberty and freedom.,Synonym
+88,miles,distance,"although they were once good friends, there was now considerable distance between them small miles",Category-Exemplar-Pairs
+89,miles,distance,"she can run for many miles, so her distance is high.",Synonym
+90,miles,distance,i can cover a lot of distance if i run for miles.,Thematic
+91,miles,distance,the distance covered is 50 miles.,Thematic
+92,payment,money,i want to receive money as my payment.,Function
+93,payment,money,money is an accepted form of payment in most places.,Function
+94,payment,money,"if someone makes a payment, they need to use some form of money to do so.",Function
+95,payment,money,payments can be made using money.,Function
+96,payment,money,in order to make a payment you need money,Has-Prerequisite
+97,radioactive,energy,radioactive elements give off energy.,Action
+98,radioactive,energy,things that are radioactive have energy in them.,HasProperty
+99,reality,life,humans have to face the reality of life.,Action
+100,reality,life,reality is what happens in real life.,PartOf
+101,reality,life,life is reality as we know it,Synonym
+102,refreshment,drink,"i wanted to see what sort of drinks were at the party, but the refreshments were nowhere to be seen.",Category-Exemplar-Pairs
+103,refreshment,drink,a refreshment can be a drink like orange soda.,Category-Exemplar-Pairs
+104,refreshment,drink,the drinks were served to the athletes as refreshments.,Function
+105,restaurant,food,restaurants will serve you food,Function
+106,restaurant,food,i like eating food at many restaurants.,Location
+107,restaurant,food,restaurants serve food to hungry customers.,Location
+108,restaurant,food,the food at this restaurant is fantastic,Location
+109,restaurant,food,the food served at the restaurant was bad.,Location
+110,salad,dressing,ranch is one of the most common salad dressing.,Common-Phrase
+111,salad,dressing,sometimes i like to put a dressing on my salad.,Thematic
+112,salad,dressing,the secret to a great salad is the dressing.,Thematic
+113,salad,dressing,i always put dressing on my salad.,Thematic
+114,shark,teeth,sharks uses their razor sharp teeth to tear through everything,PartOf
+115,shark,teeth,the sharp teeth of the shark.,PartOf
+116,shark,teeth,the shark had very large teeth.,HasProperty
+117,space,stars,i'm sure being in space means you get to see a bunch of stars.,Location
+118,space,stars,space has a lot of stars in it.,PartOf
+119,space,stars,space is like the house for stars.,PartOf
+120,space,stars,the space is full with stars.,PartOf
+121,starting,first,i will be starting first thing in the morning.,Common-Phrase
+122,starting,first,starting is what needs to be done first before other steps of the process,Has-Prerequisite
+123,starting,first,they first pray to god when starting the ceremony.,Time
+124,utilize,advantage,the team utilized their height advantage to win the game.,Action
+125,utilize,advantage,the basketball coach has the advantage of utilizing a very solid line up.,Result-In
+126,utilize,advantage,utilize or take advantage of the tools you have.,Synonym
+127,weeping,sad,if someone is weeping they are likely sad.,Emotion-Evaluation
+128,weeping,sad,a person that is weeping is very sad.,Result-In
+129,weeping,sad,"if someone is weeping, it's because they are sad.",Result-In
+130,weeping,sad,if you are very sad you might start weeping.,Result-In
+0,baked,goods,the baked goods just came out of the oven.,Common-Phrase
+1,baked,goods,baked goods are a treat that is often full of sugar.,Common-Phrase
+2,baked,goods,the baked goods smelled amazing.,Common-Phrase
+3,believable,trustworthy,"when someone is believable, he/she can be trustworthy.",Synonym
+4,believable,trustworthy,"for someone to be believable, they must be trustworthy.",Synonym
+5,believable,trustworthy,if someone is believable they are trustworthy.,Synonym
+6,bright,smart,"she was bright, the smartest one in her class.",Synonym
+7,bright,smart,someone who is bright could also be called smart.,Synonym
+8,bright,smart,"when a child is very smart, they are considered very bright.",Synonym
+9,career,money,my career allows me to earn money to pay for life's essentials.,Function
+10,career,money,people earn money through their career.,Function
+11,career,money,when you have a career it is to earn money,Function
+12,catcher,ball,a catcher usually catches a ball,Action
+13,catcher,ball,the catcher threw the ball back to the pitcher.,Action
+14,catcher,ball,the catcher threw the ball back.,Action
+15,chanting,crowd,the crowd at the game was chanting after the winning touchdown.,Action
+16,chanting,crowd,the crowd was chanting for the home team,Action
+17,chanting,crowd,the crowd was chanting the players name.,Action
+18,clean,neat,if your house is clean you may be a neat person.,Synonym
+19,clean,neat,"jet is a neat child, his clothes are always clean.",Synonym
+20,clean,neat,the space is clean and neat enough.,Synonym
+21,clench,fist,people clench their fists when they get upset.,Action
+22,clench,fist,when a person makes a fist they clench their fingers into a ball.,Action
+23,clock,time,a clock can tell you time,Function
+24,clock,time,clocks are used to tell time.,Function
+25,clock,time,clocks tell you what time it is.,Function
+26,clock,time,i watch the time on the clock,Function
+27,clock,time,the clock indicated it was time to go to sleep.,Function
+28,clock,time,the clock tells the time.,Function
+29,clock,time,the clock told the wrong time.,Function
+30,clock,time,we use clock to keep time.,Function
+31,comrade,friend,a comrade can also be considered your friend.,Synonym
+32,comrade,friend,"he is my closest comrade, my friend i've known the longest.",Synonym
+33,comrade,friend,i sometimes call my friend my comrade.,Synonym
+34,comrade,friend,"if someone is your comrade, then they are your friend",Synonym
+35,comrade,friend,"if someone is your comrade, then they are your friend.",Synonym
+36,court,judge,judges preside over what happens in a court room.,Location
+37,court,judge,"in every court, you can find a judge making a decision.",Location
+38,court,judge,a judge presides over the court.,Location
+39,court,judge,the judge presided over the court.,Location
+40,curvy,shape,curvy is a way to describe a shape of a person,HasProperty
+41,curvy,shape,the lady has a curvy shape,HasProperty
+42,curvy,shape,the shape looks so curvy.,HasProperty
+43,curvy,shape,the woman had a very curvy shape,HasProperty
+44,darkness,light,darkness is the opposite of light.,Antonym
+45,darkness,light,light is the opposite to darkness.,Antonym
+46,darkness,light,the darkness of have without light.,Antonym
+47,disaster,natural,tornadoes are a common type of natural disaster in my area.,Common-Phrase
+48,disaster,natural,hurricanes are a natural disaster.,Common-Phrase
+49,disaster,natural,natural calamities are also called natural disasters,Common-Phrase
+50,disaster,natural,the natural disaster tore apart the neighborhood,Common-Phrase
+51,disaster,natural,the natural disaster was unforeseen by the experts.,Common-Phrase
+52,domestic,home,"when a person is domestic, they like to stay around home.",Synonym
+53,domestic,home,"if someone spends most of their time at home taking care of their family, they are considered domestic.",Synonym
+54,domestic,home,running your home well is being domestic.,Synonym
+55,drove,car,i couldn't wait to turn 16 so i could drive a car alone.,Action
+56,drove,car,the girl drove the car down the block,Action
+57,drove,car,he drove the car off the side of the cliff.,Action
+58,drove,car,i drove my car today to the store.,Action
+59,drove,car,the car drove really fast on the freeway.,Action
+60,elevated,high,an elevated mountain is a high place.,Synonym
+61,elevated,high,"if something is elevated, it is up high.",Synonym
+62,elevated,high,the elevated floor was 6 inches high.,Synonym
+63,fatherly,figure,"he wasn't my dad, but he was a fatherly figure.",Common-Phrase
+64,fatherly,figure,my life would benefit greatly from the influence of a healthy fatherly figure,Common-Phrase
+65,fatherly,figure,the boy saw his uncle as a fatherly figure,Common-Phrase
+66,favor,prefer,"i favor apples over oranges, which means i prefer apples.",Synonym
+67,favor,prefer,i prefer hiking over playing video games because i favor the outdoors.,Synonym
+68,favor,prefer,if you favor something you prefer it.,Synonym
+69,favor,prefer,to favor pizza usually means you prefer pizza over the other meal choices.,Synonym
+70,flowing,water,the water is flowing down the gutter.,Action
+71,flowing,water,water flows when you turn on the faucet.,Action
+72,flowing,water,water is often seen flowing through hills and valleys.,Action
+73,friend,best,everyone needs to have a best friend,Common-Phrase
+74,friend,best,i have one best friend.,Common-Phrase
+75,friend,best,my dog is my best friend.,Common-Phrase
+76,friend,best,the girl hung out with her best friend daily,Common-Phrase
+77,goalie,save,another job of the goalie is to save the shots on the goal,Action
+78,goalie,save,"the goalie had a great night, making a save on all but one of the shots he faced.",Action
+79,goalie,save,the goalie reached his glove out and made a big save,Action
+80,grater,cheese,i use a grater to grate cheese for my meal.,Function
+81,grater,cheese,sometimes you need to use a grater to grate cheese,Function
+82,grater,cheese,a grater is great to make shredded cheese.,Function
+83,grater,cheese,he shredded the cheese with the grater.,Function
+84,green,grass,he was proud of his lawn; the green grass looked perfect.,HasProperty
+85,green,grass,grass is sometimes green colored.,HasProperty
+86,green,grass,see how all the grasses in her garden are green and beautiful.,HasProperty
+87,green,grass,the grass in my yard was especially green.,HasProperty
+88,hungry,stomach,an empty stomach can make you ferl hungry,Result-In
+89,hungry,stomach,an empty stomach leads to being hungry.,Result-In
+90,hungry,stomach,my stomach is growling because i'm hungry.,Result-In
+91,idiotic,stupid,he looked idiotic and stupid pulling that prank.,Synonym
+92,idiotic,stupid,if someone is idiotic then they are stupid.,Synonym
+93,idiotic,stupid,"if something is called idiotic, it can also be called stupid.",Synonym
+94,idiotic,stupid,you come across as stupid when you say idiotic things.,Synonym
+95,leaves,autumn,autumn is the time of year when leaves fall from the trees.,Time
+96,leaves,autumn,part of what makes autumn my favorite season is getting to view the beautiful leaves.,Time
+97,leaves,autumn,the leaves started to fall in autumn,Time
+98,lieutenant,army,the lieutenant had served in the army for ten years,PartOf
+99,lieutenant,army,the lieutenant in the army made a risky decision,PartOf
+100,lieutenant,army,the lieutenant was enlisted in the army.,PartOf
+101,lonely,alone,"even if you are lonely, you do not need to be alone.",Emotion-Evaluation
+102,lonely,alone,the god looked lonely as she was all alone.,Emotion-Evaluation
+103,lonely,alone,when you are alone you can become lonely.,Emotion-Evaluation
+104,lord,god,god is the lord of the universe.,Synonym
+105,lord,god,lord is used to refer to god in prayer.,Synonym
+106,lord,god,"the lord is seen as the father, the son, and the only spirit, which means god.",Synonym
+107,melted,chocolate,chocolate must be melted to make candy.,Action
+108,melted,chocolate,"to make candy, the chocolate must be melted.",Action
+109,melted,chocolate,i melted the chocolate to make candy.,Action
+110,military,army,our military has a large army branch.,PartOf
+111,military,army,a large branch of the military is the army,PartOf
+112,military,army,the military has a vast army.,PartOf
+113,military,army,the us army is one branch of our military.,PartOf
+114,millions,money,my father saw the millions of money in his life.,Thematic
+115,millions,money,some who has millions of dollars has a ton of money.,Thematic
+116,millions,money,the money stolen read millions of notes.,Thematic
+117,necessary,needed,"if something is necessary, you most likely need it.",Synonym
+118,necessary,needed,something you needed is a necessary thing,Synonym
+119,necessary,needed,water is a necessary supply that is needed for our survival.,Synonym
+120,pharmacy,drugs,the pharmacy didn't really hand out drugs.,Location
+121,pharmacy,drugs,there are many drugs in a pharmacy.,Location
+122,pharmacy,drugs,you can buy drugs at a pharmacy,Location
+123,plea,beg,if you are making a plea you are begging,Synonym
+124,plea,beg,"when you make a plea for something, you beg for it.",Synonym
+125,pocket,wallet,i do not forget to keep my wallet in my pocket.,Location
+126,pocket,wallet,i put my wallet in my pocket.,Location
+127,pocket,wallet,many men put their wallets in their back pockets.,Location
+128,pocket,wallet,the man panicked when he couldn't find his wallet in his pocket,Location
+129,pray,church,church is the place where most people pray,Location
+130,pray,church,many people close their eyes to pray at church.,Location
+131,pray,church,"when people go to church, they tend to pray",Location
+132,printer,ink,printers often need to have the ink replaced.,PartOf
+133,printer,ink,the printer ran out of ink already!?,PartOf
+134,printer,ink,the printer ran out of ink and couldn't function,PartOf
+135,printer,ink,"the printer, as usual, was low on ink.",PartOf
+136,promise,keep,i intend to keep any promise i make to anyone.,Action
+137,promise,keep,i keep most promises i make.,Action
+138,promise,keep,i promise i will keep my children safe.,Action
+139,reading,glasses,he needs his reading glasses.,Common-Phrase
+140,reading,glasses,my father needs reading glasses.,Common-Phrase
+141,reading,glasses,the old man had to use reading glasses as it was difficult to see up close,Common-Phrase
+142,running,race,"at the track, athletes can be seen running in a race.",Action
+143,running,race,people that race each other are normally running.,Action
+144,saving,money,i wish i was paid enough to be saving money.,Action
+145,saving,money,the family was saving money by not eating out,Action
+146,saving,money,i am saving enough money to buy a new car.,Action
+147,saving,money,i am trying to save money for a vacation.,Action
+148,saving,money,saving money is essential for life.,Action
+149,singular,one,singular means there is only one,Synonym
+150,singular,one,singular means there is only one of something.,Synonym
+151,singular,one,"when you have a singular object, you only have one.",Synonym
+152,skunk,smell,the smell of the skunk spray was overwhelming outside.,HasProperty
+153,skunk,smell,skunks are known for creating terrible smells,HasProperty
+154,skunk,smell,"oddly enough, the skunk didn't smell.",HasProperty
+155,skunk,smell,skunks smell bad when they spray.,HasProperty
+156,skunk,smell,the smell of a skunk is one of the worst odors.,HasProperty
+157,skunk,smell,"when a skunk sprays a person or object, the smell is strong.",HasProperty
+158,spare,tire,a spare tire is a common thing in a car.,Common-Phrase
+159,spare,tire,you need to have a spare tire for your car.,Common-Phrase
+160,spare,tire,he was lucky he had a spare tire.,Common-Phrase
+161,spare,tire,i care a spare tire in case of a blow out.,Common-Phrase
+162,spare,tire,i used my spare tire when i got a flat driving my car yesterday.,Common-Phrase
+163,summer,hot,in the summer it gets hot.,HasProperty
+164,summer,hot,it is usually hot in the summer time,HasProperty
+165,summer,hot,in summer it gets hot.,HasProperty
+166,summer,hot,summer is always very hot.,HasProperty
+167,surpass,beyond,surpassing somebody means going beyond their ability.,Synonym
+168,surpass,beyond,we surpassed our goal beyond our biggest hopes.,Synonym
+169,surpass,beyond,when you surpass a barrier you go beyond it.,Synonym
+170,thousand,money,"70 thousand of dollar money, i spend the social activity",Thematic
+171,thousand,money,a thousand dollars is a lot of money.,Thematic
+172,thousand,money,i associated thousand with money because of a thousand dollars.,Thematic
+173,weeping,willow,a weeping willow is a tree.,Common-Phrase
+174,weeping,willow,a weeping willow is a type of tree,Common-Phrase
+175,weeping,willow,a weeping willow is a type of tree.,Common-Phrase
+176,weeping,willow,i have a weeping willow tree in the front yard.,Common-Phrase
+177,writing,book,sometimes people write so they can write a book,Action
+178,writing,book,she ha been writing her book for four years but still had much research to do.,Action
+179,writing,book,the author was writing a new book that was going to be 300 pages,Action
+180,writing,book,the book i'm writing won't be done for a long time.,Action
