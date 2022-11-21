@@ -1,7 +1,4 @@
 # WAX
-
-<!-- <img src="./figures/wax_logo.png" alt="drawing" width="200"/> --
-
 This repository contains human association explanation for the [WAX](WAX__A_novel_dataset_for_Word_Association_eXplanations.pdf) dataset. We present the dataset and the baselines for probing to what extent current pre-trained language models capture the underlying relations in human associations.
 
 **Links**:
