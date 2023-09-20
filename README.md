@@ -74,7 +74,7 @@ You can download the full WAX dataset from [WAX.csv](WAX.csv), which includes 4 
 You can get access to the following additional data under the [dataset](./dataset) folder:
 
 * [wax_human_auto_labelled.csv](./dataset/wax_human_auto_labelled.csv): the 1.5K relation labelled subset in **WAX**, including 725 instances from crowd-sourced and 836 instances labelled automatically with human verification.
-* [wax_human_labelled.csv](./dataset/wax_human_labelled.csv): the final relation labelled subset from crowd sourcing. The label is the majority votes from five workers. Detailed labels of all five workers are provided in [wax_human_labelled_all_workers.csv](wax_human_labelled_all_workers.csv).
+* [wax_human_labelled.csv](./dataset/wax_human_labelled.csv): the final relation labelled subset from crowd sourcing. The label is the majority votes from five workers. Detailed labels of all five workers are provided in [wax_human_labelled_all_workers.csv](./dataset/wax_human_labelled_all_workers.csv).
 * [test_wax_ambiguous.csv](./dataset/test_wax_ambiguous.csv): the relation ambiguous subset, in which each (cue, association) pair is labelled with multiple relations.
 * [test_wax_unambiguous.csv](./dataset/test_wax_unambiguous.csv): the relation unambiguous subset, in which each (cue, association) pair is consistently labelled as a single relation.
 
