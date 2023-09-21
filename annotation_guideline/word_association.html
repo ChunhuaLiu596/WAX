@@ -1,0 +1,1563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+<!-- <head> -->
+    <!-- <title>Bootstrap Example</title> -->
+    <!-- <meta charset="utf-8"> -->
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> -->
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+  <!-- </head> -->
+<!-- </head> -->
+<body>
+<!-- <crowd-form onSubmit="return checkform()"> -->
+<crowd-form>
+
+
+    <div id="errorBox"></div>
+    <!-- BEGIN of TASK1 -->
+    <div id='sectask1' style="display: block; margin-left: 3%; margin-right: 3%;">
+        <div id = 'instructions1_page' class="container" style="text-align:left;">
+                <div class="row">
+                    <div class="col-xs-12 col-md-12">
+                        <div class="panel panel-primary">
+                            <div class="panel-body" id="instructionBody" style='display: block; '>
+                                <div id='task1_motivation'>
+                                    <h1> <strong>Welcome to our study on word associations! </strong></h1>
+                                    <!-- <p> In a word association task, you are asked to give the first word that comes to mind. For example, when you read the word dog, you might respond with cat, pet, bark, or friend. Scientists studying language and memory have collected vast amounts of word associations to study how our mental dictionary is organized. One of the challenges is that associations could be triggered by various reasons, such as words share similar or opposite meanings, co-occur in a certain situation, are linked through your personal experiences, mental states or imaginations, among many others.</p> -->
+                                    <p>This HIT consists of two parts. In Part 1, you will play the “word association game”: given a <strong>cue</strong> word, you will write down three spontaneous associations. You will be asked associations for five cue words. In Part 2, you will answer some follow-up questions on the associations you provided <button id="myBtnPsl" type=button style="border-style: outset;">(please click here to read details described in the Plain English Statement about this project) </button>. <br>
+                                        
+                                    <p> 
+                                        <!-- You must complete Part 1 of the study before moving on to Part 2. <br>  -->
+                                        <!-- You will be paid a base reward <span>&#36;</span>0.60 AUD. In addition, you will receive a bonus <span>&#36;</span>0.22 AUD for each valid follow-up answers you provide and <span>&#36;</span>0.06 AUD for each distinct third response you provide. We will apply automatic checks to filter out inappropriate responses, and bots. <br> -->
+                                        Each valid HIT will be paid at least <span>&#36;</span>0.66. A HIT including more associations and more valid follow-up answers by following the rules will be paid up to extra <span>&#36;</span>1 bonus. This HIT will take you approximately 5 minutes. <br> 
+                                        <!-- This HIT should takes less than 10 minutes. -->
+                                    </p>
+                                </div>
+
+                                <div id="task1_instruction" style='display: block;'>
+                                    <p><strong>Part 1 Instructions</strong> <br>
+                                        On the top of the screen will appear a <strong>cue</strong> word. Your task is to enter the <strong> first three words </strong> that come to your mind when reading this cue word.
+                                         <br>
+                                        If you don't know this word, press the <span><crowd-button>Unknown Word</crowd-button></span>. <br>
+                                        <span style="background-color: rgba(196, 220, 233, 0.356);">If you do know the cue word, type up to three distinct spontaneous associations - the more the better! You must provide at least two associations. Once finished, press </span><crowd-button>Next</crowd-button>.
+                                    </p>
+                                    <!-- <p>
+                                        <strong>Some hints</strong> <br> 
+                                        Only give associations to the word on top of the screen (not to your previous responses!) <br> 
+                                        Try to avoid full sentences as responses. <br>
+                                        Simply type a word and press Tab or Enter to type the next association.
+                                    </p> -->
+                                        
+                                    <p><strong>Examples</strong> <br>
+                                        Below, we list two examples for the cues “watermelon” and “run”. <br></p>
+                                    <table style="margin-top: 20pt; " id='example_table_task1'>
+                                        <tbody>
+                                            <tr>
+                                                <th>cue</th>
+                                                <th>association1</th>
+                                                <th>association2</th>
+                                                <th>association3</th>
+                                                <!-- <th>association4</th> -->
+                                            </tr>
+                            
+                                            <tr>
+                                                <td>watermelon</td>
+                                                <td>green</td>
+                                                <td>seeds</td>
+                                                <td>summer</td>
+                                                <!-- <td>juice</td> -->
+                                            </tr>
+                                            <tr>
+                                                <td>run</td>
+                                                <td>morning</td>
+                                                <td>fast</td>
+                                                <td>exercise</td>
+                                                <!-- <td>tennis</td> -->
+                                            </tr>
+                                            </tbody>
+                                    </table>
+                                    <!-- <crowd-checkbox id='ins1_check'  name='checkbox' class='checkBox'> I certify that the I read the instruction and understand the task. </crowd-checkbox><br> -->
+                                    <!-- <p> Now, please click <button id="myBtn" type=button style="border-style: outset;">Here </button> to read the consent form and tick the below checkbox.</p> -->
+                                    <crowd-checkbox id='ins1_check'  name='checkbox' class='checkBox' style="margin-top: 10pt;"> I agree to work on this task after reading the instruction and consent form <button id="myBtn" type=button style="border-style: outset;">(click to read the consent form) </button>. </crowd-checkbox><br>
+                                    <!-- (click <button type="button" data-toggle="modal" data-target="#myModal">consent from</button>) to see consent details. -->
+
+                                    <div class="container" style="margin-top: 2%; text-align: center; width:80%;margin-right: 50%; margin-bottom: 10%;" > <crowd-button class='btn' style='margin-bottom: 10%;' onclick="initialize_task1_pane('ins1_check','instructionBody', 'task1_pane','task1_instruction_head','c1')">Continue</crowd-button> </div>
+
+                                    <!-- Trigger/Open The Modal -->
+                                    
+                                    <div id="myModalPsl" class="modal">
+                                        <!-- Modal content -->
+                                            <div class="modal-content">
+                                                <span class="close">&times;</span>
+                                                <div class='consent_form'> 
+                                                    <p> Plain Language Statement </p>
+                                                    School of Computing and Information Systems/Faculty of Engineering and Information Technology <br> 
+                                                    School of Psychological Sciences <br> 
+    
+                                                    Project: Explaining Word Associations in Natural Language <br><br>
+                                                    
+                                                    Dr Lea Frermann (Responsible Researcher) <br>
+                                                    Tel: +61 390359888   Email: lea.frermann@unimelb.edu.au  <br> 
+                                                    Ms Chunhua Liu (Ph.D. candidate),  Email: chunhua@student.unimelb.edu.au  <br> 
+                                                    Prof Trevor Cohn, Email: trevor.cohn@unimelb.edu.au  <br> 
+                                                    Dr Simon De Deyne, Email: simon.dedeyne@unimelb.edu.au  <br><br>
+                                                    
+    
+                                                    Introduction <br>
+                                                    Thank you for your interest in participating in this research project. The following few pages will provide you with further information about the project, so that you can decide if you would like to take part in this research. 
+                                                    Please take the time to read this information carefully. You may ask questions about anything you don’t understand or want to know more about.
+                                                    Your participation is voluntary. If you don’t wish to take part, you don’t have to. If you begin participating, you can also stop at any time.<br>
+                                                    <ul>
+                                                    <li>What is this research about? </li>
+                                                    In a word association task, you are asked to give the first word that comes to mind. For example, when you read the word dog, you might respond with cat, pet, bark, or friend. Scientists studying language and memory have collected vast amounts of word associations to study how our mental dictionary is organized. One of the challenges is that associations could be triggered by various reasons, such as words share similar or opposite meanings, co-occur in a certain situation, are linked through your personal experiences, mental states, or imaginations, among many others. 
+    
+                                                    <li>What will I be asked to do?</li>
+                                                    Should you agree to participate two parts of this experiment. In Part 1, you will spend approximately 2 minutes play the “word association game”: given a cue word, you will write down three spontaneous associations. In Part 2, you will answer some follow-up questions on the associations you provided, which will take you approximately 3minutes. 
+                                                    <li>What are the possible benefits?</li>
+                                                    The collected data will advance interpretable word associations, provide deeper understanding about human mental representations, connections and reasonings. We aim to use the collected data to develop machine learning models to automatically detect relation types for word associations, especially when specific context such as explanations are known. The trained model can be applied to label large scale word association data base, which can be further injected to downstream tasks requiring basic and shared associative knowledge. The data set will also benefit cognitive scientists, who could use the data to further analyse human mental representations, and predict behavioural data including memory, lexical choice and semantic categorization.
+    
+                                                    We’ll check the data generated by you. If the data meet the criteria as described in the guideline, you’ll be paid in line with the minimal hourly participant payment corresponding to the Australian minimal wage of AUD$19.84.
+    
+                                                   <li> What are the possible risks? </li>
+                                                    You may feel offended by some words expressing profanity in a certain context. You can withdraw from the experiment at any time should you experience any discomfort. Our sample of cue words is a sample from the general English lexicon -- there is in no way a bias towards potentially offensive words.
+    
+                                                    <li>Do I have to take part?</li>
+                                                    No. Participation is completely voluntary. You can withdraw at any time. If you withdraw the task, the data you already generated will not be collected. 
+    
+                                                   <li> Will I hear about the results of this project?</li>
+                                                    The results from this project will be published in academic publications and accessible to the public. Participants may contact the researchers via email, as provided in the consent form.
+    
+                                                    <li>What will happen to information about me?</li>
+                                                    After the research project ends, the data will be released to the public for academic research. The University of Melbourne will retrain the data perpetually.  In this study, participants’ ID from the Amazon Mechanical Turk is the only exposed personal information, which will be replaced by random number before release. 
+    
+                                                    <li>Where can I get further information?</li>
+                                                    If you would like more information about the project, please contact the researchers; Dr Lea Frermann ( lea.frermann@unimelb.edu.au ), or Ms Chunhua Liu ( chunhua@student.unimelb.edu.au ). 
+    
+                                                    <li>Who can I contact if I have any concerns about the project?</li>
+                                                    This project has human research ethics approval from The University of Melbourne 22495. If you have any concerns or complaints about the conduct of this research project, which you do not wish to discuss with the research team, you should contact the Research Integrity Administrator, Office of Research Ethics and Integrity, University of Melbourne, VIC 3010. Tel: +61 8344 1814 or Email: research-integrity@unimelb.edu.au. All complaints will be treated confidentially. In any correspondence please provide the name of the research team and/or the name or ethics ID number of the research project. <br> <br><br><br><br>
+                                                    
+                                                    </ul>
+                                                </ol>
+                                                </div> 
+                                            </div>
+                                        <!-- </div> -->
+                                    </div>
+                                    <!-- The Modal -->
+                                    <div id="myModal" class="modal">
+                                    <!-- Modal content -->
+                                        <div class="modal-content">
+                                            <span class="close">&times;</span>
+                                            <div class='consent_form'> 
+                                                <p>Consent Form</p>
+                                                <ol>
+                                                <li>I consent to participate in this project, the details of which have been explained to me, and I have been provided with a written plain language statement to keep. </li> 
+                                                <li>I understand that the purpose of this research is to understand word associations in human minds.</li>
+                                                <li>I understand that my participation in this project is for research purposes only.</li>
+                                                <li>I acknowledge that the possible effects of participating in this research project have been explained to my satisfaction. </li>
+                                                <li>In this project I will be required to write down spontaneous word associations and answer some follow-up questions based on these associations.</li>
+                                                <li>I understand that my participation is voluntary and that I am free to withdraw from this project anytime without explanation or prejudice and to withdraw any unprocessed data that I have provided.</li>
+                                                <li>I understand that the data from this research will be stored at the University of Melbourne perpetually. </li>
+                                                <li>I have been informed that the confidentiality of the information I provide will be safeguarded subject to any legal requirements; my personally identifiable data will be password protected and accessible only by the named researchers. </li>
+                                                <!-- <li>I understand that after I click ‘agree’ on this consent form, it will be retained by the researcher. </li> -->
+                                            </ol>
+                                            </div> 
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                </div>
+        </div>
+        <!-- End instructions --><!-- Categorization Layout -->
+    <div id='task1_pane' class='task1_pane' style="display:none">
+        <div id='task1_instruction_head' style="margin-left: 8pt; display: none;">
+            <p><strong>Instructions: </strong><p>
+                    On the top of the screen shows a <strong>cue</strong> word. Your task is to enter the <strong> first three of words </strong> that come to your mind when reading this cue word.
+                    <br>
+                    If you don't know this word, press the Unknown Word. <br>
+                    If you do know the cue word, type up to three distinct spontaneous associations - the more the better! You must provide at least two associations. Once finished, press Next.
+                </p>
+
+                <!-- <p>
+                    <strong>Some hints</strong> <br> 
+                    Only give associations to the word on top of the screen (not to your previous responses!) <br> 
+                    Try to avoid full sentences as responses. <br>
+                    Simply type a word and press Tab to type the next association.
+                </p> -->
+        </div>
+
+        <div id="task1_cues" class='task1_body' style="text-align: center;">
+            <div id="c1" name='cue1' style="display: none;">
+                <h3>${cue1}</h3> 
+                <crowd-input id="r11" name="r11" class='association' placeholder="Enter a first association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);" ></crowd-input>
+                <crowd-input id="r12" name="r12" class='association' placeholder="Enter a second association" onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r13" name="r13" class='association' placeholder="Enter a third association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <div id='nt1'> 
+                    <div id='nt_1' style="width: 50%;float: left;"> 
+                        <crowd-button id='ru1' onclick="next_task1(this.id)" class='unknown_button'>Unknown Word</crowd-button> 
+                    </div>
+                    <div id='un_1' style="width: 50%;float: right;"> 
+                        <crowd-button id='rn1' onclick="next_task1(this.id)" class='next_button'>Next</crowd-button> 
+                    </div>
+                </div>   
+            </div> 
+            <div id="c2" name='cue2' style="display: none;">
+                <h3 id='cue2'> ${cue2} </h3>
+                <crowd-input id="r21" name="r21" class='association' placeholder="Enter a first association"   onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r22" name="r22" class='association' placeholder="Enter a second association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);" ></crowd-input>
+                <crowd-input id="r23" name="r23" class='association' placeholder="Enter a third association" "></crowd-input>
+                <div id='nt2'> 
+                    <div id='nt_2' style="width: 50%;float: left;"> 
+                        <crowd-button id='ru2' onclick="next_task1(this.id)" class='unknown_button'>Unknown Word</crowd-button> 
+                    </div>
+                    <div id='un_2' style="width: 50%;float: right;"> 
+                        <crowd-button id='rn2' onclick="next_task1(this.id)" class='next_button'>Next</crowd-button> 
+                    </div>
+                </div> 
+            </div>
+            <div id="c3" name='cue3' style="display: none;">
+                <h3 id='cue3'> ${cue3} </h3>
+                <crowd-input id="r31" name="r31" class='association' placeholder="Enter a first association"   onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r32" name="r32" class='association' placeholder="Enter a second association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);" ></crowd-input>
+                <crowd-input id="r33" name="r33" class='association' placeholder="Enter a third association" ></crowd-input>
+                <div id='nt3'> 
+                    <div id='nt_3' style="width: 50%;float: left;"> 
+                        <crowd-button id='ru3' onclick="next_task1(this.id)" class='unknown_button'>Unknown Word</crowd-button> 
+                    </div>
+                    <div id='un_3' style="width: 50%;float: right;"> 
+                        <crowd-button id='rn3' onclick="next_task1(this.id)" class='next_button'>Next</crowd-button> 
+                    </div> 
+                </div>
+            </div>
+            <div id="c4" name='cue4' style="display: none;">
+                <h3 id='cue4'>${cue4}</h3>
+                <crowd-input id="r41" name="r41" class='association' placeholder="Enter a first association"   onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r42" name="r42" class='association' placeholder="Enter a second association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r43" name="r43" class='association' placeholder="Enter a third association"></crowd-input>
+                <div id='nt4'> 
+                    <div id='nt_4' style="width: 50%;float: left;"> 
+                        <crowd-button id='ru4' onclick="next_task1(this.id)" class='unknown_button'>Unknown Word</crowd-button> 
+                    </div>
+                    <div id='un_4' style="width: 50%;float: right;"> 
+                        <crowd-button id='rn4' onclick="next_task1(this.id)" class='next_button'>Next</crowd-button> 
+                    </div>
+                </div>
+            </div>
+
+            <div id="c5" name='cue5' style="display: none;">
+                <h3 id='cue5'> ${cue5} </h3>
+                <crowd-input id="r51" name="r51" class='association' placeholder="Enter a first association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r52" name="r52" class='association' placeholder="Enter a second association"  onkeypress="if(event.keyCode==13 || event.keyCode==37) focusNextInput(this);"></crowd-input>
+                <crowd-input id="r53" name="r53" class='association' placeholder="Enter a third association"></crowd-input>
+                <div id='nt5'> 
+                    <div id='nt_5' style="width: 50%;float: left;"> 
+                        <crowd-button id='ru5' onclick="switch_to_task2(this.id,'sectask1','sectask2')" class='unknown_button'>Unknown Word</crowd-button> 
+                    </div>
+                    <div id='un_5' style="width: 50%;float: right;"> 
+                        <crowd-button id='rn5' onclick="switch_to_task2(this.id,'sectask1','sectask2')" class='next_button'>Done! Move to Part2!</crowd-button> 
+                    </div>
+                </div>
+                
+            </div> 
+            <div id='submit_task1' style='margin-top: 20pt; display:none;'> 
+                <p> Thanks for your participation!  <br> <br> Please click submit to finish the task!</p>
+                <crowd-button id ='submit' form-action="submit" variant="primary" style='margin-top: 10px;'>Submit</crowd-button>
+            </div> 
+        </div>
+    </div>
+</div>
+    </div>
+
+    <div> 
+        <div style="width: 50%;float: left;"> 
+        </div>
+        <div style="width: 50%;float: right;"> 
+        </div>
+    </div>  
+    <!-- END of TASK1 -->
+
+    <div id='sectask2' style='display: none;'>
+        <div id = 'instructions2_page' class="container" style="text-align:left;">
+                <div class="row">
+                    <div class="col-xs-12 col-md-12">
+                        <div class="panel panel-primary">
+                            <div class="panel-body" id="instructionBody2">
+                                <div id='task2_motivation'>
+                                    <h1><strong>Welcome to Part 2!</strong></h2>
+                                    <p> We now want you to help us better understand <strong>why</strong> you linked the associations in Part 1 with their respective cues.</p>
+
+                                    <p><strong>Instructions</strong></p>
+                                        We will show some of the cue-association pairs you produced in Part 1. Your task is to write a short sentence that <strong>explains why</strong> you linked the association to the cue words.<br>
+                                    <p>Your explanation must meet the following criteria:<br> 
+                                        <ol>
+                                            <li>Your explanation must <strong>include both the cue and the association word.</strong> You may use different word forms (e.g., plural “seed” → “seeds”) to make your sentence grammatical.</li> 
+                                            <li>Your explanation must be between <strong>5 and 20 words</strong> long. It should usually be <strong>a single sentence</strong>.</li>
+                                        </ol>
+                                    </p>
+                                </div>
+
+                                <div id="task2_instruction" style='display: block; '>
+                                    <p><strong>Examples</strong><br>
+                                    Below, we list example explanations for different associations to the cues “watermelon” and “run”. </p>
+                                    <div style="text-align: center;">
+                                        <table class="example_table_task1" style="margin-top: 20pt;">
+                                            <tbody>
+                                            </tbody>
+                                            <colgroup>
+                                                <col class="col-xs-4 col-md-4" />
+                                                <col class="col-xs-4 col-md-4" />
+                                                <col class="col-xs-4 col-md-4" />
+                                            </colgroup>
+                                            <tbody>
+                                            <tr>
+                                                <th>Cue</th>
+                                                <th >Association</th>
+                                                <th >Explanation</th>
+                                            </tr>
+                                            <tr>
+                                                <td>watermelon</td>
+                                                <td>green</td>
+                                                <td>Watermelons have a green skin.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>run</td>
+                                                <td>morning</td>
+                                                <td>I usually go for a run in the morning.</td>
+                                            </tr>
+                                            <tr>
+                                                <td>run</td>
+                                                <td>fast</td>
+                                                <td>Running means moving fast.</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <p>
+                                        Note that this is just one example, and some associations might be personal, based on your experiences.
+                                    </p>
+                                    <crowd-checkbox id='ins2_check'  name='checkbox' class='checkBox'> I certify that the I read the instruction and understand the task. </crowd-checkbox><br>
+                                    <!-- <div class="container" style="margin-top: 5%; margin-bottom:5%;text-align: center; width:80%;margin-right: 50%;" > <crowd-button style='margin-bottom: 10%;' onclick="initialize_task2_pane('ins2_check', 'instructionBody2', 'task2_work_pane','task2_instruction_head','task2_side')">Continue</crowd-button> </div> -->
+                                    <div class="container" style="margin-top: 5%; margin-bottom:5%;text-align: center; width:80%;margin-right: 50%;" > <crowd-button style='margin-bottom: 10%;' onclick="initialize_task2_pane('ins2_check', 'instructionBody2', 'task2_work_pane','task2_instruction_head')">Continue</crowd-button> </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+        </div>
+        <!-- End instructions --><!-- Categorization Layout --> 
+
+        <div id='task2_work_pane' class='task2_work_pane' style='display:none; margin-left: 5%; margin-right: 5%;'>
+            <div id='task2_instruction_head' style='margin-left: 5%; margin-right: 5%; display:none' >
+                <p><strong>Instructions:</strong></p>
+                <p>Below, we show a cue-association pair you produced in Part 1. <strong><i>Please write a short sentence that explains the link you wished to assign to the association in relation to the cue word.</i></strong><br>
+                    Your explanation must meet the following criteria:<br> 
+                    <ol>
+                        <li>Your explanation must <strong>include cue and association words.</strong> You may use different word forms (e.g., plural “seed” → “seeds”) to make your sentence grammatical.</li> 
+                        <li>Your explanation must be between <strong>5 and 20 words</strong> long. It should usually be <strong>a single sentence</strong>.</li>
+                    </ol>
+                </p>
+                <p>
+                <strong>Some hints</strong> <br> 
+                 <p>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p>
+                </p>
+            </div>
+
+            <div id="task2_pane" style="text-align: center; margin-top: 5%;margin-left: 3%; margin-right: 1%;">
+                <!-- <div id='task2_side' class='task2_side' style='display: none;'>
+                       <ul>
+                           <li> Cue </li>
+                           <li> Association </li>
+                           <li> Explanation </li>
+                       </ul>
+                </div> -->
+                <div class='task2_body' style='font-size: large;'>
+                    <div id="e11" name='cue1' style='display:none;'>
+                        <div id='e111' style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue1}</h3></div></div>
+                        <div id='e112' style="display: flex;">
+                            <div class='task2body_header' id='e1121'><h3>Association</h3></div>
+                            <div class='task2body_content' id='e1122'><input id="re11" name="re11" class='association' type="text"></input> </div> </div>
+                        <div id='e113'>
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class='task2body_content'><crowd-input id="e11_input" name="e11" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" class='explanation'></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e11_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.<br> </crowd-checkbox><br> -->
+                        <!-- <div class='reminder'><p>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p></div> -->
+                        <crowd-button id='en11' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e12" name='cue1' style='display:none;'>
+                        <div id='e121' style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue1}</h3> </div>
+                        </div>
+                        <div id='e122' style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div> 
+                            <div class='task2body_content'><input id="re12" name="re12" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e123' style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class='task2body_content'><crowd-input id="e12_input" name="e12" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)"/></crowd-input></div>
+                        </div>
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <!-- <crowd-checkbox id = "e12_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <crowd-button id='en12' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e21" name='cue2' style='display:none;'>
+                        <div id='e211' style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue2}</h3></div>
+                        </div>
+                        <div id = 'e212' style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div> 
+                            <div class='task2body_content'><input id="re21" name="re21" class='association' type="text" ></input></div>
+                        </div>
+                        <div id = 'e213' style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class='task2body_content'><crowd-input id="e21_input" name="e21" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" class='explanation'></crowd-input></div>
+                        </div>
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <!-- <crowd-checkbox id = "e21_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.<br> </crowd-checkbox><br> -->
+                        <crowd-button id='en21' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e22" name='cue2' style='display:none;'>
+                        <div id = 'e221'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue2} </h3></div>
+                        </div>
+                        <div id='e222'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div> 
+                            <div class='task2body_content'><input id="re22" name="re22" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e223'  style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class='task2body_content'><crowd-input id="e22_input" name="e22" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)"/></crowd-input></div>
+                        </div>
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <!-- <crowd-checkbox id = "e22_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <crowd-button id='en22' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e31" name='cue3' style='display:none;'>
+                        <div id='e311'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue3}</h3></div>
+                        </div>
+                        <div id='e312'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div> 
+                            <div class="task2body_content"><input id="re31" name="re31" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e313'  style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"> <crowd-input id="e31_input" name="e31" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" class='explanation'></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e31_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.<br> </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en31' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e32" name='cue3' style='display:none;'>
+                        <div id='e321'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3> ${cue3} </h3></div>
+                        </div>
+                        <div id='e322'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div>
+                            <div class='task2body_content'><input id="re32" name="re32" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e323'  style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"><crowd-input id="e32_input" name="e32" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)"/></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e32_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en32' onclick="next_task2( this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e41" name='cue4' style='display:none;'>
+                        <div id='e411'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue4} </h3></div>
+                        </div>
+                        <div id='e412'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div>
+                            <div class='task2body_content'><input id="re41" name="re41" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e413'  style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"> <crowd-input id="e41_input" name="e41" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" class='explanation'></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e41_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en41' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e42" name='cue4' style='display:none;'>
+                        <div id='e421'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue4} </h3></div>
+                        </div>
+                        <div id='e422'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div>
+                            <div class='task2body_content'><input id="re42" name="re42" class='association' type="text" ></input></div>
+                        </div>
+                        <div id='e423'  style="display: flex;">
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"> <crowd-input id="e42_input" name="e42" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" class='explanation'></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e42_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en42' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e51" name='cue5' style='display:none;'>
+                        <div id='e511'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue5}</h3></div>
+                        </div>
+                        <div id='e512'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div>
+                            <div class='task2body_content'> <input id="re51" name="re51" class='association'  type="text"></input></div>
+                        </div>
+                        <div id='e513'  style="display: flex;"> 
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"> <crowd-input id="e51_input" name="e51" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" ></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e51_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en51' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+
+                    <div id="e52" name='cue5' style='display:none;'>
+                        <div id='e521'  style="display: flex;">
+                            <div class='task2body_header'><h3>Cue</h3></div>
+                            <div class='task2body_content'><h3>${cue5}</h3></div>
+                        </div>
+                        <div id='e522'  style="display: flex;">
+                            <div class='task2body_header'><h3>Association</h3></div>
+                            <div class='task2body_content'><input id="re52" name="re52" class='association'  type="text"></input></div>
+                        </div>
+                        <div id='e523' style="display: flex;"> 
+                            <div class='task2body_header'><h3>Explanation</h3></div>
+                            <div class="task2body_content"><crowd-input id="e52_input" name="e52" class='explain' autofocus placeholder="Write a short sentence that explains the link you wished to assign to the association in relation to the cue word (5 to 20 words, include cue and association)" ></crowd-input></div>
+                        </div>
+                        <!-- <crowd-checkbox id = "e52_check"  name='checkbox' class='checkBox'> Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected. </crowd-checkbox><br> -->
+                        <!-- <p class='reminder'>Remember that the explanation need to include both cue and association, otherwise the submission will not be rejected.</p> -->
+                        <crowd-button id='en52' onclick="next_task2(this.id)" class="task2_next_button">Next</crowd-button> 
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+    <div id='submit_page' style='margin-top: 20pt; display:none;'> 
+        <p> Thanks for your participation!  <br> <br> Please click submit to finish the task!</p>
+        <crowd-button id ='submit' form-action="submit" variant="primary" style='margin-top: 10px;'>Submit</crowd-button>
+    </div> 
+
+</crowd-form>
+</body>
+<!-- Open internal style sheet -->
+<style type="text/css">
+
+/* #collapseTrigger{
+    color:#fff;
+    display: block;
+    text-decoration: none;
+    } */
+
+input[type="text"]
+{
+    /* align-self: center; */
+    text-align: center;
+    border: none;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    font-weight: bold;
+    /* margin-left: 0;
+    margin-right: 0; */
+}
+p{
+    line-height: 1.5;
+}
+.reminder{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    color:lightgray;
+    /* margin-top: 5pt; */
+    /* margin-bottom: 5%; */
+    /* display: flexbox; */
+    float: left;
+}
+#submitButton{
+    white-space: normal;
+}
+#instructionBody{
+    text-align: left;
+    font-size: 18px;
+    /* margin-top: 1%; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#instructionBody2{
+    text-align: left;
+    font-size: 18px;
+    /* margin-top: 1%; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#work_page{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+    display: none; 
+}
+
+/* #instructionBody table{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+} */
+#instructionBody table caption{
+    text-align: center;
+    padding: 0 0 5px 0;
+}
+
+#instructionBody table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80%;
+  border: 1px solid #ddd;
+}
+
+#instructionBody th, td { 
+  text-align: center;
+  padding: 10px;
+ }
+
+
+ #instructionBody2 table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80%;
+  border: 1px solid #ddd;
+}
+
+ #instructionBody2 th, td { 
+  text-align: center;
+  padding: 10px;
+ }
+
+
+#instructionBody table tr:nth-child(even) {
+  background-color: #f2f2f2;
+  /* background-color: #d9e4d5; */
+}
+
+
+#instructionBody2 table tr:nth-child(even) {
+  background-color: #f2f2f2;
+  /* background-color: #d9e4d5; */
+}
+
+
+#Inputs{
+    display: block;
+    margin-top: 10px;
+}
+.content{
+    margin-bottom: 15px;
+}
+.radio:first-of-type{
+    margin-top: -5px;
+}
+.cue{
+    text-align: center;
+    display: none;
+}
+.next_button{
+    width: 50%;
+    align-self: center;
+    text-align: center;
+    margin-top: 7%;
+    float: right;
+    margin-bottom: 8%;
+}
+
+
+.unknown_button{
+    width: 50%;
+    align-self: left;
+    text-align: center;
+    margin-top: 7%;
+    margin-right: 30%;
+    float:left;
+    margin-bottom: 8%;
+}
+
+.task1_pane{
+    width:100%;
+    /* text-align: center; */
+}
+.task1_body{
+    width:50%;
+    align-self: center;
+    margin-left: 20%;
+    margin-top: 5%;
+    /* text-align: center; */
+}
+
+#example_table_task1{
+    text-align: center;
+    width:70%; 
+    /* margin-left:5%;  */
+    /* margin-right:5%; */
+}
+
+.task2_work_pane{
+    width:100%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.task2_pane{
+    width: 100%;
+    text-align: center;
+    float:left;
+    margin-top: 2%;
+    clear:none;
+}
+
+.task2_side{
+    width: 10%;
+    float: left;
+    display: none;
+    margin-left: 1%;
+    margin-right: 5%;
+}
+
+.task2body_header{
+    height: 5%;
+    width: 5%;
+    float: left;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    /* margin-left: 2%; */
+}
+.task2body_content{
+    height: 5%;
+    width: 90%;
+    float: right;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    height: 3pt;
+    margin-left: 5%;
+}
+
+.task2_next_button{
+    width: 90%;
+    float: right;
+    /* align-self: center; */
+    text-align: center;
+    margin-top: 2%;
+    /* float: center; */
+    margin-bottom: 5%;
+    margin-left: 5%;
+}
+
+.task2_side>ul>li{
+    margin-top: 5%;
+    list-style-type: none;
+    margin-left: 1%;
+    margin-bottom: 60%;
+}
+
+.task2_body{
+    width:95%;
+    /* margin-left: 20%; */
+    /* margin-right: 5%; */
+    float:left;
+    font-size: large;
+}
+.task2_body>ul>li{
+    /* margin-top: 15pt; */
+    list-style-type: none;
+    /* margin-left: 1%; */
+}
+
+table.table_task2{
+    width:90%;
+    /* margin-left: 2%; */
+    margin-right: 2%;
+    padding: 1px;
+    border-spacing:0; 
+}
+
+.checkbox{
+    margin-top:3%; 
+    margin-bottom: 2%;
+    /* margin-bottom: 20pt; */
+    /* margin-left: 1%; */
+ }  
+
+.response{
+    font-size:1.17em;
+    font-weight: bolder;
+}
+#submit_page{
+    width: 100%;
+    margin-top: 60%;
+    margin-left: 5%;
+    margin-right: 20%;
+    text-align: center;
+    align-self: center;
+}
+
+
+
+body {font-family: Arial, Helvetica, sans-serif;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+</style>
+
+<!-- Close internal style sheet --><!-- External JS references -->
+<!-- <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script> -->
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script> -->
+
+<script>
+// $(document).ready(function() {
+//     // Instructions expand/collapse
+//     // var content = $('#instructionBody');
+//     // var trigger = $('#collapseTrigger');
+//     // // content.hide();
+//     // $('.collapse-text').text('(Click to expand)');
+//     // trigger.click(function(){
+//     //     content.toggle();
+//     //     var isVisible = content.is(':visible');
+//     //     if(isVisible){
+//     //         $('.collapse-text').text('(Click to collapse)');
+//     //          }
+//     //     else{
+//     //         $('.collapse-text').text('(Click to expand)');
+//     //     }
+//     // });
+//     // end expand/collapse
+
+// });
+
+// {/* <script> */}
+    var unknown_cues = [];
+    var known_cues = [];
+    var validCueResponse= {};
+    const MIN_NUM_RESPONSE=2;
+    var unvisited_known_cues = [];
+
+    // var cueDict={
+    //     // 'cue1':'${cue1}',
+    //     // 'cue2':'${cue2}',
+    //     // 'cue3':'${cue3}',
+    //     // 'cue4':'${cue4}',
+    //     // 'cue5':'${cue5}',
+    // }
+    // var cueSynonyms = {
+    //     // ${cue1Synonyms},
+    //     // ${cue2Synonyms},
+    //     // ${cue3Synonyms},
+    //     // ${cue4Synonyms},
+    //     // ${cue5Synonyms},
+    // };
+    var cueDict={};
+    var cueSynonyms={};
+
+    function initialize_task1_pane(check_id, block_id, display_id1, display_id2, display_id3){
+        var check_click = document.getElementById(check_id);
+        if (check_click.checked == true){
+
+            flip_display(block_id);
+            flip_display(display_id1);
+            flip_display(display_id2);
+            flip_display(display_id3);
+            document.getElementsByClassName('association')[0].focus();
+            disableAlert();
+        }
+        else{
+            triggerAlert(check_click, 'checkbox', 'Please read instructions carefully and tick check box!');
+        }
+    }
+
+    function next_task1(id) {
+        if (check_unknown_and_response(id) == true){
+           initialize_next_task1();
+        }
+    };
+
+    function check_unknown_and_response(id){
+        let parent = document.getElementById(id).parentElement;
+        let grandparent = document.getElementById(parent.id).parentElement;
+        let grandgrandparent = document.getElementById(grandparent.id).parentElement; 
+
+        let grandgrandparentName = grandgrandparent.getAttribute('name');
+        // alert("parent " + parent.id);
+        // alert("grandgrandparent" + grandgrandparent);
+        // alert("grandgrandparentName" + grandgrandparentName);
+        if (document.getElementById(id).className =='unknown_button'){
+            unknown_cues.push(grandgrandparentName);
+            disableAlert();
+            return true;
+        }
+        else if (checkNumResponses(grandgrandparent.id, grandgrandparentName, MIN_NUM_RESPONSE) == true){
+            known_cues.push(grandgrandparentName);
+            return true;
+        }
+    }
+
+    function initialize_next_task1(){
+        var qElems = document.querySelectorAll('#task1_cues>div');
+            for (var i = 0; i < qElems.length; i++) {
+                if (qElems[i].style.display != 'none') {
+                    qElems[i].style.display = 'none';
+                    qElems[i + 1].style.display = 'block';
+                    qElems[i+1].getElementsByClassName('association')[0].focus();
+                    // document.getElementsByClassName('first_association')[i+1].focus();
+                    break;
+                }
+            } 
+    }
+
+    function initialize_task2_pane(check_id, block_id, id1, id2){
+        var check_click = document.getElementById(check_id);
+        if (check_click.checked == true){
+            flip_display(block_id);
+            flip_display(id1);
+        // flip_display(id3);
+            flip_display(id2);
+
+            fillKnownWordsResponses();
+            setUnVisitedCues(known_cues);
+            initialize_next_task2();
+        }
+        else{
+            triggerAlert(check_click, 'checkbox', 'Please read instructions carefully and tick checkbox!' );
+        }
+    }
+
+    function setUnVisitedCues(known_cues){
+        for (let i=0;i<known_cues.length;++i) {
+            cueNodes = getEIDyCue(known_cues[i]);
+            for (let j=1; j<cueNodes.length; ++j){
+                unvisited_known_cues.push(cueNodes[j].id);
+                unvisited_known_cues = shuffle(unvisited_known_cues)
+            }
+        }
+        
+        unvisited_known_cues = shuffle(unvisited_known_cues)
+
+    }
+
+    function getEIDyCue(cueName){
+        let cueNodes = document.getElementsByName(cueName);
+        return cueNodes; 
+    } 
+
+
+/*  Begin check task1*/
+    function checkNumResponses(id, name, min_num=2){
+        /*
+        1. check content 
+        2. if any null response, alert and return false 
+        3. else: disableAlert() and return true
+        */
+        var validChild = getValidResponse(id);
+        if (validChild.length < min_num){
+            triggerAlert(validChild, 'input', "There's an association missing...")
+            return false;
+        }else{
+            disableAlert();
+            validCueResponse[name] = validChild;
+            return true;
+        }
+    }
+
+    function getValidResponse(id){
+        /* 
+        1. get a valid response list of each cue 
+        */ 
+        var childNodes = document.querySelectorAll('#'+id+'>crowd-input');
+        validChild = []
+        for (i=0; i< childNodes.length; ++i){
+            if (checkValidResponse(childNodes[i].value) == true){
+                validChild.push(childNodes[i].value);
+            }
+        }
+        return validChild;
+
+    }
+
+    function checkValidResponse(responseString){
+        responseString = (responseString.trim) ? responseString.trim() : responseString.replace(/^\s+/,'');
+        if (responseString == ''){
+            return false;
+        }else{
+            return true;
+        }
+    }
+/*  End check task1*/
+
+
+    function switch_to_task2(thisid, block_id, display_id){
+        /* 
+        1. collapse task1:
+            (a) instruction page 
+            (b) cue, response page
+        2. initialize Task2 instruction   
+            (a) display Task2 instruction page, cue
+            (b) initialize the first explanation page of Task2       
+        */
+        
+        if (check_unknown_and_response(thisid) == true){
+            if (!known_cues.length){  // if all words are unknown, click submit.
+                var cueId = document.getElementById(thisid).parentElement.id;
+                flip_display(cueId);
+                flip_display('task1_instruction_head');
+                flip_display('submit_task1');
+                // submit_task([cueId, 'task1_instruction_head', 'submit_task1']);
+            }
+            else{
+                flip_display(block_id);
+                flip_display(display_id);
+            }
+        }
+    };
+   
+    function next_task2(clickId){
+        /*
+        1. get parent div of clickId
+        2. get the cue, response and explanation in current block
+        3. content check: (a) sentence length; (b) checkbox. 
+        4. initialize next page with response
+
+        Params: 
+            clickId: the id of next button
+            fill: fill response on the next page if true
+        */
+
+        var parent = document.getElementById(clickId).parentElement;
+        eElems = getEIdElems(parent.id);
+
+        // check explanation token length
+        var length = check_word_num(eElems.explanation.id);
+
+        if (length === true){
+                disableAlert();
+                flip_display(parent.id);
+
+                if (!unvisited_known_cues.length){ // check last page
+                    submit_task(['task2_instruction_head',  'submit_page']); 
+                }else{
+                    initialize_next_task2();
+                }
+        }else if (length === false ){
+            showAlert("The explanation sentence should contain 5 to 20 words.");
+        } 
+        // else if (length == true){
+        //     showAlert("Please check cue and response are in the sentence and click the checkbox.");
+        // }
+    }
+    
+    function initialize_next_task2(){
+        eid = unvisited_known_cues.shift();
+        // alert("flip:"+ eid);
+        flip_display(eid);
+        getEIdElems(eid).explanation.focus();
+    }
+
+    function submit_task(ids){
+        for (let i=0;i<ids.length;++i){
+            flip_display(ids[i]);
+        }
+    }
+
+    // ##################
+    // Auxiliary Functions 
+    // ##################
+    function flip_display(id){
+        // switch the display status to the reverse of of an element
+        var x = document.getElementById(id);
+        if (x.style.display === 'none') {
+            x.style.display = 'block';
+        } else {
+            x.style.display = 'none';
+        }
+    }
+    
+    function collapse(id){
+        var x = document.getElementById(id);
+        if (x.style.display === 'none') {
+            x.style.display = 'block';
+        } else {
+            x.style.display = 'collapse';
+        }
+    }
+    
+    function auto_fill_response(source, target) {
+        // fill the value of target id with the value of source id
+        var response = document.getElementById(source);
+        document.getElementById(target).value = response.value;
+      }
+
+
+    function check_word_num(id, debug=false){
+        // check the string length (1) tokenization (2) check length
+    
+        var x = document.getElementById(id); 
+        x_value = normalizeString(x.value);
+
+        // var words_list  = x.value.split(' '); 
+        // var words_list = x.value.split(/[ ,.]+/); 
+        var words_list = x_value.split(/[ ,.]+/); 
+    
+        if (debug==true){
+            alert("normalized:"+ x+ "Tokenised words: " + words_list + "length: " + words_list.length);
+        }
+    
+        var num_words = words_list.length;
+        const min_len = 5;
+        const max_len = 20;
+    
+        if(num_words<min_len){
+            //too many words
+            showAlert("Too short explanations, please include at least 5 words.");
+            return false;
+        } 
+        else if (num_words>max_len){
+            showAlert("Too long explanations, please include up to 20 words."); 
+            return false;
+        }
+        else{
+            return true;
+        };
+    }
+
+    function getEIdElems(eid){
+        /*
+        get the elements inside 'eij' module
+        */
+        let cue = document.querySelectorAll('#'+eid+'>div>h3')[1];
+        // let response = document.querySelectorAll('#'+eid+'>crowd-input')[0];
+        let response = document.querySelectorAll('#'+eid+'>div>div>input')[0];
+        let explanation = document.querySelectorAll('#'+eid+'>div>div>crowd-input')[0];
+        // let click = document.querySelectorAll('#'+eid+'>crowd-checkbox')[0];
+        return {
+            cue, response, explanation 
+        }
+    }
+    
+
+    function triggerAlert(check_click, type, error_message){
+        showAlert(error_message);
+        // add addEventListener: remove alert when box is clicked
+        switch(type){
+            case 'checkbox':  
+                check_click.addEventListener('change', (event) => {
+                    if (check_click.checked){
+                        disableAlert();
+                    };
+                });
+                break;
+            // case 'input':
+            //     check_click.addEventListener('input', (event) => {
+            //         // alert("I'm here");
+            //     if(checkValidResponse(check_click) == true)
+            //         disableAlert();
+            //     } );
+        }
+    }
+    function disableAlert(){
+        errorBox.innerHTML = '';
+    }
+    function showAlert(error_message){
+        errorBox.innerHTML = '<crowd-alert type="error" dismissible>'+error_message+'</crowd-alert>';
+        errorBox.scrollIntoView();
+    }
+
+
+    /* Begin check synonyms  */
+    function fillKnownWordsResponses(){
+        for (let i = 0; i < known_cues.length; ++i) {
+            auto_fill_sampled_response(known_cues[i]);
+        }
+    }
+
+    function auto_fill_sampled_response(cueName){
+         
+        let cueElem = document.getElementsByName(cueName);
+        var sourceElem = cueElem[0];
+        var responses = validCueResponse[sourceElem.getAttribute('name')];
+
+        var syn = getSynonyms(sourceElem.getAttribute('name'));
+        var sample = sampleResponse(responses, syn);
+        let j=0;
+        for (let i=1; i<cueElem.length; ++i){
+            // the first crowd-input in target div is the placeholder for response to be filled
+            // var targetElem = document.querySelectorAll("#"+cueElem[i].id+">input")[0];
+            // var targetElem = document.querySelectorAll("#"+cueElem[i].id+">div>div>input")[1];
+            // alert("cueElem[i].id: " + cueElem[i].id);
+            var targetElem = document.querySelectorAll("#"+cueElem[i].id+">div>div>input")[0];
+            // alert("targetElem " + targetElem);
+            // alert(" id:" + targetElem.id);
+
+            var target = document.getElementById(targetElem.id);
+
+            if (typeof target.value !=undefined ){
+                target.value = sample[j];
+            }
+            target.innerHTML = sample[j];
+
+            // assignResponse(sample[j], targetElem);
+            j +=1;
+        }
+    }
+
+
+    function assignResponse(source, target){
+        /*
+        source : a string
+        target : a DOM 
+        */
+       if (typeof target.value !=undefined ){
+            target.value = source;
+        }
+        target.innerHTML = source;
+    }
+
+    function getSynonyms(cueName){
+         // Get 
+        inputElem = cueDict[cueName]; 
+        inputSyn = cueSynonyms[String(inputElem)];
+        return inputSyn;
+    }
+
+    function normalizeString(string){
+        // dump non-words
+        // string = string.replace(/[^\w]/g, ' ');
+
+        string = string.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g,"")
+
+        // showAlert(string);
+        // dump multiple white-space
+        string = string.replace(/\s+/g, ' ');
+        string = string.trim();  //211028, remember to strip white-spaces at the end and the beginning
+        string = string.toLowerCase();
+        return string;
+
+    }
+    
+   
+// 
+// helper functions: 
+/* Begin of sample task1*/ 
+
+    function sampleResponse(responses, syn){
+
+        var sample = [] ; 
+        let num_responses = responses.length;
+
+        // no synonyms for cue, or only two responses
+        if (typeof syn=='undefined' || num_responses == 2 ){
+            sample = getRandom(responses, 2);
+            return sample;
+        }
+        else{
+            var in_both = intersection(responses, syn);
+            var in_first = difference(responses, syn);
+            var expr = in_both.length; 
+
+            if (num_responses == 3){
+                switch (expr) {    
+                    case 0:
+                    case 1:
+                        sample = getRandom(in_first, 2);
+                        console.log('sample two from worker\'s responses');
+                    case 2:
+                        sample = in_first.concat(getRandom(in_both, 1));
+                        console.log('sample 1 from worker\'s responses');
+                        break;
+                    case 3:
+                        sample = getRandom(in_both, 2);
+                        console.log('sample 2 from synonyms');
+                        break;
+                } 
+            }
+            else if (num_responses ==4){
+                switch (expr) {    
+                case 0:
+                case 1:
+                case 2:
+                    sample = getRandom(in_first, 2);
+                    console.log('sample two from worker\'s responses');
+                    break;
+                case 3:
+                    sample = in_first.concat(getRandom(in_both, 1));
+                    console.log('sample 1 from synonyms and 1 from response');
+                    break;
+                case 4:
+                    sample = getRandom(in_both, 2);
+                    console.log('sample 2 from synonyms');
+                    break;
+                }
+            }
+        }
+
+        return sample;
+    }
+  
+/* END check synonyms  */
+
+
+    /* check stem */
+    
+    function check_stem(id1, id2, id3){
+        // check whether id3 includes id1 and id2
+        // id1: cue
+        // id2: response
+        // id3: explanation 
+    
+        var exist_cue = is_subset(id1, id3);
+        alert("check stem: " + exist_cue + " " + id2);
+    
+        var exist_response = is_subset(id2, id3);
+        alert("check stem: " + exist_cue + " " + exist_response);
+    
+        if (exist_cue == false || exist_response == false){
+            alert("Please include both cue and response in the explanation");
+        } else{
+            return true;
+        }
+    }
+    /* check stem */
+    
+    // <!-- // END of script -->
+   
+
+    function is_subset(source, target){
+      // source1, source2, target are input ids 
+      // return a boolean value indicating whether target include source
+  
+      var source_stem = stem(source);
+      var target_stem = stem(target);
+  
+      var include = target_stem.includes(source_stem);
+  
+      if (include == false){
+          alert("The explanation doesn't include "  + source_stem +"\nPlease include it.");
+          return false;
+      }else{
+          return true;
+      }
+  }
+  
+  
+  function stem(id){
+      // return a list of stemmed words 
+      var  wordlist,
+          ix,
+          word,
+          stem,
+          overlap = [],
+          stemmed = [],
+          text = document.getElementById(id).value;
+  
+      if (typeof text === 'undefined'){
+          text = document.getElementById(id).innerHTML;
+      }
+      
+      text = normalizeString(text);
+      alert(" stemmed text: " + text);
+      
+      // split
+      wordlist = text.split(' ');
+  
+      for(ix in wordlist) {
+          stem = stemmer(wordlist[ix]);
+          stemmed.push(stem);
+      }
+  
+      return stemmed.join(' ');
+  }
+  
+
+
+  function intersection(arrA, arrB){
+      let intersection = arrA.filter(x => arrB.includes(x));
+      return intersection;
+  }
+  
+  function difference(arrA, arrB){
+      let difference = arrA.filter(x => !arrB.includes(x));
+        return difference;
+  }
+  
+  function getRandom(array, n){
+      /*
+      sample N elements from source (list?set?) 
+  
+      demo: 
+      n=2;
+      var array = Array.from(["Bannana", "Apple", "Orange"]);
+      var shuffled = array.sort(function(){return .5 - Math.random()});
+      
+      var selected=shuffled.slice(0,n);
+      $('#out').html(selected.toString());
+      https://stackoverflow.com/questions/19269545/how-to-get-a-number-of-random-elements-from-an-array
+      */
+  
+      var array = Array.from(array);
+      var selected = array.sort(() => 0.5 - Math.random()).slice(0,n);
+  
+      // an alternative  
+      // var shuffled = array.sort(function(){return .5 - Math.random()});
+      // var selected=shuffled.slice(0,n);
+      return selected;
+  }
+  
+function shuffle(array) {
+  let currentIndex = array.length,  randomIndex;
+
+  // While there remain elements to shuffle...
+  while (currentIndex != 0) {
+
+    // Pick a remaining element...
+    randomIndex = Math.floor(Math.random() * currentIndex);
+    currentIndex--;
+
+    // And swap it with the current element.
+    [array[currentIndex], array[randomIndex]] = [
+      array[randomIndex], array[currentIndex]];
+  }
+
+  return array;
+}
+
+
+//   shortcuts 
+function focusNextInput(thisInput){
+    var inputs = document.getElementsByClassName("association");
+    for (let i=0; i< inputs.length; ++i){
+        if (thisInput == inputs[i]){
+            inputs[i+1].focus();
+            break;
+        }
+    }
+}
+
+
+function collapseConsentForm(){
+    var updateButton = document.getElementById('btnConsentForm');
+    var favDialog = document.getElementById('favDialog');
+    var outputBox = document.querySelector('output');
+    var confirmBtn = document.getElementById('confirmBtn');
+    
+    // "Update details" button opens the <dialog> modally
+    updateButton.addEventListener('click', function onOpen() {
+    if (typeof favDialog.showModal === "function") {
+        favDialog.showModal();
+    } else {
+        alert("The <dialog> API is not supported by this browser");
+    }
+    });
+    // "Confirm" button of form triggers "close" on dialog because of [method="dialog"]
+    // favDialog.addEventListener('close', function onClose() {
+    // outputBox.value = favDialog.returnValue + " button clicked - " + (new Date()).toString();
+    // });
+}
+// function OpenConsentForm(){
+  var modalConsent = document.getElementById("myModal");
+  // Get the button that opens the modal
+  var btn = document.getElementById("myBtn");
+  // Get the <span> element that closes the modal
+  var spanConsent = document.getElementsByClassName("close")[1];
+  // When the user clicks the button, open the modal 
+  btn.onclick = function() {
+    modalConsent.style.display = "block";
+  }
+  // When the user clicks on <span> (x), close the modal
+  spanConsent.onclick = function() {
+    modalConsent.style.display = "none";
+  }
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modalConsent) {
+      modalConsent.style.display = "none";
+    }
+  }
+
+  var modal = document.getElementById("myModalPsl");
+  // Get the button that opens the modal
+  var btnpsl = document.getElementById("myBtnPsl");
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  // When the user clicks the button, open the modal 
+  btnpsl.onclick = function() {
+    modal.style.display = "block";
+  }
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+      modal.style.display = "none";
+    }
+  }
+// }
+</script>
+
